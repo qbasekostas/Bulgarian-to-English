@@ -1,66 +1,73 @@
-# translate_epg.py (v3 - with Caching and Robust Error Handling)
+# translate_epg.py (v4 - Resilient Edition with Multiple Endpoints)
 import requests
 import xml.etree.ElementTree as ET
 import time
-import json # Χρησιμοποιείται για να ελέγξουμε το JSON error
+import json
 
 # --- Configuration ---
 SOURCE_URL = "https://iptv-epg.org/files/epg-bg.xml"
 OUTPUT_FILE = "epg-en.xml"
-# Αλλάζουμε σε ένα άλλο δημόσιο instance για δοκιμή, μπορεί να είναι λιγότερο φορτωμένο
-TRANSLATE_API_URL = "https://translate.argosopentech.com/translate"
+
+# --- List of Public LibreTranslate Servers ---
+# Το script θα τα δοκιμάσει με τη σειρά μέχρι να βρει έναν που λειτουργεί.
+API_ENDPOINTS = [
+    "https://libretranslate.de/translate",
+    "https://translate.astian.org/translate",
+    "https://translation.pirate-party.ch/translate",
+    "https://trans.zillyhuhn.com/translate",
+]
 
 # --- Caching Dictionary ---
-# Η "μνήμη" του script. Θα αποθηκεύει τις μεταφράσεις που ήδη έχει κάνει.
 translation_cache = {}
 api_calls_made = 0
 
 # --- Functions ---
 def translate_text(text, target_lang='en', source_lang='bg'):
     """
-    Στέλνει κείμενο στο API για μετάφραση, χρησιμοποιώντας πρώτα το cache.
+    Προσπαθεί να μεταφράσει κείμενο δοκιμάζοντας μια λίστα από API endpoints.
+    Χρησιμοποιεί cache για να αποφύγει διπλές κλήσεις.
     """
     global api_calls_made
     if not text or not text.strip():
         return text
 
-    # 1. Έλεγχος αν η μετάφραση υπάρχει ήδη στο cache
     if text in translation_cache:
         return translation_cache[text]
 
-    # Αν δεν υπάρχει, κάνουμε την κλήση στο API
-    try:
-        payload = {'q': text, 'source': source_lang, 'target': target_lang}
-        
-        # Κάνουμε την κλήση στο API
-        response = requests.post(TRANSLATE_API_URL, json=payload, timeout=10)
-        api_calls_made += 1
+    payload = {'q': text, 'source': source_lang, 'target': target_lang}
 
-        # 2. Καλύτερος έλεγχος σφαλμάτων
-        # Ελέγχουμε αν η απάντηση ήταν επιτυχής (status code 200)
-        if response.status_code != 200:
-            print(f"Error: API returned status code {response.status_code} for text: '{text[:30]}...'. Response: {response.text}")
-            return text # Επιστρέφουμε το αρχικό κείμενο
+    # Κάνουμε loop σε κάθε διαθέσιμο server
+    for endpoint in API_ENDPOINTS:
+        try:
+            # Κάνουμε την κλήση στο API
+            response = requests.post(endpoint, json=payload, timeout=15)
+            api_calls_made += 1
 
-        # Προσπαθούμε να πάρουμε το JSON. Αν αποτύχει, το πιάνουμε.
-        translated_text = response.json().get('translatedText', text)
-        
-        print(f"API Call #{api_calls_made}: Translated '{text[:30]}...' to '{translated_text[:30]}...'")
+            # Αν ο server απαντήσει με σφάλμα (π.χ. rate limit), δοκιμάζουμε τον επόμενο
+            if response.status_code != 200:
+                print(f"Endpoint {endpoint} returned status {response.status_code}. Trying next...")
+                continue # Πάμε στον επόμενο server της λίστας
 
-        # 3. Αποθηκεύουμε τη νέα μετάφραση στο cache
-        translation_cache[text] = translated_text
-        
-        return translated_text
+            translated_text = response.json().get('translatedText', text)
+            
+            print(f"Success on {endpoint.split('/')[2]}! API Call #{api_calls_made}: Translated '{text[:30]}...'")
+            
+            translation_cache[text] = translated_text
+            return translated_text
 
-    except requests.exceptions.RequestException as e:
-        print(f"Network error translating text: {text}. Error: {e}")
-        return text
-    except json.JSONDecodeError:
-        # Αυτό είναι το σφάλμα που είχες! Τώρα το τυπώνουμε όμορφα.
-        print(f"JSON Decode Error: The server did not return valid JSON. Response: {response.text}")
-        return text
+        except requests.exceptions.RequestException as e:
+            # Αν υπάρχει σφάλμα δικτύου (DNS, timeout κλπ), δοκιμάζουμε τον επόμενο
+            print(f"Endpoint {endpoint} failed: {e}. Trying next...")
+            continue # Πάμε στον επόμενο server της λίστας
+        except json.JSONDecodeError:
+            print(f"Endpoint {endpoint} did not return valid JSON. Trying next...")
+            continue
 
-# --- Main Logic ---
+    # Αν κανένας server από τη λίστα δεν λειτούργησε, επιστρέφουμε το αρχικό κείμενο
+    print(f"Warning: All API endpoints failed for text: '{text[:30]}...'. Returning original text.")
+    return text
+
+# --- Main Logic ( παραμένει το ίδιο ) ---
 def main():
     print(f"Downloading EPG from {SOURCE_URL}...")
     try:
@@ -80,8 +87,7 @@ def main():
     print(f"Found {total_programmes} programmes to process.")
 
     for i, prog in enumerate(programmes):
-        # 3. Αυξάνουμε λίγο την καθυστέρηση για ασφάλεια
-        time.sleep(0.2) # Μικρότερη καθυστέρηση τώρα, αφού θα κάνουμε λιγότερες κλήσεις
+        time.sleep(0.3) # Αφήνουμε μια μικρή καθυστέρηση για να είμαστε ευγενικοί
 
         title_element = prog.find('title')
         desc_element = prog.find('desc')
@@ -93,7 +99,7 @@ def main():
             desc_element.text = translate_text(desc_element.text)
 
         if (i + 1) % 100 == 0:
-            print(f"Processed {i + 1}/{total_programmes} programmes... (API calls made so far: {api_calls_made})")
+            print(f"Processed {i + 1}/{total_programmes} programmes... (API calls made: {api_calls_made})")
 
     print("\n--- Translation Summary ---")
     print(f"Total programmes processed: {total_programmes}")
