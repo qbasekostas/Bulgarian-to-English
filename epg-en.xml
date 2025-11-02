@@ -17,6 +17,30 @@
     <icon src="https://www.xn----8sbafg9clhjcp.bg/tvlogos/diema-sport_large.jpg" />
     <url>http://www.тв-програма.bg</url>
   </channel>
+  <channel id="Max.Sport.1.bg">
+    <display-name lang="bg">Max Sport 1</display-name>
+    <icon src="https://www.xn----8sbafg9clhjcp.bg/tvlogos/max-sport-1_large.jpg" />
+    <icon src="https://www.xn----8sbafg9clhjcp.bg/tvlogos/max-sport-1_large.jpg" />
+    <url>http://www.тв-програма.bg</url>
+  </channel>
+  <channel id="Max.Sport.2.bg">
+    <display-name lang="bg">Max Sport 2</display-name>
+    <icon src="https://www.xn----8sbafg9clhjcp.bg/tvlogos/max-sport-2_large.jpg" />
+    <icon src="https://www.xn----8sbafg9clhjcp.bg/tvlogos/max-sport-2_large.jpg" />
+    <url>http://www.тв-програма.bg</url>
+  </channel>
+  <channel id="Max.Sport.3.bg">
+    <display-name lang="bg">Max Sport 3</display-name>
+    <icon src="https://www.xn----8sbafg9clhjcp.bg/tvlogos/max-sport-3_large.jpg" />
+    <icon src="https://www.xn----8sbafg9clhjcp.bg/tvlogos/max-sport-3_large.jpg" />
+    <url>http://www.тв-програма.bg</url>
+  </channel>
+  <channel id="Max.Sport.4.bg">
+    <display-name lang="bg">Max Sport 4</display-name>
+    <icon src="https://www.xn----8sbafg9clhjcp.bg/tvlogos/max-sport-4_large.jpg" />
+    <icon src="https://www.xn----8sbafg9clhjcp.bg/tvlogos/max-sport-4_large.jpg" />
+    <url>http://www.тв-програма.bg</url>
+  </channel>
   <programme start="20251102001500 +0200" stop="20251102021500 +0200" channel="Diema.Sport.2.bg">
     <title lang="bg">Crystal Palace - Brentford Football: Premier</title>
     <desc lang="bg">league 2025/2026 entry.</desc>
@@ -1226,5 +1250,1302 @@ directed by Gustav Möller
 
 with Sidse Babet Knudsen, Sebastian Bull, Dar Salim.</desc>
     <date>2024</date>
+  </programme>
+  <programme start="20251102013000 +0200" stop="20251102033000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Volleyball - Series A1: Verona - Milan Ver</title>
+    <desc lang="bg">she - Milan.</desc>
+  </programme>
+  <programme start="20251102033000 +0200" stop="20251102040000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Strike with a stick</title>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <credits>
+      <actor>Пол Нюман</actor>
+      <actor>Майкъл Онткийн</actor>
+      <actor>Линдси Крауз</actor>
+      <actor>Дженифър Уорън</actor>
+    </credits>
+    <date>1977</date>
+  </programme>
+  <programme start="20251102040000 +0200" stop="20251102070000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, NHL</title>
+    <desc lang="bg">Edmonton Oilers - Chicago Blackhawks Edmonton Oilers - Chicago Blackhawks.</desc>
+  </programme>
+  <programme start="20251102070000 +0200" stop="20251102074500 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">NFL: Round 8 Overview Round 8 Overview</title>
+  </programme>
+  <programme start="20251102074500 +0200" stop="20251102094500 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Volleyball - efbet Super Volley: CSKA - Mont</title>
+    <desc lang="bg">tana CSKA - Montana.</desc>
+  </programme>
+  <programme start="20251102094500 +0200" stop="20251102120000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Volleyball - efbet Super Volleyball: Levski - P</title>
+    <desc lang="bg">irin Levski - Pirin.</desc>
+  </programme>
+  <programme start="20251102120000 +0200" stop="20251102140000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 1000: Paris First Semi-Final</title>
+  </programme>
+  <programme start="20251102140000 +0200" stop="20251102160000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 1000: Paris Second Semi-Final</title>
+  </programme>
+  <programme start="20251102160000 +0200" stop="20251102183000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 1000</title>
+    <desc lang="bg">Paris Final.</desc>
+  </programme>
+  <programme start="20251102183000 +0200" stop="20251102190000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20251102190000 +0200" stop="20251102210000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, Volleyball</title>
+    <desc lang="bg">Serie A1: Modena - Perugia Modena - Perugia.</desc>
+  </programme>
+  <programme start="20251102210000 +0200" stop="20251102220000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Nascar Cup Series: Race Overview</title>
+    <desc lang="bg">in Virginia Race Overview in Virginia.</desc>
+  </programme>
+  <programme start="20251102220000 +0200" stop="20251103010000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, Nascar Cup Series</title>
+    <desc lang="bg">Racing in Arizona Racing in Arizona.</desc>
+  </programme>
+  <programme start="20251103010000 +0200" stop="20251103021500 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Moto 3: Race for the Grand Prix n</title>
+    <desc lang="bg">and Malaysia Malaysian Grand Prix Race.</desc>
+  </programme>
+  <programme start="20251103021500 +0200" stop="20251103033000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Moto 2: Race for the Grand Prix n</title>
+    <desc lang="bg">and Malaysia Malaysian Grand Prix Race.</desc>
+  </programme>
+  <programme start="20251103033000 +0200" stop="20251103053000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Moto GP: Race for the Grand Prix</title>
+    <desc lang="bg">of Malaysia Malaysian Grand Prix Race.</desc>
+  </programme>
+  <programme start="20251103053000 +0200" stop="20251103073000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Volleyball - Serie A1: Cuneo - Piacenza Ku</title>
+    <desc lang="bg">neo - Piacenza.</desc>
+  </programme>
+  <programme start="20251103073000 +0200" stop="20251103083000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Euroleague: Overview 7 and 8 round Overview 7 and 8 k</title>
+    <desc lang="bg">horn</desc>
+  </programme>
+  <programme start="20251103083000 +0200" stop="20251103103000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Euroleague: Real Madrid - Fenerbahce Real</title>
+    <desc lang="bg">Madrid - Fenerbahce.</desc>
+  </programme>
+  <programme start="20251103103000 +0200" stop="20251103123000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Euroleague: Olympiakos - Apoel Tel Aviv Ol</title>
+    <desc lang="bg">Impiacos - Apoel Tel Aviv.</desc>
+  </programme>
+  <programme start="20251103123000 +0200" stop="20251103150000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 1000: Paris Final</title>
+  </programme>
+  <programme start="20251103150000 +0200" stop="20251103170000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France.</desc>
+  </programme>
+  <programme start="20251103170000 +0200" stop="20251103190000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France.</desc>
+  </programme>
+  <programme start="20251103190000 +0200" stop="20251103200000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Breakpoint</title>
+    <desc lang="bg">Tennis talk show.</desc>
+  </programme>
+  <programme start="20251103200000 +0200" stop="20251103210000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France.</desc>
+  </programme>
+  <programme start="20251103210000 +0200" stop="20251103230000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France.</desc>
+  </programme>
+  <programme start="20251103230000 +0200" stop="20251103233000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Strike with a stick</title>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <credits>
+      <actor>Пол Нюман</actor>
+      <actor>Майкъл Онткийн</actor>
+      <actor>Линдси Крауз</actor>
+      <actor>Дженифър Уорън</actor>
+    </credits>
+    <date>1977</date>
+  </programme>
+  <programme start="20251103233000 +0200" stop="20251104013000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Volleyball - Series A1: Modena - Perugia Mo</title>
+    <desc lang="bg">days - Perugia.</desc>
+  </programme>
+  <programme start="20251104013000 +0200" stop="20251104023000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Breakpoint</title>
+    <desc lang="bg">Tennis talk show.</desc>
+  </programme>
+  <programme start="20251104023000 +0200" stop="20251104053000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, NHL</title>
+    <desc lang="bg">Toronto Maple Leafs - Pittsburgh Penguins Toronto Maple Leafs - Pittsburgh Penguins.</desc>
+  </programme>
+  <programme start="20251104053000 +0200" stop="20251104083000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Nascar Cup Series: Race in Arizona</title>
+    <desc lang="bg">Racing in Arizona.</desc>
+  </programme>
+  <programme start="20251104083000 +0200" stop="20251104090000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20251104090000 +0200" stop="20251104110000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 250: Metz</title>
+    <desc lang="bg">France.</desc>
+  </programme>
+  <programme start="20251104110000 +0200" stop="20251104130000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 250: Metz</title>
+    <desc lang="bg">France.</desc>
+  </programme>
+  <programme start="20251104130000 +0200" stop="20251104150000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 250: Metz</title>
+    <desc lang="bg">France.</desc>
+  </programme>
+  <programme start="20251104150000 +0200" stop="20251104170000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France.</desc>
+  </programme>
+  <programme start="20251104170000 +0200" stop="20251104190000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France.</desc>
+  </programme>
+  <programme start="20251104190000 +0200" stop="20251104211500 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France.</desc>
+  </programme>
+  <programme start="20251104211500 +0200" stop="20251104220000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20251104220000 +0200" stop="20251105000000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, UEFA Champions League</title>
+    <desc lang="bg">Atlético Madrid - Union Saint Gilois Fourth round.</desc>
+  </programme>
+  <programme start="20251105000000 +0200" stop="20251105010000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Strike with a stick</title>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <credits>
+      <actor>Пол Нюман</actor>
+      <actor>Майкъл Онткийн</actor>
+      <actor>Линдси Крауз</actor>
+      <actor>Дженифър Уорън</actor>
+    </credits>
+    <date>1977</date>
+  </programme>
+  <programme start="20251105010000 +0200" stop="20251105020000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Volley zone</title>
+    <desc lang="bg">A talk show.</desc>
+  </programme>
+  <programme start="20251105020000 +0200" stop="20251105050000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, NHL</title>
+    <desc lang="bg">Montreal Canadiens - Philadelphia Flyers Montreal Canadiens - Philadelphia Flyers.</desc>
+  </programme>
+  <programme start="20251105050000 +0200" stop="20251105060000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Breakpoint</title>
+    <desc lang="bg">Tennis talk show.</desc>
+  </programme>
+  <programme start="20251105060000 +0200" stop="20251105080000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Volleyball - Champions League: Osijek - Lewa</title>
+    <desc lang="bg">ki Sofia Osiek - Levski Sofia.</desc>
+  </programme>
+  <programme start="20251105080000 +0200" stop="20251105090000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Volley zone</title>
+    <desc lang="bg">A talk show.</desc>
+  </programme>
+  <programme start="20251105090000 +0200" stop="20251105110000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 250: Metz</title>
+    <desc lang="bg">France.</desc>
+  </programme>
+  <programme start="20251105110000 +0200" stop="20251105130000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 250: Metz</title>
+    <desc lang="bg">France.</desc>
+  </programme>
+  <programme start="20251105130000 +0200" stop="20251105150000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 250: Metz</title>
+    <desc lang="bg">France.</desc>
+  </programme>
+  <programme start="20251105150000 +0200" stop="20251105170000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France.</desc>
+  </programme>
+  <programme start="20251105170000 +0200" stop="20251105190000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France.</desc>
+  </programme>
+  <programme start="20251105190000 +0200" stop="20251105210000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France.</desc>
+  </programme>
+  <programme start="20251105210000 +0200" stop="20251105230000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France.</desc>
+  </programme>
+  <programme start="20251105230000 +0200" stop="20251106010000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Volleyball: CEV Challenge cup</title>
+    <desc lang="bg">women: Levski Sofia - Shezo Levski Sofia - Shezo.</desc>
+  </programme>
+  <programme start="20251106010000 +0200" stop="20251106030000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 250: Metz</title>
+    <desc lang="bg">France.</desc>
+  </programme>
+  <programme start="20251106030000 +0200" stop="20251106050000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 250: Metz</title>
+    <desc lang="bg">France.</desc>
+  </programme>
+  <programme start="20251106050000 +0200" stop="20251106070000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 250: Metz</title>
+    <desc lang="bg">France.</desc>
+  </programme>
+  <programme start="20251106070000 +0200" stop="20251106090000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 250: Metz</title>
+    <desc lang="bg">France.</desc>
+  </programme>
+  <programme start="20251106090000 +0200" stop="20251106150000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">DIRECT, Golf</title>
+    <desc lang="bg">Abu Dhabi HSBC Championship.</desc>
+  </programme>
+  <programme start="20251106150000 +0200" stop="20251106170000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France First quarter-final.</desc>
+  </programme>
+  <programme start="20251106170000 +0200" stop="20251106190000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France Second quarter-final.</desc>
+  </programme>
+  <programme start="20251106190000 +0200" stop="20251106210000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France Third quarter-final.</desc>
+  </programme>
+  <programme start="20251106210000 +0200" stop="20251106230000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France Fourth quarter-final.</desc>
+  </programme>
+  <programme start="20251106230000 +0200" stop="20251107010000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Volleyball</title>
+    <desc lang="bg">Champions League, women: Dinamo Zagreb - Maritsa Plovdiv Dinamo Zagreb - Maritsa Plovdiv.</desc>
+  </programme>
+  <programme start="20251107010000 +0200" stop="20251107030000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Euroleague: Dubai - Apoel Tel Aviv Dubai</title>
+    <desc lang="bg">Apoel Tel Aviv.</desc>
+  </programme>
+  <programme start="20251107030000 +0200" stop="20251107050000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 250: Metz</title>
+    <desc lang="bg">France Second quarter-final.</desc>
+  </programme>
+  <programme start="20251107050000 +0200" stop="20251107070000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 250: Metz</title>
+    <desc lang="bg">France Third quarter-final.</desc>
+  </programme>
+  <programme start="20251107070000 +0200" stop="20251107090000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">ATP 250: Metz</title>
+    <desc lang="bg">France Fourth quarter-final.</desc>
+  </programme>
+  <programme start="20251107090000 +0200" stop="20251107150000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">DIRECT, Golf</title>
+    <desc lang="bg">Abu Dhabi HSBC Championship.</desc>
+  </programme>
+  <programme start="20251107150000 +0200" stop="20251107160000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Volley zone</title>
+    <desc lang="bg">A talk show.</desc>
+  </programme>
+  <programme start="20251107160000 +0200" stop="20251107163000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20251107163000 +0200" stop="20251107183000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France First semi-final.</desc>
+  </programme>
+  <programme start="20251107183000 +0200" stop="20251107190000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20251107190000 +0200" stop="20251107210000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Metz, France Second semi-final.</desc>
+  </programme>
+  <programme start="20251107210000 +0200" stop="20251107211500 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Basketball.</desc>
+  </programme>
+  <programme start="20251107211500 +0200" stop="20251107230500 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, Euroleague</title>
+    <desc lang="bg">Olympiakos - Partizan Olympiakos - Partizan.</desc>
+  </programme>
+  <programme start="20251107230500 +0200" stop="20251107233000 +0200" channel="Max.Sport.1.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Basketball.</desc>
+  </programme>
+  <programme start="20251102010000 +0200" stop="20251102040000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, UFC Fight Night</title>
+    <desc lang="bg">Garcia vs. Onama Stevie Garcia vs. David Onama.</desc>
+  </programme>
+  <programme start="20251102040000 +0200" stop="20251102080000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Nascar Cup Series: Race in Virginia</title>
+    <desc lang="bg">nia Competition in Virginia.</desc>
+  </programme>
+  <programme start="20251102080000 +0200" stop="20251102100000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Volleyball - Serie A1: Cuneo - Piacenza Ku</title>
+    <desc lang="bg">neo - Piacenza.</desc>
+  </programme>
+  <programme start="20251102100000 +0200" stop="20251102103000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">NFL: Round 8 Overview Round 8 Overview</title>
+  </programme>
+  <programme start="20251102103000 +0200" stop="20251102123000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Eurocup: Chemnitz - Ulm Chemnitz - Ulm</title>
+  </programme>
+  <programme start="20251102123000 +0200" stop="20251102130000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Basketball.</desc>
+  </programme>
+  <programme start="20251102130000 +0200" stop="20251102150000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Sesame National Basketball League</title>
+    <desc lang="bg">a: Spartak Pleven - Beroe Spartak Pleven - Beroe.</desc>
+  </programme>
+  <programme start="20251102150000 +0200" stop="20251102151500 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Basketball.</desc>
+  </programme>
+  <programme start="20251102151500 +0200" stop="20251102160000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">NFL: Round 8 Overview Round 8 Overview</title>
+  </programme>
+  <programme start="20251102160000 +0200" stop="20251102170000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Nascar Cup Series: Race Overview</title>
+    <desc lang="bg">in Virginia Race Overview in Virginia.</desc>
+  </programme>
+  <programme start="20251102170000 +0200" stop="20251102180000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Strike with a stick</title>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <credits>
+      <actor>Пол Нюман</actor>
+      <actor>Майкъл Онткийн</actor>
+      <actor>Линдси Крауз</actor>
+      <actor>Дженифър Уорън</actor>
+    </credits>
+    <date>1977</date>
+  </programme>
+  <programme start="20251102180000 +0200" stop="20251102190000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Euroleague: Overview 7 and 8 round Overview 7 and 8 k</title>
+    <desc lang="bg">horn</desc>
+  </programme>
+  <programme start="20251102190000 +0200" stop="20251102200000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">UEFA Europa League and Conference League</title>
+    <desc lang="bg">is" Shop show.</desc>
+  </programme>
+  <programme start="20251102200000 +0200" stop="20251102232000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, NFL</title>
+    <desc lang="bg">Pittsburgh Steelers - Indianapolis Colts Pittsburgh Steelers - Indianapolis Colts.</desc>
+  </programme>
+  <programme start="20251102232000 +0200" stop="20251103023000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, NFL</title>
+    <desc lang="bg">Buffalo Bills - Kansas City Chiefs Buffalo Bills - Kansas City Chiefs.</desc>
+  </programme>
+  <programme start="20251103023000 +0200" stop="20251103043000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Sesame National Basketball League: Spar</title>
+    <desc lang="bg">so Pleven - Beroe Spartak Pleven - Beroe.</desc>
+  </programme>
+  <programme start="20251103043000 +0200" stop="20251103050000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20251103050000 +0200" stop="20251103080000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">UFC Fight Night: Garcia vs. Onama Steve</title>
+    <desc lang="bg">and Garcia v. David Onama.</desc>
+  </programme>
+  <programme start="20251103080000 +0200" stop="20251103120000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Golf: Challenge Tour Grand Final</title>
+  </programme>
+  <programme start="20251103120000 +0200" stop="20251103140000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">NHL: New York Islanders - Columbus Blue Jays</title>
+    <desc lang="bg">akets New York Islanders - Columbus Blue Jackets.</desc>
+  </programme>
+  <programme start="20251103140000 +0200" stop="20251103160000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Athens.</desc>
+  </programme>
+  <programme start="20251103160000 +0200" stop="20251103180000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Athens.</desc>
+  </programme>
+  <programme start="20251103180000 +0200" stop="20251103190000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">DIRECTLY,</title>
+    <desc lang="bg">Zone Volley" Talkshow.</desc>
+  </programme>
+  <programme start="20251103190000 +0200" stop="20251103191500 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Basketball.</desc>
+  </programme>
+  <programme start="20251103191500 +0200" stop="20251103213000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Sesame National Basketball League</title>
+    <desc lang="bg">a: Miner - Balkan Miner - Balkan.</desc>
+  </programme>
+  <programme start="20251103213000 +0200" stop="20251103233000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, La Liga 2</title>
+    <desc lang="bg">Valladolid - Granada.</desc>
+  </programme>
+  <programme start="20251103233000 +0200" stop="20251104013000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">ATP 250: Athens</title>
+  </programme>
+  <programme start="20251104013000 +0200" stop="20251104033000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">ATP 250: Athens</title>
+  </programme>
+  <programme start="20251104033000 +0200" stop="20251104060000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Volleyball - efbet Super Volleyball: Levski - P</title>
+    <desc lang="bg">irin Levski - Pirin.</desc>
+  </programme>
+  <programme start="20251104060000 +0200" stop="20251104080000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">NHL: Edmonton Oilers - Chicago Blackhawks</title>
+    <desc lang="bg">Edmonton Oilers - Chicago Blackhawks.</desc>
+  </programme>
+  <programme start="20251104080000 +0200" stop="20251104110000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">NFL: Pittsburgh Steelers - Indianapolis Co</title>
+    <desc lang="bg">lts Pittsburgh Steelers - Indianapolis Colts.</desc>
+  </programme>
+  <programme start="20251104110000 +0200" stop="20251104113000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20251104113000 +0200" stop="20251104140000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Sesame National Basketball League: Min</title>
+    <desc lang="bg">or - Balkan Miner - Balkan.</desc>
+  </programme>
+  <programme start="20251104140000 +0200" stop="20251104160000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Athens.</desc>
+  </programme>
+  <programme start="20251104160000 +0200" stop="20251104180000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Athens.</desc>
+  </programme>
+  <programme start="20251104180000 +0200" stop="20251104183000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Volleyball: The Road to</title>
+    <desc lang="bg">Shangri-La" The road to "Shangri-La.</desc>
+  </programme>
+  <programme start="20251104183000 +0200" stop="20251104190000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Volleyball.</desc>
+  </programme>
+  <programme start="20251104190000 +0200" stop="20251104210000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Volleyball</title>
+    <desc lang="bg">Champions League: Osijek - Levski Sofia Osijek - Levski Sofia.</desc>
+  </programme>
+  <programme start="20251104210000 +0200" stop="20251104211500 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Volleyball.</desc>
+  </programme>
+  <programme start="20251104211500 +0200" stop="20251104220000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20251104220000 +0200" stop="20251105000000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, UEFA Champions League</title>
+    <desc lang="bg">Juventus - Sporting Lisbon Fourth round.</desc>
+  </programme>
+  <programme start="20251105000000 +0200" stop="20251105020000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">ATP 250: Athens</title>
+  </programme>
+  <programme start="20251105020000 +0200" stop="20251105040000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">ATP 250: Athens</title>
+  </programme>
+  <programme start="20251105040000 +0200" stop="20251105070000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">UFC Fight Night: Garcia vs. Onama Steve</title>
+    <desc lang="bg">and Garcia v. David Onama.</desc>
+  </programme>
+  <programme start="20251105070000 +0200" stop="20251105090000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Volleyball - efbet Super Volley: CSKA - Mont</title>
+    <desc lang="bg">tana CSKA - Montana.</desc>
+  </programme>
+  <programme start="20251105090000 +0200" stop="20251105120000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">NFL: Buffalo Bills - Kansas City Chiefs Buff</title>
+    <desc lang="bg">hello Bills - Kansas City Chiefs.</desc>
+  </programme>
+  <programme start="20251105120000 +0200" stop="20251105123000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Volleyball: The Road to</title>
+    <desc lang="bg">Shangri-La" The road to "Shangri-La.</desc>
+  </programme>
+  <programme start="20251105123000 +0200" stop="20251105143000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">NHL: Toronto Maple Leafs - Pittsburgh Penn</title>
+    <desc lang="bg">guins Toronto Maple Leafs - Pittsburgh Penguins.</desc>
+  </programme>
+  <programme start="20251105143000 +0200" stop="20251105163000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Volleyball - Champions League: Osijek - Lewa</title>
+    <desc lang="bg">ki Sofia Osiek - Levski Sofia.</desc>
+  </programme>
+  <programme start="20251105163000 +0200" stop="20251105173000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Strike with a stick</title>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <credits>
+      <actor>Пол Нюман</actor>
+      <actor>Майкъл Онткийн</actor>
+      <actor>Линдси Крауз</actor>
+      <actor>Дженифър Уорън</actor>
+    </credits>
+    <date>1977</date>
+  </programme>
+  <programme start="20251105173000 +0200" stop="20251105183000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">DIRECTLY,</title>
+    <desc lang="bg">Debate Ball" Talkshow.</desc>
+  </programme>
+  <programme start="20251105183000 +0200" stop="20251105190000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Volleyball.</desc>
+  </programme>
+  <programme start="20251105190000 +0200" stop="20251105210000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Volleyball</title>
+    <desc lang="bg">CEV Challenge cup, women: Levski Sofia - Shezo Levski Sofia - Shezo.</desc>
+  </programme>
+  <programme start="20251105210000 +0200" stop="20251105213000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Volleyball.</desc>
+  </programme>
+  <programme start="20251105213000 +0200" stop="20251105233000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">ATP 250: Athens</title>
+  </programme>
+  <programme start="20251105233000 +0200" stop="20251106013000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">ATP 250: Athens</title>
+  </programme>
+  <programme start="20251106013000 +0200" stop="20251106033000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Volleyball</title>
+    <desc lang="bg">Champions League, women: Dinamo Zagreb - Maritsa Plovdiv Dinamo Zagreb - Maritsa Plovdiv.</desc>
+  </programme>
+  <programme start="20251106033000 +0200" stop="20251106063000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Nascar Cup Series: Race in Arizona</title>
+    <desc lang="bg">Racing in Arizona.</desc>
+  </programme>
+  <programme start="20251106063000 +0200" stop="20251106083000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Volleyball - Series A1: Modena - Perugia Mo</title>
+    <desc lang="bg">days - Perugia.</desc>
+  </programme>
+  <programme start="20251106083000 +0200" stop="20251106103000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">NHL: Montreal Canadiens - Philadelphia Fla</title>
+    <desc lang="bg">years Montreal Canadiens - Philadelphia Flyers.</desc>
+  </programme>
+  <programme start="20251106103000 +0200" stop="20251106123500 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Volleyball: CEV Challenge cup</title>
+    <desc lang="bg">women: Levski Sofia - Shezo Levski Sofia - Shezo.</desc>
+  </programme>
+  <programme start="20251106123500 +0200" stop="20251106133000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Moto GP</title>
+    <desc lang="bg">First practice for the Portuguese Grand Prix First practice for the Portuguese Grand Prix.</desc>
+  </programme>
+  <programme start="20251106133000 +0200" stop="20251106140000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20251106140000 +0200" stop="20251106160000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Athens First quarter final.</desc>
+  </programme>
+  <programme start="20251106160000 +0200" stop="20251106180000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Athens Second quarter final.</desc>
+  </programme>
+  <programme start="20251106180000 +0200" stop="20251106200000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Euroleague</title>
+    <desc lang="bg">Dubai - Apoel Tel Aviv Dubai - Apoel Tel Aviv.</desc>
+  </programme>
+  <programme start="20251106200000 +0200" stop="20251106210500 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Speed ​​of Max</title>
+    <desc lang="bg">A talk show.</desc>
+  </programme>
+  <programme start="20251106210500 +0200" stop="20251106230000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Euroleague</title>
+    <desc lang="bg">Maccabi Tel Aviv - Monaco Maccabi Tel Aviv - Monaco.</desc>
+  </programme>
+  <programme start="20251106230000 +0200" stop="20251107000000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Strike with a stick</title>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <credits>
+      <actor>Пол Нюман</actor>
+      <actor>Майкъл Онткийн</actor>
+      <actor>Линдси Крауз</actor>
+      <actor>Дженифър Уорън</actor>
+    </credits>
+    <date>1977</date>
+  </programme>
+  <programme start="20251107000000 +0200" stop="20251107020000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">ATP 250: Athens Third quarter-final</title>
+  </programme>
+  <programme start="20251107020000 +0200" stop="20251107040000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">ATP 250: Athens Fourth quarter-final</title>
+  </programme>
+  <programme start="20251107040000 +0200" stop="20251107060000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Euroleague: Red Star - Panathinaikos</title>
+    <desc lang="bg">Red Star - Panathinaikos.</desc>
+  </programme>
+  <programme start="20251107060000 +0200" stop="20251107080000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Eurocup: Bahceşehir Istanbul - Apoel Yeh</title>
+    <desc lang="bg">Rusalim Bahcesehir Istanbul - Apoel Jerusalem.</desc>
+  </programme>
+  <programme start="20251107080000 +0200" stop="20251107100000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Volleyball</title>
+    <desc lang="bg">Champions League, women: Dinamo Zagreb - Maritsa Plovdiv Dinamo Zagreb - Maritsa Plovdiv.</desc>
+  </programme>
+  <programme start="20251107100000 +0200" stop="20251107110000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Speed ​​of Max</title>
+    <desc lang="bg">A talk show.</desc>
+  </programme>
+  <programme start="20251107110000 +0200" stop="20251107130000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Euroleague: Maccabi Tel Aviv - Monaco Macab</title>
+    <desc lang="bg">and Tel Aviv - Monaco.</desc>
+  </programme>
+  <programme start="20251107130000 +0200" stop="20251107150000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">NHL: Montreal Canadiens - Philadelphia Fla</title>
+    <desc lang="bg">years Montreal Canadiens - Philadelphia Flyers.</desc>
+  </programme>
+  <programme start="20251107150000 +0200" stop="20251107160000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Strike with a stick</title>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <credits>
+      <actor>Пол Нюман</actor>
+      <actor>Майкъл Онткийн</actor>
+      <actor>Линдси Крауз</actor>
+      <actor>Дженифър Уорън</actor>
+    </credits>
+    <date>1977</date>
+  </programme>
+  <programme start="20251107160000 +0200" stop="20251107170000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">Nascar Cup Series: Race Overview</title>
+    <desc lang="bg">in Arizona Race Overview in Arizona.</desc>
+  </programme>
+  <programme start="20251107170000 +0200" stop="20251107190000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Athens First semi-final.</desc>
+  </programme>
+  <programme start="20251107190000 +0200" stop="20251107193000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Volleyball.</desc>
+  </programme>
+  <programme start="20251107193000 +0200" stop="20251107211500 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Volleyball</title>
+    <desc lang="bg">efbet Super Volley: Pirin - Petrochemical Pirin - Petrochemical.</desc>
+  </programme>
+  <programme start="20251107211500 +0200" stop="20251107213000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Volleyball.</desc>
+  </programme>
+  <programme start="20251107213000 +0200" stop="20251107233000 +0200" channel="Max.Sport.2.bg">
+    <title lang="bg">LIVE, Euroleague</title>
+    <desc lang="bg">Barcelona - Real Madrid Barcelona - Real Madrid.</desc>
+  </programme>
+  <programme start="20251102000000 +0200" stop="20251102040000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Golf: Challenge Tour Grand Final</title>
+  </programme>
+  <programme start="20251102040000 +0200" stop="20251102060000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Copa Sudamericana: Lanus - Universidad Ch</title>
+    <desc lang="bg">or Semi-final rematch.</desc>
+  </programme>
+  <programme start="20251102060000 +0200" stop="20251102080000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Serie A: Napoli - Como</title>
+  </programme>
+  <programme start="20251102080000 +0200" stop="20251102090000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20251102090000 +0200" stop="20251102110000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Serie A: Udinese - Atalanta</title>
+  </programme>
+  <programme start="20251102110000 +0200" stop="20251102130000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Serie A: Cremonese - Juventus</title>
+  </programme>
+  <programme start="20251102130000 +0200" stop="20251102133000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251102133000 +0200" stop="20251102153000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Serie A</title>
+    <desc lang="bg">Verona - Inter.</desc>
+  </programme>
+  <programme start="20251102153000 +0200" stop="20251102160000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251102160000 +0200" stop="20251102180000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Serie A</title>
+    <desc lang="bg">Fiorentina - Lecce.</desc>
+  </programme>
+  <programme start="20251102180000 +0200" stop="20251102183000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251102183000 +0200" stop="20251102190000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251102190000 +0200" stop="20251102210000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Serie A</title>
+    <desc lang="bg">Parma - Bologna.</desc>
+  </programme>
+  <programme start="20251102210000 +0200" stop="20251102214500 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251102214500 +0200" stop="20251102234500 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Serie A</title>
+    <desc lang="bg">Milan - Roma.</desc>
+  </programme>
+  <programme start="20251102234500 +0200" stop="20251103000000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251103000000 +0200" stop="20251103040000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Golf: Challenge Tour Grand Final</title>
+  </programme>
+  <programme start="20251103040000 +0200" stop="20251103060000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Copa Libertadores: Racing Club - Flamengo</title>
+    <desc lang="bg">o Semi-final rematch.</desc>
+  </programme>
+  <programme start="20251103060000 +0200" stop="20251103080000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Serie A: Verona - Inter</title>
+  </programme>
+  <programme start="20251103080000 +0200" stop="20251103100000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Saudi Professional League: Al Nasser</title>
+    <desc lang="bg">Al Fayha Al Nasser - Al Fayha.</desc>
+  </programme>
+  <programme start="20251103100000 +0200" stop="20251103120000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Copa Sudamericana: Lanus - Universidad Ch</title>
+    <desc lang="bg">or Semi-final rematch.</desc>
+  </programme>
+  <programme start="20251103120000 +0200" stop="20251103140000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Copa Sudamericana: Atlético Mineiro - In</title>
+    <desc lang="bg">dependentente del Valle Semi-final second leg.</desc>
+  </programme>
+  <programme start="20251103140000 +0200" stop="20251103160000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Saudi Professional League: Al Hilal</title>
+    <desc lang="bg">Al Shabab Al Hilal - Al Shabab.</desc>
+  </programme>
+  <programme start="20251103160000 +0200" stop="20251103180000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Serie A: Milan - Roma</title>
+  </programme>
+  <programme start="20251103180000 +0200" stop="20251103190000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">UEFA Europa League and Conference League</title>
+    <desc lang="bg">is" Shop show.</desc>
+  </programme>
+  <programme start="20251103190000 +0200" stop="20251103193000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251103193000 +0200" stop="20251103213000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Serie A</title>
+    <desc lang="bg">Sassuolo - Genoa.</desc>
+  </programme>
+  <programme start="20251103213000 +0200" stop="20251103214500 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251103214500 +0200" stop="20251103234500 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Serie A</title>
+    <desc lang="bg">Lazio - Cagliari.</desc>
+  </programme>
+  <programme start="20251103234500 +0200" stop="20251104000000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251104000000 +0200" stop="20251104020000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Copa Libertadores: Racing Club - Flamengo</title>
+    <desc lang="bg">o Semi-final rematch.</desc>
+  </programme>
+  <programme start="20251104020000 +0200" stop="20251104040000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Copa Libertadores: Palmeiras - Liga de C</title>
+    <desc lang="bg">and Semi-final rematch.</desc>
+  </programme>
+  <programme start="20251104040000 +0200" stop="20251104060000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Serie A: Cremonese - Juventus</title>
+  </programme>
+  <programme start="20251104060000 +0200" stop="20251104080000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">ATP 250: Athens</title>
+  </programme>
+  <programme start="20251104080000 +0200" stop="20251104100000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">ATP 250: Athens</title>
+  </programme>
+  <programme start="20251104100000 +0200" stop="20251104120000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">ATP 250: Athens</title>
+  </programme>
+  <programme start="20251104120000 +0200" stop="20251104130000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">UEFA Europa League and Conference League</title>
+    <desc lang="bg">is" Shop show.</desc>
+  </programme>
+  <programme start="20251104130000 +0200" stop="20251104150000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, UEFA Youth Champions League</title>
+    <desc lang="bg">Liverpool - Real Madrid.</desc>
+  </programme>
+  <programme start="20251104150000 +0200" stop="20251104153000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20251104153000 +0200" stop="20251104160000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">UEFA Champions League</title>
+    <desc lang="bg">Store show.</desc>
+  </programme>
+  <programme start="20251104160000 +0200" stop="20251104180000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Serie A: Napoli - Como</title>
+  </programme>
+  <programme start="20251104180000 +0200" stop="20251104190000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Calcio mania</title>
+    <desc lang="bg">A talk show.</desc>
+  </programme>
+  <programme start="20251104190000 +0200" stop="20251104194500 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251104194500 +0200" stop="20251104213000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, UEFA Champions League</title>
+    <desc lang="bg">Slavia Prague - Arsenal Fourth round.</desc>
+  </programme>
+  <programme start="20251104213000 +0200" stop="20251104220000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251104220000 +0200" stop="20251104235000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, UEFA Champions League</title>
+    <desc lang="bg">Liverpool - Real Madrid Fourth round.</desc>
+  </programme>
+  <programme start="20251104235000 +0200" stop="20251105002000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251105002000 +0200" stop="20251105010000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, UEFA Champions League</title>
+    <desc lang="bg">Circle Overview Circle Overview</desc>
+  </programme>
+  <programme start="20251105010000 +0200" stop="20251105030000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">UEFA Champions League: Paris Saint-Germain -</title>
+    <desc lang="bg">Bayern Munich Fourth round.</desc>
+  </programme>
+  <programme start="20251105030000 +0200" stop="20251105050000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Serie A: Lazio - Cagliari</title>
+  </programme>
+  <programme start="20251105050000 +0200" stop="20251105060000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Calcio mania</title>
+    <desc lang="bg">A talk show.</desc>
+  </programme>
+  <programme start="20251105060000 +0200" stop="20251105080000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">ATP 250: Athens</title>
+  </programme>
+  <programme start="20251105080000 +0200" stop="20251105100000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">ATP 250: Athens</title>
+  </programme>
+  <programme start="20251105100000 +0200" stop="20251105120000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">ATP 250: Athens</title>
+  </programme>
+  <programme start="20251105120000 +0200" stop="20251105140000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">ATP 250: Athens</title>
+  </programme>
+  <programme start="20251105140000 +0200" stop="20251105160000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Athens.</desc>
+  </programme>
+  <programme start="20251105160000 +0200" stop="20251105180000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, ATP 250</title>
+    <desc lang="bg">Athens.</desc>
+  </programme>
+  <programme start="20251105180000 +0200" stop="20251105190000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Series A: Round 10 Overview Round 10 Overview</title>
+  </programme>
+  <programme start="20251105190000 +0200" stop="20251105200000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">UEFA Champions League</title>
+    <desc lang="bg">Circle overview.</desc>
+  </programme>
+  <programme start="20251105200000 +0200" stop="20251105210000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Calcio mania</title>
+    <desc lang="bg">A talk show.</desc>
+  </programme>
+  <programme start="20251105210000 +0200" stop="20251105230000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Volleyball</title>
+    <desc lang="bg">Champions League, women: Dinamo Zagreb - Maritsa Plovdiv Dinamo Zagreb - Maritsa Plovdiv.</desc>
+  </programme>
+  <programme start="20251105230000 +0200" stop="20251106010000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">UEFA Champions League: Napoli - Eintracht</title>
+    <desc lang="bg">Frankfurt Fourth round.</desc>
+  </programme>
+  <programme start="20251106010000 +0200" stop="20251106030000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">UEFA Champions League: Juventus - Sporting</title>
+    <desc lang="bg">Lisbon Fourth Round.</desc>
+  </programme>
+  <programme start="20251106030000 +0200" stop="20251106050000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Serie A: Cremonese - Juventus</title>
+  </programme>
+  <programme start="20251106050000 +0200" stop="20251106070000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Serie A: Napoli - Como</title>
+  </programme>
+  <programme start="20251106070000 +0200" stop="20251106090000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">ATP 250: Athens</title>
+  </programme>
+  <programme start="20251106090000 +0200" stop="20251106100000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, World Rally Championship</title>
+    <desc lang="bg">Japan SS1 Kuragaike Park SSS.</desc>
+  </programme>
+  <programme start="20251106100000 +0200" stop="20251106121500 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">ATP 250: Athens</title>
+  </programme>
+  <programme start="20251106121500 +0200" stop="20251106124500 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">UEFA Champions League</title>
+    <desc lang="bg">Store show.</desc>
+  </programme>
+  <programme start="20251106124500 +0200" stop="20251106144500 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">UEFA Champions League: Atlético Madrid -</title>
+    <desc lang="bg">Union Saint-Gillois Fourth round.</desc>
+  </programme>
+  <programme start="20251106144500 +0200" stop="20251106165000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">UEFA Champions League: Liverpool - Real Madrid</title>
+    <desc lang="bg">dred Fourth Round.</desc>
+  </programme>
+  <programme start="20251106165000 +0200" stop="20251106180000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Moto GP</title>
+    <desc lang="bg">Training for the Portuguese Grand Prix Training for the Portuguese Grand Prix.</desc>
+  </programme>
+  <programme start="20251106180000 +0200" stop="20251106190000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20251106190000 +0200" stop="20251106194500 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Series A:</title>
+    <desc lang="bg">Extra Calcio.</desc>
+  </programme>
+  <programme start="20251106194500 +0200" stop="20251106220000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, UEFA Europa League</title>
+    <desc lang="bg">Utrecht - Porto Fourth round.</desc>
+  </programme>
+  <programme start="20251106220000 +0200" stop="20251106235500 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, UEFA Europa League</title>
+    <desc lang="bg">Rangers - Roma Fourth round.</desc>
+  </programme>
+  <programme start="20251106235500 +0200" stop="20251107002500 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Series A:</title>
+    <desc lang="bg">Extra Calcio.</desc>
+  </programme>
+  <programme start="20251107002500 +0200" stop="20251107011500 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, UEFA Europa League and Confer League</title>
+    <desc lang="bg">ences: Circle Overview Circle Overview.</desc>
+  </programme>
+  <programme start="20251107011500 +0200" stop="20251107031500 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">UEFA Europa League: Red Star - Lille Ch</title>
+    <desc lang="bg">fourth round.</desc>
+  </programme>
+  <programme start="20251107031500 +0200" stop="20251107053000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Serie A: Milan - Roma</title>
+  </programme>
+  <programme start="20251107053000 +0200" stop="20251107073000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">ATP 250: Athens First quarter-final</title>
+  </programme>
+  <programme start="20251107073000 +0200" stop="20251107093000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">ATP 250: Athens Second quarter-final</title>
+  </programme>
+  <programme start="20251107093000 +0200" stop="20251107113000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">ATP 250: Athens Third quarter-final</title>
+  </programme>
+  <programme start="20251107113000 +0200" stop="20251107133000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">ATP 250: Athens Fourth quarter-final</title>
+  </programme>
+  <programme start="20251107133000 +0200" stop="20251107153000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">UEFA Europa League: Aston Villa - Maccabi Te</title>
+    <desc lang="bg">l Aviv Fourth Round.</desc>
+  </programme>
+  <programme start="20251107153000 +0200" stop="20251107173000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">UEFA Champions League: Slavia Prague - Ars</title>
+    <desc lang="bg">enal Fourth Round.</desc>
+  </programme>
+  <programme start="20251107173000 +0200" stop="20251107180000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">NFL: Round 9 Overview Round 9 Overview</title>
+  </programme>
+  <programme start="20251107180000 +0200" stop="20251107200000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Volleyball</title>
+    <desc lang="bg">Italian Super Cup: Trento - Perugia First semi-final.</desc>
+  </programme>
+  <programme start="20251107200000 +0200" stop="20251107203000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Series A:</title>
+    <desc lang="bg">Extra Calcio.</desc>
+  </programme>
+  <programme start="20251107203000 +0200" stop="20251107223000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">LIVE, Volleyball</title>
+    <desc lang="bg">Italian Super Cup: Lube Civitanova - Verona Second semi-final.</desc>
+  </programme>
+  <programme start="20251107223000 +0200" stop="20251107230000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">UEFA Champions League</title>
+    <desc lang="bg">Store show.</desc>
+  </programme>
+  <programme start="20251107230000 +0200" stop="20251107233000 +0200" channel="Max.Sport.3.bg">
+    <title lang="bg">Series A:</title>
+    <desc lang="bg">Before the round.</desc>
+  </programme>
+  <programme start="20251102000000 +0200" stop="20251102001500 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251102001500 +0200" stop="20251102020000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Saudi Professional League: Al Nasser</title>
+    <desc lang="bg">Al Fayha Al Nasser - Al Fayha.</desc>
+  </programme>
+  <programme start="20251102020000 +0200" stop="20251102040000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Villarreal - Rayo Vallecano</title>
+  </programme>
+  <programme start="20251102040000 +0200" stop="20251102060000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Atletico Madrid - Sevilla</title>
+  </programme>
+  <programme start="20251102060000 +0200" stop="20251102080000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Real Sociedad - Athletic Bilbao</title>
+  </programme>
+  <programme start="20251102080000 +0200" stop="20251102100000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Copa Libertadores: Palmeiras - Liga de C</title>
+    <desc lang="bg">and Semi-final rematch.</desc>
+  </programme>
+  <programme start="20251102100000 +0200" stop="20251102103000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20251102103000 +0200" stop="20251102123000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Atletico Madrid - Sevilla</title>
+  </programme>
+  <programme start="20251102123000 +0200" stop="20251102143000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Real Madrid - Valencia</title>
+  </programme>
+  <programme start="20251102143000 +0200" stop="20251102150000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251102150000 +0200" stop="20251102170000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, La Liga</title>
+    <desc lang="bg">Levante - Celta.</desc>
+  </programme>
+  <programme start="20251102170000 +0200" stop="20251102171500 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251102171500 +0200" stop="20251102191500 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, La Liga</title>
+    <desc lang="bg">Alaves - Espanyol.</desc>
+  </programme>
+  <programme start="20251102191500 +0200" stop="20251102193000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251102193000 +0200" stop="20251102213000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, La Liga</title>
+    <desc lang="bg">Barcelona - Elche.</desc>
+  </programme>
+  <programme start="20251102213000 +0200" stop="20251102220000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251102220000 +0200" stop="20251103000000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, La Liga</title>
+    <desc lang="bg">Betis - Mallorca.</desc>
+  </programme>
+  <programme start="20251103000000 +0200" stop="20251103001500 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, Studio</title>
+    <desc lang="bg">Football.</desc>
+  </programme>
+  <programme start="20251103001500 +0200" stop="20251103031500 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, NHL</title>
+    <desc lang="bg">New York Islanders - Columbus Blue Jackets New York Islanders - Columbus Blue Jackets.</desc>
+  </programme>
+  <programme start="20251103031500 +0200" stop="20251103040000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20251103040000 +0200" stop="20251103060000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Barcelona - Elche</title>
+  </programme>
+  <programme start="20251103060000 +0200" stop="20251103080000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Betis - Mallorca</title>
+  </programme>
+  <programme start="20251103080000 +0200" stop="20251103100000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Real Sociedad - Athletic Bilbao</title>
+  </programme>
+  <programme start="20251103100000 +0200" stop="20251103120000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Barcelona - Elche</title>
+  </programme>
+  <programme start="20251103120000 +0200" stop="20251103140000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Saudi Professional League: Al Nasser</title>
+    <desc lang="bg">Al Fayha Al Nasser - Al Fayha.</desc>
+  </programme>
+  <programme start="20251103140000 +0200" stop="20251103160000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Copa Libertadores: Racing Club - Flamengo</title>
+    <desc lang="bg">o Semi-final rematch.</desc>
+  </programme>
+  <programme start="20251103160000 +0200" stop="20251103180000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Atletico Madrid - Sevilla</title>
+  </programme>
+  <programme start="20251103180000 +0200" stop="20251103200000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Real Madrid - Valencia</title>
+  </programme>
+  <programme start="20251103200000 +0200" stop="20251103213000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">DIRECTLY,</title>
+    <desc lang="bg">In front of the Stadium" - sports show "In front of the Stadium" - sports show.</desc>
+  </programme>
+  <programme start="20251103213000 +0200" stop="20251103220000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20251103220000 +0200" stop="20251104000000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, La Liga</title>
+    <desc lang="bg">Oviedo - Osasuna.</desc>
+  </programme>
+  <programme start="20251104000000 +0200" stop="20251104020000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga 2: Valladolid - Granada</title>
+  </programme>
+  <programme start="20251104020000 +0200" stop="20251104040000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Copa Sudamericana: Lanus - Universidad Ch</title>
+    <desc lang="bg">or Semi-final rematch.</desc>
+  </programme>
+  <programme start="20251104040000 +0200" stop="20251104060000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Copa Sudamericana: Atlético Mineiro - In</title>
+    <desc lang="bg">dependentente del Valle Semi-final second leg.</desc>
+  </programme>
+  <programme start="20251104060000 +0200" stop="20251104080000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Getafe - Girona</title>
+  </programme>
+  <programme start="20251104080000 +0200" stop="20251104100000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga 2: Valladolid - Granada</title>
+  </programme>
+  <programme start="20251104100000 +0200" stop="20251104113000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">"In Front of the Stadium"</title>
+    <desc lang="bg">In front of the Stadium" - sports show sports show.</desc>
+  </programme>
+  <programme start="20251104113000 +0200" stop="20251104120000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">UEFA Champions League</title>
+    <desc lang="bg">Store show.</desc>
+  </programme>
+  <programme start="20251104120000 +0200" stop="20251104140000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Saudi Professional League: Al Hilal</title>
+    <desc lang="bg">Al Shabab Al Hilal - Al Shabab.</desc>
+  </programme>
+  <programme start="20251104140000 +0200" stop="20251104160000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Copa Libertadores: Palmeiras - Liga de C</title>
+    <desc lang="bg">and Semi-final rematch.</desc>
+  </programme>
+  <programme start="20251104160000 +0200" stop="20251104180000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Real Sociedad - Athletic Bilbao</title>
+  </programme>
+  <programme start="20251104180000 +0200" stop="20251104183000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Review Round 11 Review</title>
+  </programme>
+  <programme start="20251104183000 +0200" stop="20251104194500 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LaLiga diary</title>
+    <desc lang="bg">A talk show.</desc>
+  </programme>
+  <programme start="20251104194500 +0200" stop="20251104220000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, UEFA Champions League</title>
+    <desc lang="bg">Napoli - Eintracht Frankfurt Fourth round.</desc>
+  </programme>
+  <programme start="20251104220000 +0200" stop="20251105000000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, UEFA Champions League</title>
+    <desc lang="bg">Paris Saint-Germain - Bayern Munich Fourth round.</desc>
+  </programme>
+  <programme start="20251105000000 +0200" stop="20251105020000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Barcelona - Elche</title>
+  </programme>
+  <programme start="20251105020000 +0200" stop="20251105040000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Atletico Madrid - Sevilla</title>
+  </programme>
+  <programme start="20251105040000 +0200" stop="20251105060000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Real Madrid - Valencia</title>
+  </programme>
+  <programme start="20251105060000 +0200" stop="20251105080000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Oviedo - Osasuna</title>
+  </programme>
+  <programme start="20251105080000 +0200" stop="20251105100000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Saudi Professional League: Al Nasser</title>
+    <desc lang="bg">Al Fayha Al Nasser - Al Fayha.</desc>
+  </programme>
+  <programme start="20251105100000 +0200" stop="20251105120000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga 2: Valladolid - Granada</title>
+  </programme>
+  <programme start="20251105120000 +0200" stop="20251105140000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Barcelona - Elche</title>
+  </programme>
+  <programme start="20251105140000 +0200" stop="20251105160000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Atletico Madrid - Sevilla</title>
+  </programme>
+  <programme start="20251105160000 +0200" stop="20251105180000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Real Madrid - Valencia</title>
+  </programme>
+  <programme start="20251105180000 +0200" stop="20251105200000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, Eurocup</title>
+    <desc lang="bg">Bahcesehir Istanbul - Apoel Jerusalem Bahcesehir Istanbul - Apoel Jerusalem.</desc>
+  </programme>
+  <programme start="20251105200000 +0200" stop="20251105210000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LaLiga diary</title>
+    <desc lang="bg">A talk show.</desc>
+  </programme>
+  <programme start="20251105210000 +0200" stop="20251105230000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, Euroleague</title>
+    <desc lang="bg">Red Star - Panathinaikos Red Star - Panathinaikos.</desc>
+  </programme>
+  <programme start="20251105230000 +0200" stop="20251106010000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Real Sociedad - Athletic Bilbao</title>
+  </programme>
+  <programme start="20251106010000 +0200" stop="20251106030000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Copa Libertadores: Racing Club - Flamengo</title>
+    <desc lang="bg">o Semi-final rematch.</desc>
+  </programme>
+  <programme start="20251106030000 +0200" stop="20251106050000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Copa Libertadores: Palmeiras - Liga de C</title>
+    <desc lang="bg">and Semi-final rematch.</desc>
+  </programme>
+  <programme start="20251106050000 +0200" stop="20251106070000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga 2: Valladolid - Granada</title>
+  </programme>
+  <programme start="20251106070000 +0200" stop="20251106080000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LaLiga diary</title>
+    <desc lang="bg">A talk show.</desc>
+  </programme>
+  <programme start="20251106080000 +0200" stop="20251106100000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Saudi Professional League: Al Hilal</title>
+    <desc lang="bg">Al Shabab Al Hilal - Al Shabab.</desc>
+  </programme>
+  <programme start="20251106100000 +0200" stop="20251106120000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Copa Sudamericana: Lanus - Universidad Ch</title>
+    <desc lang="bg">or Semi-final rematch.</desc>
+  </programme>
+  <programme start="20251106120000 +0200" stop="20251106140000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Villarreal - Rayo Vallecano</title>
+  </programme>
+  <programme start="20251106140000 +0200" stop="20251106160000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Oviedo - Osasuna</title>
+  </programme>
+  <programme start="20251106160000 +0200" stop="20251106163000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Review Round 11 Review</title>
+  </programme>
+  <programme start="20251106163000 +0200" stop="20251106173000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LaLiga diary</title>
+    <desc lang="bg">A talk show.</desc>
+  </programme>
+  <programme start="20251106173000 +0200" stop="20251106194500 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Barcelona - Elche</title>
+  </programme>
+  <programme start="20251106194500 +0200" stop="20251106220000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, UEFA Europa League</title>
+    <desc lang="bg">Red Star - Lille Fourth round.</desc>
+  </programme>
+  <programme start="20251106220000 +0200" stop="20251107000000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LIVE, UEFA Europa League</title>
+    <desc lang="bg">Aston Villa - Maccabi Tel Aviv Fourth round.</desc>
+  </programme>
+  <programme start="20251107000000 +0200" stop="20251107014500 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Real Madrid - Valencia</title>
+  </programme>
+  <programme start="20251107014500 +0200" stop="20251107033000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Betis - Mallorca</title>
+  </programme>
+  <programme start="20251107033000 +0200" stop="20251107080000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Golf: Abu Dhabi HSBC Championship</title>
+  </programme>
+  <programme start="20251107080000 +0200" stop="20251107100000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Villarreal - Rayo Vallecano</title>
+  </programme>
+  <programme start="20251107100000 +0200" stop="20251107120000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">Copa Sudamericana: Atlético Mineiro - In</title>
+    <desc lang="bg">dependentente del Valle Semi-final second leg.</desc>
+  </programme>
+  <programme start="20251107120000 +0200" stop="20251107140000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga 2: Valladolid - Granada</title>
+  </programme>
+  <programme start="20251107140000 +0200" stop="20251107150000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LaLiga diary</title>
+    <desc lang="bg">A talk show.</desc>
+  </programme>
+  <programme start="20251107150000 +0200" stop="20251107170000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Barcelona - Elche</title>
+  </programme>
+  <programme start="20251107170000 +0200" stop="20251107190000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">La Liga: Real Madrid - Valencia</title>
+  </programme>
+  <programme start="20251107190000 +0200" stop="20251107200000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">UEFA Europa League and Conference League</title>
+    <desc lang="bg">Circle Overview Circle Overview</desc>
+  </programme>
+  <programme start="20251107200000 +0200" stop="20251107210000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">DIRECTLY,</title>
+    <desc lang="bg">In front of the Stadium" - sports show "In front of the Stadium" - sports show.</desc>
+  </programme>
+  <programme start="20251107210000 +0200" stop="20251107220000 +0200" channel="Max.Sport.4.bg">
+    <title lang="bg">LaLiga diary</title>
+    <desc lang="bg">A talk show.</desc>
   </programme>
   </tv>
