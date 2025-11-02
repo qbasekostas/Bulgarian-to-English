@@ -2,12 +2,19 @@ name: Translate EPG File
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 */8 * * *'
   workflow_dispatch:
 
 jobs:
   build-and-translate:
     runs-on: ubuntu-latest
+    
+    # --- ΑΥΤΗ ΕΙΝΑΙ Η ΠΡΟΣΘΗΚΗ ---
+    # Δίνουμε ρητά την άδεια στο Action να γράψει στο repository
+    permissions:
+      contents: write
+    # ---------------------------------
+      
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -17,7 +24,6 @@ jobs:
         with:
           python-version: '3.x'
 
-      # Αλλαγή εδώ: Εγκαθιστά τις βιβλιοθήκες από το requirements.txt
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
