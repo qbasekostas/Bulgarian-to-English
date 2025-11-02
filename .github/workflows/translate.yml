@@ -1,0 +1,31 @@
+name: Translate EPG File
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-and-translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      # Τώρα δεν χρειάζεται να περάσουμε κάποιο secret
+      - name: Run translation script
+        run: python translate_epg.py
+
+      - name: Commit and push translated file
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated EPG translation update"
+          file_pattern: "epg-en.xml"
