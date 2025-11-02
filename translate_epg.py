@@ -9,18 +9,25 @@ import gzip # <-- 1. ΠΡΟΣΘΗΚΗ: Εισάγουμε τη βιβλιοθή�
 TARGET_CHANNELS = {
     "MAX Sport 1 HD.bg",
     "MAX.Sport.1.HD.bg",
+    "MAX.Sport.1.bg",
     "MAX Sport 2 HD.bg",
     "MAX.Sport.2.HD.bg",
+    "MAX.Sport.2.bg",
     "MAX Sport 3 HD.bg",
     "MAX.Sport.3.HD.bg",
+    "MAX.Sport.3.bg",
     "MAX Sport 4 HD.bg",
     "MAX.Sport.4.HD.bg",
+    "MAX.Sport.4.bg",
     "Diema Sport HD.bg",
     "Diema.Sport.HD.bg",
+    "Diema.Sport.bg",
     "Diema Sport 2 HD.bg",
     "Diema.Sport.2.HD.bg",
+    "Diema.Sport.2.bg",
     "Diema Sport 3 HD.bg",
-    "Diema.Sport.3.HD.bg"
+    "Diema.Sport.3.HD.bg",
+    "Diema.Sport.3.bg"
 }
 # ----------------------------------------------------------------
 
