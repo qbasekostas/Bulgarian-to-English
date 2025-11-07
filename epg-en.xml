@@ -42,7 +42,7 @@
     <url>http://www.тв-програма.bg</url>
   </channel>
   <programme start="20251106000000 +0200" stop="20251106003000 +0200" channel="Diema.Sport.2.bg">
-    <title lang="bg">Stories from the Premier League broadcast for Eng</title>
+    <title lang="bg">Stories from the Premier League English broadcast</title>
     <desc lang="bg">Lycian football 2025/2026 /n.</desc>
   </programme>
   <programme start="20251106003000 +0200" stop="20251106023000 +0200" channel="Diema.Sport.2.bg">
@@ -236,7 +236,7 @@
   </programme>
   <programme start="20251109001500 +0200" stop="20251109021500 +0200" channel="Diema.Sport.2.bg">
     <title lang="bg">West Ham United - Burnley Football: Premier</title>
-    <desc lang="bg">league 2025/2026 record.</desc>
+    <desc lang="bg">league 2025/2026 entry.</desc>
   </programme>
   <programme start="20251109021500 +0200" stop="20251109041500 +0200" channel="Diema.Sport.2.bg">
     <title lang="bg">Everton v Fulham Football: Premier League 2025</title>
@@ -653,7 +653,7 @@
   </programme>
   <programme start="20251110000000 +0200" stop="20251110020000 +0200" channel="Diema.Sport.3.bg">
     <title lang="bg">Granada - Valencia Basketball: Liga Endes</title>
-    <desc lang="bg">a 2025/2026 entry.</desc>
+    <desc lang="bg">a 2025/2026 record.</desc>
   </programme>
   <programme start="20251110020000 +0200" stop="20251110040000 +0200" channel="Diema.Sport.3.bg">
     <title lang="bg">Holstein Kiel</title>
@@ -692,7 +692,7 @@
   </programme>
   <programme start="20251110193000 +0200" stop="20251110200000 +0200" channel="Diema.Sport.3.bg">
     <title lang="bg">League 1: Overview of the round broadcast for French</title>
-    <desc lang="bg">ski soccer 2025/2025.</desc>
+    <desc lang="bg">ski football 2025/2025.</desc>
   </programme>
   <programme start="20251110200000 +0200" stop="20251110203000 +0200" channel="Diema.Sport.3.bg">
     <title lang="bg">Formula 1: Overview show about Formula 1</title>
@@ -1331,7 +1331,7 @@
   </programme>
   <programme start="20251109190000 +0200" stop="20251109210000 +0200" channel="Max.Sport.1.bg">
     <title lang="bg">LIVE, Volleyball</title>
-    <desc lang="bg">Serie A1: Lube Civitanova - Verona Lube Civitanova - Verona.</desc>
+    <desc lang="bg">Series A1: Lube Civitanova - Verona Lube Civitanova - Verona.</desc>
   </programme>
   <programme start="20251109210000 +0200" stop="20251109213000 +0200" channel="Max.Sport.1.bg">
     <title lang="bg">Trans World Sport</title>
