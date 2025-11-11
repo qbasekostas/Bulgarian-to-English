@@ -187,7 +187,7 @@
     <desc lang="bg">football 2025/2026 /n.</desc>
   </programme>
   <programme start="20251112193000 +0200" stop="20251112200000 +0200" channel="Diema.Sport.2.bg">
-    <title lang="bg">Stories from the Premier League English broadcast</title>
+    <title lang="bg">Stories from the Premier League broadcast for Eng</title>
     <desc lang="bg">Lycian football 2025/2026.</desc>
   </programme>
   <programme start="20251112200000 +0200" stop="20251112220000 +0200" channel="Diema.Sport.2.bg">
@@ -203,7 +203,7 @@
     <desc lang="bg">Brighton &amp; Hove Albion Football: Premier League 2025/2026 /n.</desc>
   </programme>
   <programme start="20251113003000 +0200" stop="20251113010000 +0200" channel="Diema.Sport.2.bg">
-    <title lang="bg">Stories from the Premier League English broadcast</title>
+    <title lang="bg">Stories from the Premier League broadcast for Eng</title>
     <desc lang="bg">Lycian football 2025/2026 /n.</desc>
   </programme>
   <programme start="20251113010000 +0200" stop="20251113030000 +0200" channel="Diema.Sport.2.bg">
@@ -222,7 +222,7 @@
     <desc lang="bg">Wolverhampton Wanderers Football: Premier League 2025/2026 /n.</desc>
   </programme>
   <programme start="20251113110000 +0200" stop="20251113113000 +0200" channel="Diema.Sport.2.bg">
-    <title lang="bg">Stories from the Premier League English broadcast</title>
+    <title lang="bg">Stories from the Premier League broadcast for Eng</title>
     <desc lang="bg">Lycian football 2025/2026 /n.</desc>
   </programme>
   <programme start="20251113113000 +0200" stop="20251113133000 +0200" channel="Diema.Sport.2.bg">
@@ -381,7 +381,7 @@
   </programme>
   <programme start="20251110000000 +0200" stop="20251110020000 +0200" channel="Diema.Sport.3.bg">
     <title lang="bg">Granada - Valencia Basketball: Liga Endes</title>
-    <desc lang="bg">a 2025/2026 entry.</desc>
+    <desc lang="bg">a 2025/2026 record.</desc>
   </programme>
   <programme start="20251110020000 +0200" stop="20251110040000 +0200" channel="Diema.Sport.3.bg">
     <title lang="bg">Holstein Kiel</title>
@@ -478,7 +478,7 @@
     <desc lang="bg">Before the round broadcast about football /n.</desc>
   </programme>
   <programme start="20251111190000 +0200" stop="20251111193000 +0200" channel="Diema.Sport.3.bg">
-    <title lang="bg">Second Bundesliga: Overview of the round broadcasts</title>
+    <title lang="bg">Second Bundesliga: Overview of the round broadcast</title>
     <desc lang="bg">not for German football 2025/2026.</desc>
   </programme>
   <programme start="20251111193000 +0200" stop="20251111213000 +0200" channel="Diema.Sport.3.bg">
@@ -498,7 +498,7 @@
     <desc lang="bg">league 2025/2026 /n.</desc>
   </programme>
   <programme start="20251112023000 +0200" stop="20251112030000 +0200" channel="Diema.Sport.3.bg">
-    <title lang="bg">Second Bundesliga: Overview of the round broadcasts</title>
+    <title lang="bg">Second Bundesliga: Overview of the round broadcast</title>
     <desc lang="bg">not for German football 2025/2026 /n.</desc>
   </programme>
   <programme start="20251112030000 +0200" stop="20251112053000 +0200" channel="Diema.Sport.3.bg">
@@ -1121,7 +1121,7 @@
   </programme>
   <programme start="20251115214500 +0200" stop="20251115234000 +0200" channel="Diema.Sport.bg">
     <title lang="bg">Bosnia and Herzegovina - Romania Football: Qual</title>
-    <desc lang="bg">2026 World Cup qualifiers directly.</desc>
+    <desc lang="bg">2026 World Cup qualification direct.</desc>
   </programme>
   <programme start="20251110003000 +0200" stop="20251110020000 +0200" channel="Max.Sport.1.bg">
     <title lang="bg">World Rally Championship: Japan SS20 Lak</title>
@@ -1585,7 +1585,7 @@
     <desc lang="bg">a: Shumen - Academic Plovdiv Shumen - Academic Plovdiv.</desc>
   </programme>
   <programme start="20251112021500 +0200" stop="20251112043000 +0200" channel="Max.Sport.2.bg">
-    <title lang="bg">Volleyball - Champions League: Osijek - Lewa</title>
+    <title lang="bg">Volleyball - Champions League: Osijek - Leva</title>
     <desc lang="bg">ki Sofia Osiek - Levski Sofia.</desc>
   </programme>
   <programme start="20251112043000 +0200" stop="20251112073000 +0200" channel="Max.Sport.2.bg">
@@ -2152,7 +2152,7 @@
   </programme>
   <programme start="20251115160000 +0200" stop="20251115170000 +0200" channel="Max.Sport.3.bg">
     <title lang="bg">LIVE, Moto GP</title>
-    <desc lang="bg">Valencia Grand Prix Sprint Valencia Grand Prix Sprint.</desc>
+    <desc lang="bg">Sprint for the Grand Prix of Valencia Sprint for the Grand Prix of Valencia.</desc>
   </programme>
   <programme start="20251115170000 +0200" stop="20251115190000 +0200" channel="Max.Sport.3.bg">
     <title lang="bg">UEFA Champions League: Slavia Prague - Ars</title>
