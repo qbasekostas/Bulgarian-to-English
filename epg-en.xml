@@ -73,7 +73,7 @@
     <desc lang="bg">2025/2026 /n.</desc>
   </programme>
   <programme start="20251111160000 +0200" stop="20251111180000 +0200" channel="Diema.Sport.2.bg">
-    <title lang="bg">Manchester City - Liverpool Football: Premier League</title>
+    <title lang="bg">Manchester City - Liverpool Football: Premier</title>
     <desc lang="bg">league 2025/2026 /n.</desc>
   </programme>
   <programme start="20251111180000 +0200" stop="20251111200000 +0200" channel="Diema.Sport.2.bg">
@@ -179,7 +179,7 @@
     <desc lang="bg">Lycian football 2025/2026 /n.</desc>
   </programme>
   <programme start="20251113113000 +0200" stop="20251113133000 +0200" channel="Diema.Sport.2.bg">
-    <title lang="bg">Manchester City - Liverpool Football: Premier League</title>
+    <title lang="bg">Manchester City - Liverpool Football: Premier</title>
     <desc lang="bg">league 2025/2026 /n.</desc>
   </programme>
   <programme start="20251113133000 +0200" stop="20251113140000 +0200" channel="Diema.Sport.2.bg">
@@ -427,8 +427,8 @@
     <desc lang="bg">Before the round broadcast about football /n.</desc>
   </programme>
   <programme start="20251111190000 +0200" stop="20251111193000 +0200" channel="Diema.Sport.3.bg">
-    <title lang="bg">Second Bundesliga: Overview of the round broadcast</title>
-    <desc lang="bg">not for german football 2025/2026.</desc>
+    <title lang="bg">Second Bundesliga: Overview of the round broadcasts</title>
+    <desc lang="bg">not for German football 2025/2026.</desc>
   </programme>
   <programme start="20251111193000 +0200" stop="20251111213000 +0200" channel="Diema.Sport.3.bg">
     <title lang="bg">Union Berlin - Bayern Munich Football: Bun</title>
@@ -447,7 +447,7 @@
     <desc lang="bg">league 2025/2026 /n.</desc>
   </programme>
   <programme start="20251112023000 +0200" stop="20251112030000 +0200" channel="Diema.Sport.3.bg">
-    <title lang="bg">Second Bundesliga: Overview of the round broadcast</title>
+    <title lang="bg">Second Bundesliga: Overview of the round broadcasts</title>
     <desc lang="bg">not for German football 2025/2026 /n.</desc>
   </programme>
   <programme start="20251112030000 +0200" stop="20251112053000 +0200" channel="Diema.Sport.3.bg">
@@ -1078,14 +1078,14 @@
   </programme>
   <programme start="20251115214500 +0200" stop="20251115234000 +0200" channel="Diema.Sport.bg">
     <title lang="bg">Bosnia and Herzegovina - Romania Football: Qual</title>
-    <desc lang="bg">2026 World Cup qualification direct.</desc>
+    <desc lang="bg">2026 World Cup qualifiers directly.</desc>
   </programme>
   <programme start="20251115234000 +0200" stop="20251116001500 +0200" channel="Diema.Sport.bg">
     <title lang="bg">Studio</title>
     <desc lang="bg">World Qualifiers" directly.</desc>
   </programme>
   <programme start="20251116001500 +0200" stop="20251116021500 +0200" channel="Diema.Sport.bg">
-    <title lang="bg">Turkey - Bulgaria Football: Qualifications h</title>
+    <title lang="bg">Turkey - Bulgaria Football: Qualification h</title>
     <desc lang="bg">a World Cup 2026 entry.</desc>
   </programme>
   <programme start="20251116021500 +0200" stop="20251116061500 +0200" channel="Diema.Sport.bg">
@@ -1108,7 +1108,7 @@
     <desc lang="bg">a World Cup 2026 /n.</desc>
   </programme>
   <programme start="20251116130000 +0200" stop="20251116150000 +0200" channel="Diema.Sport.bg">
-    <title lang="bg">Turkey - Bulgaria Football: Qualifications h</title>
+    <title lang="bg">Turkey - Bulgaria Football: Qualification h</title>
     <desc lang="bg">a World Cup 2026 /n.</desc>
   </programme>
   <programme start="20251116150000 +0200" stop="20251116170000 +0200" channel="Diema.Sport.bg">
@@ -1446,7 +1446,7 @@
   </programme>
   <programme start="20251111040000 +0200" stop="20251111050000 +0200" channel="Max.Sport.2.bg">
     <title lang="bg">Strike with a stick</title>
-    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama….</desc>
     <credits>
       <actor>Пол Нюман</actor>
       <actor>Майкъл Онткийн</actor>
@@ -1489,7 +1489,7 @@
   </programme>
   <programme start="20251111173000 +0200" stop="20251111180000 +0200" channel="Max.Sport.2.bg">
     <title lang="bg">Strike with a stick</title>
-    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama….</desc>
     <credits>
       <actor>Пол Нюман</actor>
       <actor>Майкъл Онткийн</actor>
@@ -1562,7 +1562,7 @@
   </programme>
   <programme start="20251112163000 +0200" stop="20251112173000 +0200" channel="Max.Sport.2.bg">
     <title lang="bg">Strike with a stick</title>
-    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama….</desc>
     <credits>
       <actor>Пол Нюман</actor>
       <actor>Майкъл Онткийн</actor>
@@ -1593,7 +1593,7 @@
   </programme>
   <programme start="20251112231500 +0200" stop="20251113011500 +0200" channel="Max.Sport.2.bg">
     <title lang="bg">Eurocup: Chemnitz - Buduchnost Chemnitz - Bu</title>
-    <desc lang="bg">filthiness.</desc>
+    <desc lang="bg">decency.</desc>
   </programme>
   <programme start="20251113011500 +0200" stop="20251113060000 +0200" channel="Max.Sport.2.bg">
     <title lang="bg">Golf: Abu Dhabi HSBC Championship</title>
@@ -1624,7 +1624,7 @@
   </programme>
   <programme start="20251113170000 +0200" stop="20251113173000 +0200" channel="Max.Sport.2.bg">
     <title lang="bg">Strike with a stick</title>
-    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama….</desc>
     <credits>
       <actor>Пол Нюман</actor>
       <actor>Майкъл Онткийн</actor>
@@ -1634,7 +1634,7 @@
     <date>1977</date>
   </programme>
   <programme start="20251113173000 +0200" stop="20251113183000 +0200" channel="Max.Sport.2.bg">
-    <title lang="bg">Moto GP: Golyama Race Overview</title>
+    <title lang="bg">Moto GP: Overview of the race for Golyama</title>
     <desc lang="bg">th Portuguese Grand Prix Overview of the Portuguese Grand Prix race.</desc>
   </programme>
   <programme start="20251113183000 +0200" stop="20251113193000 +0200" channel="Max.Sport.2.bg">
@@ -1673,7 +1673,7 @@
     <desc lang="bg">erona Lube Civitanova - Verona.</desc>
   </programme>
   <programme start="20251114070000 +0200" stop="20251114080000 +0200" channel="Max.Sport.2.bg">
-    <title lang="bg">Moto GP: Golyama Race Overview</title>
+    <title lang="bg">Moto GP: Overview of the race for Golyama</title>
     <desc lang="bg">th Portuguese Grand Prix Overview of the Portuguese Grand Prix race.</desc>
   </programme>
   <programme start="20251114080000 +0200" stop="20251114110000 +0200" channel="Max.Sport.2.bg">
@@ -1697,7 +1697,7 @@
   </programme>
   <programme start="20251114173000 +0200" stop="20251114183000 +0200" channel="Max.Sport.2.bg">
     <title lang="bg">Strike with a stick</title>
-    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama….</desc>
     <credits>
       <actor>Пол Нюман</actor>
       <actor>Майкъл Онткийн</actor>
@@ -1731,7 +1731,7 @@
   </programme>
   <programme start="20251115010000 +0200" stop="20251115020000 +0200" channel="Max.Sport.2.bg">
     <title lang="bg">Strike with a stick</title>
-    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama….</desc>
     <credits>
       <actor>Пол Нюман</actor>
       <actor>Майкъл Онткийн</actor>
@@ -1770,7 +1770,7 @@
   </programme>
   <programme start="20251115180000 +0200" stop="20251115184500 +0200" channel="Max.Sport.2.bg">
     <title lang="bg">Strike with a stick</title>
-    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama….</desc>
     <credits>
       <actor>Пол Нюман</actor>
       <actor>Майкъл Онткийн</actor>
@@ -1835,7 +1835,7 @@
   </programme>
   <programme start="20251116151500 +0200" stop="20251116160000 +0200" channel="Max.Sport.2.bg">
     <title lang="bg">Strike with a stick</title>
-    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama….</desc>
     <credits>
       <actor>Пол Нюман</actor>
       <actor>Майкъл Онткийн</actor>
@@ -2111,7 +2111,7 @@
   </programme>
   <programme start="20251115160000 +0200" stop="20251115170000 +0200" channel="Max.Sport.3.bg">
     <title lang="bg">LIVE, Moto GP</title>
-    <desc lang="bg">Sprint for the Grand Prix of Valencia Sprint for the Grand Prix of Valencia.</desc>
+    <desc lang="bg">Valencia Grand Prix Sprint Valencia Grand Prix Sprint.</desc>
   </programme>
   <programme start="20251115170000 +0200" stop="20251115190000 +0200" channel="Max.Sport.3.bg">
     <title lang="bg">UEFA Champions League: Slavia Prague - Ars</title>
@@ -2131,7 +2131,7 @@
   </programme>
   <programme start="20251115233000 +0200" stop="20251116000000 +0200" channel="Max.Sport.3.bg">
     <title lang="bg">Strike with a stick</title>
-    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama...</desc>
+    <desc lang="bg">A satirical (and dazzlingly blue) behind-the-scenes look at a provincial hockey team."The Coach" (Newman) experiences professional and personal drama….</desc>
     <credits>
       <actor>Пол Нюман</actor>
       <actor>Майкъл Онткийн</actor>
@@ -2173,7 +2173,7 @@
     <desc lang="bg">Valencia Grand Prix Race Valencia Grand Prix Race.</desc>
   </programme>
   <programme start="20251116131500 +0200" stop="20251116150000 +0200" channel="Max.Sport.3.bg">
-    <title lang="bg">DIRECT, Moto 2</title>
+    <title lang="bg">LIVE, Moto 2</title>
     <desc lang="bg">Valencia Grand Prix Race Valencia Grand Prix Race.</desc>
   </programme>
   <programme start="20251116150000 +0200" stop="20251116163000 +0200" channel="Max.Sport.3.bg">
