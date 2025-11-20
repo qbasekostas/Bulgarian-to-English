@@ -97,7 +97,7 @@
   </programme>
   <programme start="20251120100000 +0200" stop="20251120120000 +0200" channel="Diema.Sport.2.bg">
     <title lang="bg">Northern Ireland - Luxembourg Football: Qual</title>
-    <desc lang="bg">2026 World Cup qualification direct.</desc>
+    <desc lang="bg">2026 World Cup qualifiers directly.</desc>
   </programme>
   <programme start="20251120120000 +0200" stop="20251120140000 +0200" channel="Diema.Sport.2.bg">
     <title lang="bg">Germany - Slovakia Football: Qualification</title>
@@ -267,7 +267,7 @@
   </programme>
   <programme start="20251123000500 +0200" stop="20251123020000 +0200" channel="Diema.Sport.2.bg">
     <title lang="bg">Rennes - Monaco Football: Ligue 1 France 2</title>
-    <desc lang="bg">025/2026 entry.</desc>
+    <desc lang="bg">025/2026 record.</desc>
   </programme>
   <programme start="20251123020000 +0200" stop="20251123060000 +0200" channel="Diema.Sport.2.bg">
     <title lang="bg">BKB 48 Battle Event from Florida USA Dir</title>
@@ -330,7 +330,7 @@
   </programme>
   <programme start="20251124000000 +0200" stop="20251124020000 +0200" channel="Diema.Sport.2.bg">
     <title lang="bg">Auxerre - Lyon Football: Ligue 1 France 2</title>
-    <desc lang="bg">025/2026 entry.</desc>
+    <desc lang="bg">025/2026 record.</desc>
   </programme>
   <programme start="20251124020000 +0200" stop="20251124040000 +0200" channel="Diema.Sport.2.bg">
     <title lang="bg">Fulham v Sunderland Football: Premier League 20</title>
@@ -440,7 +440,7 @@
   </programme>
   <programme start="20251119220000 +0200" stop="20251120020000 +0200" channel="Diema.Sport.3.bg">
     <title lang="bg">ONE 173 Fight event in Bangkok, Thailand</title>
-    <desc lang="bg">Part 1 recording.</desc>
+    <desc lang="bg">Part 1 entry.</desc>
   </programme>
   <programme start="20251120020000 +0200" stop="20251120040000 +0200" channel="Diema.Sport.3.bg">
     <title lang="bg">Switzerland - Sweden Football: Qualification</title>
@@ -786,7 +786,7 @@
   </programme>
   <programme start="20251124193000 +0200" stop="20251124200000 +0200" channel="Diema.Sport.3.bg">
     <title lang="bg">League 1: Overview of the round broadcast for French</title>
-    <desc lang="bg">ski soccer 2025/2025.</desc>
+    <desc lang="bg">ski football 2025/2025.</desc>
   </programme>
   <programme start="20251124200000 +0200" stop="20251124204500 +0200" channel="Diema.Sport.3.bg">
     <title lang="bg">Formula 1: Overview show about Formula 1</title>
@@ -942,7 +942,7 @@
     <desc lang="bg">football 2025/2026 /n.</desc>
   </programme>
   <programme start="20251121130000 +0200" stop="20251121133000 +0200" channel="Diema.Sport.bg">
-    <title lang="bg">The heroes of the circle broadcast for Bulgarian</title>
+    <title lang="bg">Heroes of the Circle broadcast for Bulgarian</title>
     <desc lang="bg">football 2025/2026 /n.</desc>
   </programme>
   <programme start="20251121133000 +0200" stop="20251121143000 +0200" channel="Diema.Sport.bg">
@@ -966,7 +966,7 @@
     <desc lang="bg">efbet League Soccer" directly.</desc>
   </programme>
   <programme start="20251121174500 +0200" stop="20251121194000 +0200" channel="Diema.Sport.bg">
-    <title lang="bg">Beroe - Spartak Varna Football: efbet Liga</title>
+    <title lang="bg">Beroe - Spartak Varna Football: efbet League</title>
     <desc lang="bg">2025/2026 directly.</desc>
   </programme>
   <programme start="20251121194000 +0200" stop="20251121201500 +0200" channel="Diema.Sport.bg">
@@ -1005,7 +1005,7 @@
     <desc lang="bg">.Bit Second League 2025/2026 /n.</desc>
   </programme>
   <programme start="20251122093000 +0200" stop="20251122113000 +0200" channel="Diema.Sport.bg">
-    <title lang="bg">Beroe - Spartak Varna Football: efbet Liga</title>
+    <title lang="bg">Beroe - Spartak Varna Football: efbet League</title>
     <desc lang="bg">2025/2026 /n.</desc>
   </programme>
   <programme start="20251122113000 +0200" stop="20251122120000 +0200" channel="Diema.Sport.bg">
@@ -1076,7 +1076,7 @@
     <desc lang="bg">efbet League Soccer" directly.</desc>
   </programme>
   <programme start="20251123143000 +0200" stop="20251123162500 +0200" channel="Diema.Sport.bg">
-    <title lang="bg">September - Ludogorets Football: efbet League</title>
+    <title lang="bg">September - Ludogorets Football: efbet Liga</title>
     <desc lang="bg">2025/2026 directly.</desc>
   </programme>
   <programme start="20251123162500 +0200" stop="20251123170000 +0200" channel="Diema.Sport.bg">
@@ -1084,7 +1084,7 @@
     <desc lang="bg">efbet League Soccer" directly.</desc>
   </programme>
   <programme start="20251123170000 +0200" stop="20251123185500 +0200" channel="Diema.Sport.bg">
-    <title lang="bg">Montana - Levski Football: efbet League 2025</title>
+    <title lang="bg">Montana - Levski Football: efbet Liga 2025</title>
     <desc lang="bg">/2026 directly.</desc>
   </programme>
   <programme start="20251123185500 +0200" stop="20251123193000 +0200" channel="Diema.Sport.bg">
@@ -1119,11 +1119,11 @@
     <desc lang="bg">et League 2025/2026 /n.</desc>
   </programme>
   <programme start="20251124100000 +0200" stop="20251124120000 +0200" channel="Diema.Sport.bg">
-    <title lang="bg">Montana - Levski Football: efbet League 2025</title>
+    <title lang="bg">Montana - Levski Football: efbet Liga 2025</title>
     <desc lang="bg">/2026 /n.</desc>
   </programme>
   <programme start="20251124120000 +0200" stop="20251124140000 +0200" channel="Diema.Sport.bg">
-    <title lang="bg">September - Ludogorets Football: efbet League</title>
+    <title lang="bg">September - Ludogorets Football: efbet Liga</title>
     <desc lang="bg">2025/2026 /n.</desc>
   </programme>
   <programme start="20251124140000 +0200" stop="20251124143000 +0200" channel="Diema.Sport.bg">
@@ -1199,7 +1199,7 @@
     <desc lang="bg">Tennis talk show.</desc>
   </programme>
   <programme start="20251119144500 +0200" stop="20251119163000 +0200" channel="Max.Sport.1.bg">
-    <title lang="bg">Volleyball - Series A1: Piacenza - Lube Chiv</title>
+    <title lang="bg">Volleyball - Serie A1: Piacenza - Lube Chiv</title>
     <desc lang="bg">itanova Piacenza - Lube Civitanova.</desc>
   </programme>
   <programme start="20251119163000 +0200" stop="20251119183000 +0200" channel="Max.Sport.1.bg">
