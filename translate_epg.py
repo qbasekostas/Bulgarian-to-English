@@ -32,7 +32,7 @@ TARGET_CHANNELS = {
 # ----------------------------------------------------------------
 
 # ΑΛΛΑΓΗ: Βάζουμε το νέο URL που τελειώνει σε .gz
-SOURCE_URL = "https://epgshare01.online/epgshare01/epg_ripper_BG1.xml.gz"
+SOURCE_URL = "https://iptv-epg.org/files/epg-bg.xml.gz"
 OUTPUT_FILE = "epg-en.xml"
 
 # --- Caching & Translator Initialization ---
