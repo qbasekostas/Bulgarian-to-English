@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv><channel id="DiemaSport2.bg">
     <display-name>BG - Diema Sport 2</display-name>
-    <icon src="https://cdn.iptvboss.pro/logos/Bulgaria/DiemaSport2.bg.png" />
+    <icon src="https://iptv-epg.org/logos/Bulgaria/DiemaSport2.bg.png" />
   </channel>
   <channel id="DiemaSport3.bg">
     <display-name>BG - Diema Sport 3</display-name>
-    <icon src="https://cdn.iptvboss.pro/logos/Bulgaria/DiemaSport3.bg.png" />
+    <icon src="https://iptv-epg.org/logos/Bulgaria/DiemaSport3.bg.png" />
   </channel>
   <channel id="DiemaSport.bg">
     <display-name>BG - Diema Sport</display-name>
-    <icon src="https://cdn.iptvboss.pro/logos/Bulgaria/DiemaSport.bg.png" />
+    <icon src="https://iptv-epg.org/logos/Bulgaria/DiemaSport.bg.png" />
   </channel>
   <channel id="MAXSport1.bg">
     <display-name>BG - MAX Sport 1</display-name>
-    <icon src="https://cdn.iptvboss.pro/logos/Bulgaria/MAXSport1.bg.png" />
+    <icon src="https://iptv-epg.org/logos/Bulgaria/MAXSport1.bg.png" />
   </channel>
   <channel id="MAXSport2.bg">
     <display-name>BG - MAX Sport 2</display-name>
-    <icon src="https://cdn.iptvboss.pro/logos/Bulgaria/MAXSport2.bg.png" />
+    <icon src="https://iptv-epg.org/logos/Bulgaria/MAXSport2.bg.png" />
   </channel>
   <channel id="MAXSport3.bg">
     <display-name>BG - MAX Sport 3</display-name>
-    <icon src="https://cdn.iptvboss.pro/logos/Bulgaria/MAXSport3.bg.png" />
+    <icon src="https://iptv-epg.org/logos/Bulgaria/MAXSport3.bg.png" />
   </channel>
   <channel id="MAXSport4.bg">
     <display-name>BG - MAX Sport 4</display-name>
-    <icon src="https://cdn.iptvboss.pro/logos/Bulgaria/MAXSport4.bg.png" />
+    <icon src="https://iptv-epg.org/logos/Bulgaria/MAXSport4.bg.png" />
   </channel>
   <programme start="20251217221500 +0000" stop="20251218053000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Sunderland - Newcastle United Round of 16, Soccer: Premier League 2025/2026, /n/</title>
@@ -64,7 +64,7 @@
     <title lang="bg">Premier League Talk Show 16 Episode English Football Show 2025/2026, /n/</title>
   </programme>
   <programme start="20251218230000 +0000" stop="20251219000000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Manchester United - Bournemouth Round of 16, Football: Premier League 2025/2026, /n/</title>
+    <title lang="bg">Manchester United - Bournemouth Round of 16, Soccer: Premier League 2025/2026, /n/</title>
   </programme>
   <programme start="20251219000000 +0000" stop="20251219053000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">NBA Action 10 Episode 2025/2026 American Basketball Show /n/</title>
@@ -222,7 +222,7 @@
     <title lang="bg">Gran Canaria - Baskonia Round 10, Basketball: Liga Endesa 2025/2026, /n/</title>
   </programme>
   <programme start="20251219120000 +0000" stop="20251219140000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Murcia - Hoventut10 round, Basketball: Liga Endesa 2025/2026, /n/</title>
+    <title lang="bg">Murcia - Hoventut10 Round, Basketball: Liga Endesa 2025/2026, /n/</title>
   </programme>
   <programme start="20251219140000 +0000" stop="20251219160000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Manresa - Barcelona Round 10, Basketball: Liga Endesa 2025/2026, /n/</title>
@@ -257,7 +257,7 @@
     <title lang="bg">Formula 1: Season Overview 20251 part Formula 1 show , /n/</title>
   </programme>
   <programme start="20251220070000 +0000" stop="20251220090000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Paderborn - Darmstadt Round 17, Soccer: Second Bundesliga 2025/2026, /n/</title>
+    <title lang="bg">Paderborn - Darmstadt Round 17, Football: Second Bundesliga 2025/2026, /n/</title>
   </programme>
   <programme start="20251220090000 +0000" stop="20251220110000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Borussia Dortmund - Borussia Mönchengladbach Round 15, Soccer: Bundesliga 2025/2026, /n/</title>
