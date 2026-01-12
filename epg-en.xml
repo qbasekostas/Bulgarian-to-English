@@ -27,49 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/logos/Bulgaria/MAXSport4.bg.png" />
   </channel>
-  <programme start="20260110000000 +0000" stop="20260110053000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Newcastle United - Leeds UnitedRound 21, Football: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260110053000 +0000" stop="20260110060000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Breaking the Net21 Episodes English Football Show 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260110060000 +0000" stop="20260110080000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Arsenal v Liverpool Round 21, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260110080000 +0000" stop="20260110090000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">English Premier League Round 21 Episode 2025/2026 English Football Show /n/</title>
-  </programme>
-  <programme start="20260110090000 +0000" stop="20260110110000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Milton Keynes Dons - Oxford United Round 3, Soccer: FA Cup 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260110110000 +0000" stop="20260110113000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">FA Cup Round 3 Episode 2025/2026 English Football Show /n/</title>
-  </programme>
-  <programme start="20260110113000 +0000" stop="20260110121500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">FA Cup</title>
-    <desc lang="bg">directly.</desc>
-  </programme>
-  <programme start="20260110121500 +0000" stop="20260110141000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Everton - Sunderland 3rd round, Football: FA Cup 2025/2026, live</title>
-  </programme>
-  <programme start="20260110141000 +0000" stop="20260110150000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">FA Cup</title>
-    <desc lang="bg">directly.</desc>
-  </programme>
-  <programme start="20260110150000 +0000" stop="20260110165500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Manchester City - Exeter City3rd round, Football: FA Cup 2025/2026, live</title>
-  </programme>
-  <programme start="20260110165500 +0000" stop="20260110174500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">FA Cup</title>
-    <desc lang="bg">directly.</desc>
-  </programme>
-  <programme start="20260110174500 +0000" stop="20260110194000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Tottenham Hotspur - Aston Villa 3rd round, Football: FA Cup 2025/2026, live</title>
-  </programme>
-  <programme start="20260110194000 +0000" stop="20260110201500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">FA Cup</title>
-    <desc lang="bg">directly.</desc>
-  </programme>
   <programme start="20260110221500 +0000" stop="20260111001500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Heidenheim - Cologne Round of 16, Football: FA Cup 2025/2026, Record</title>
   </programme>
@@ -211,52 +168,51 @@
   <programme start="20260114001500 +0000" stop="20260114053000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Preston North End - Wigan Athletic3rd Round, Football: FA Cup 2025/2026, /n/</title>
   </programme>
-  <programme start="20260109231500 +0000" stop="20260110050000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Lille - Rennes Round 17, Soccer: Ligue 1 France 2025/2026, /n/</title>
+  <programme start="20260114053000 +0000" stop="20260114073000 +0000" channel="DiemaSport2.bg">
+    <title lang="bg">Manchester United - Brighton &amp; Hove Albion3rd Round, Soccer: FA Cup 2025/2026, /n/</title>
   </programme>
-  <programme start="20260110050000 +0000" stop="20260110070000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Paris Saint-Germain - MarseilleFootball: French Super Cup 2025, /n/</title>
+  <programme start="20260114073000 +0000" stop="20260114093000 +0000" channel="DiemaSport2.bg">
+    <title lang="bg">Everton - Sunderland3rd round, Football: FA Cup 2025/2026, /n/</title>
   </programme>
-  <programme start="20260110070000 +0000" stop="20260110083000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Formula 2 and 3 Season Overview - The Year of Nikola Tsolov2025/2026 Motorsport Broadcasting, /n/</title>
+  <programme start="20260114093000 +0000" stop="20260114113000 +0000" channel="DiemaSport2.bg">
+    <title lang="bg">Derby County - Leeds United3rd Round, Football: FA Cup 2025/2026, /n/</title>
   </programme>
-  <programme start="20260110083000 +0000" stop="20260110093000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">NBA Action 13 Episode 2025/2026 American Basketball Show /n/</title>
+  <programme start="20260114113000 +0000" stop="20260114133000 +0000" channel="DiemaSport2.bg">
+    <title lang="bg">Iraq - Australia3rd round, Football: Asian Youth Cup 2026 U23, live</title>
   </programme>
-  <programme start="20260110093000 +0000" stop="20260110113000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Eintracht Frankfurt - Borussia Dortmund Round of 16, Soccer: Bundesliga 2025/2026, /n/</title>
+  <programme start="20260114133000 +0000" stop="20260114143000 +0000" channel="DiemaSport2.bg">
+    <title lang="bg">English Premier League Round 21 Episode 2025/2026 English Football Show /n/</title>
   </programme>
-  <programme start="20260110113000 +0000" stop="20260110121500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">FA Cup</title>
+  <programme start="20260114143000 +0000" stop="20260114150000 +0000" channel="DiemaSport2.bg">
+    <title lang="bg">FA Cup Round 3 Episode 3 English Football Show 2025/2026, /n/</title>
+  </programme>
+  <programme start="20260114150000 +0000" stop="20260114170000 +0000" channel="DiemaSport2.bg">
+    <title lang="bg">Newcastle United - Bournemouth Round 3, Football: FA Cup 2025/2026, /n/</title>
+  </programme>
+  <programme start="20260114170000 +0000" stop="20260114173000 +0000" channel="DiemaSport2.bg">
+    <title lang="bg">Premier League Stories Episode 23 English Football Show 2025/2026</title>
+  </programme>
+  <programme start="20260114173000 +0000" stop="20260114193000 +0000" channel="DiemaSport2.bg">
+    <title lang="bg">Newcastle United v Manchester City Football: Carabao Cup 2025/2026 Semi Final /n/</title>
+  </programme>
+  <programme start="20260114193000 +0000" stop="20260114200000 +0000" channel="DiemaSport2.bg">
+    <title lang="bg">Carabao kup</title>
     <desc lang="bg">directly.</desc>
   </programme>
-  <programme start="20260110121500 +0000" stop="20260110141500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Macclesfield Town - Crystal Palace3rd round, Football: FA Cup 2025/2026, live</title>
+  <programme start="20260114200000 +0000" stop="20260114215500 +0000" channel="DiemaSport2.bg">
+    <title lang="bg">Chelsea v Arsenal Football: Carabao Cup 2025/2026 semi-final live</title>
   </programme>
-  <programme start="20260110141500 +0000" stop="20260110143000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Bundesliga</title>
-    <desc lang="bg">directly.</desc>
+  <programme start="20260114221500 +0000" stop="20260114224500 +0000" channel="DiemaSport2.bg">
+    <title lang="bg">Premier League Stories23 Episode English Football Show 2025/2026, /n/</title>
   </programme>
-  <programme start="20260110143000 +0000" stop="20260110162500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Union Berlin - Mainz Round of 16, Football: Bundesliga 2025/2026, live</title>
+  <programme start="20260114224500 +0000" stop="20260115004500 +0000" channel="DiemaSport2.bg">
+    <title lang="bg">Burnley - Millwall3rd round, Football: FA Cup 2025/2026, /n/</title>
   </programme>
-  <programme start="20260110162500 +0000" stop="20260110173000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Bundesliga</title>
-    <desc lang="bg">directly.</desc>
+  <programme start="20260115004500 +0000" stop="20260115043000 +0000" channel="DiemaSport2.bg">
+    <title lang="bg">Doncaster Rovers - Southampton Round 3, Soccer: FA Cup 2025/2026, /n/</title>
   </programme>
-  <programme start="20260110173000 +0000" stop="20260110192500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Bayer Leverkusen - Stuttgart Round of 16, Football: Bundesliga 2025/2026, live</title>
-  </programme>
-  <programme start="20260110192500 +0000" stop="20260110194000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Bundesliga</title>
-    <desc lang="bg">directly.</desc>
-  </programme>
-  <programme start="20260110194000 +0000" stop="20260110200000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">FA Cup</title>
-    <desc lang="bg">directly.</desc>
-  </programme>
-  <programme start="20260110200000 +0000" stop="20260110215500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Charlton Athletic - Chelsea Round 3, Football: FA Cup 2025/2026, live</title>
+  <programme start="20260115043000 +0000" stop="20260115063000 +0000" channel="DiemaSport2.bg">
+    <title lang="bg">Nottingham Forest - Wrexham Round 3, Football: FA Cup 2025/2026, /n/</title>
   </programme>
   <programme start="20260110221500 +0000" stop="20260111003000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Werder Bremen - Hoffenheim Round of 16, Soccer: Bundesliga 2025/2026, Record</title>
@@ -397,50 +353,43 @@
   <programme start="20260114040000 +0000" stop="20260114063000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Golden State Warriors - Portland Trail Blazers 2025/2026 NBA Basketball Live</title>
   </programme>
-  <programme start="20260110053000 +0000" stop="20260110063000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The year of the Black Sea.4 episode, show about Bulgarian football 2025/2026, /n/</title>
+  <programme start="20260114063000 +0000" stop="20260114083000 +0000" channel="DiemaSport3.bg">
+    <title lang="bg">Stuttgart - Eintracht Frankfurt Round 17, Soccer: Bundesliga 2025/2026, /n/</title>
   </programme>
-  <programme start="20260110063000 +0000" stop="20260110073000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The year of Slavia.Episode 5, show about Bulgarian football 2025/2026, /n/</title>
+  <programme start="20260114083000 +0000" stop="20260114103000 +0000" channel="DiemaSport3.bg">
+    <title lang="bg">Mainz - Heidenheim Round 17, Football: Bundesliga 2025/2026, /n/</title>
   </programme>
-  <programme start="20260110073000 +0000" stop="20260110083000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The best of the Home of Football.Episode 3, show about Bulgarian football 2025/2026, /n/</title>
+  <programme start="20260114103000 +0000" stop="20260114123000 +0000" channel="DiemaSport3.bg">
+    <title lang="bg">Hamburger SV - Bayer Leverkusen Round 17, Soccer: Bundesliga 2025/2026, /n/</title>
   </programme>
-  <programme start="20260110083000 +0000" stop="20260110093000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The heroes of the half season.broadcast about Bulgarian football 2025/2026, /n/</title>
+  <programme start="20260114123000 +0000" stop="20260114143000 +0000" channel="DiemaSport3.bg">
+    <title lang="bg">Borussia Dortmund - Werder Bremen Round 17, Soccer: Bundesliga 2025/2026, /n/</title>
   </programme>
-  <programme start="20260110093000 +0000" stop="20260110103000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The year of CSKA1948.2 episode, show about Bulgarian football 2025/2026, /n/</title>
+  <programme start="20260114143000 +0000" stop="20260114153000 +0000" channel="DiemaSport3.bg">
+    <title lang="bg">Bundesliga: Round 16 Roundup Episode 2025/2026 German Football Show /n/</title>
   </programme>
-  <programme start="20260110103000 +0000" stop="20260110113000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The year of Botev Plovdiv.Episode 6, show about Bulgarian football 2025/2026, /n/</title>
+  <programme start="20260114153000 +0000" stop="20260114170000 +0000" channel="DiemaSport3.bg">
+    <title lang="bg">Formula 2 and 3 Season Overview - The Year of Nikola Tsolov2025/2026 Motorsport Broadcasting, /n/</title>
   </programme>
-  <programme start="20260110113000 +0000" stop="20260110121500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">FA Cup</title>
-    <desc lang="bg">.directly.</desc>
+  <programme start="20260114170000 +0000" stop="20260114173000 +0000" channel="DiemaSport3.bg">
+    <title lang="bg">Bundesliga</title>
+    <desc lang="bg">directly.</desc>
   </programme>
-  <programme start="20260110121500 +0000" stop="20260110141000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Wolverhampton Wanderers - Shrewsbury Town.Round 3, Football: FA Cup 2025/2026, live</title>
+  <programme start="20260114173000 +0000" stop="20260114193000 +0000" channel="DiemaSport3.bg">
+    <title lang="bg">Wolfsburg - St. Pauli Round 17, Football: Bundesliga 2025/2026, live</title>
   </programme>
-  <programme start="20260110141000 +0000" stop="20260110150000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">FA Cup</title>
-    <desc lang="bg">.directly.</desc>
+  <programme start="20260114193000 +0000" stop="20260114212500 +0000" channel="DiemaSport3.bg">
+    <title lang="bg">Cologne - Bayern Munich Round 17, Football: Bundesliga 2025/2026, live</title>
   </programme>
-  <programme start="20260110150000 +0000" stop="20260110165500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Newcastle United - Bournemouth.Round 3, Football: FA Cup 2025/2026, live</title>
+  <programme start="20260114212500 +0000" stop="20260114215500 +0000" channel="DiemaSport3.bg">
+    <title lang="bg">Bundesliga</title>
+    <desc lang="bg">directly.</desc>
   </programme>
-  <programme start="20260110165500 +0000" stop="20260110171500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">FA Cup</title>
-    <desc lang="bg">.directly.</desc>
+  <programme start="20260115000000 +0000" stop="20260115040000 +0000" channel="DiemaSport3.bg">
+    <title lang="bg">Burgos - Hoventut15 round, Basketball: Liga Endesa 2025/2026, /n/</title>
   </programme>
-  <programme start="20260110171500 +0000" stop="20260110174500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">NBA Diary.79 episode 2025/2026 American Basketball broadcast</title>
-  </programme>
-  <programme start="20260110174500 +0000" stop="20260110194500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Cambridge United - Birmingham City.Round 3, Football: FA Cup 2025/2026, live</title>
-  </programme>
-  <programme start="20260110194500 +0000" stop="20260110214500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Burnley - Millwall.Round 3, Football: FA Cup 2025/2026, Record</title>
+  <programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="DiemaSport3.bg">
+    <title lang="bg">Stuttgart - Eintracht Frankfurt Round 17, Soccer: Bundesliga 2025/2026, /n/</title>
   </programme>
   <programme start="20260110234500 +0000" stop="20260111050000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Boxing: Boxxer.Boxing event, Leeds, UK , /n/</title>
@@ -550,47 +499,44 @@
   <programme start="20260113230000 +0000" stop="20260114050000 +0000" channel="DiemaSport.bg">
     <title lang="bg">The year of Beroe.15 episode, show about Bulgarian football 2025/2026, /n/</title>
   </programme>
-  <programme start="20260109230000 +0000" stop="20260110010000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 250: Brisbane</title>
+  <programme start="20260114050000 +0000" stop="20260114053000 +0000" channel="DiemaSport.bg">
+    <title lang="bg">NBA Diary.Episode 82, 2025/2026 American Basketball Show, /n/</title>
   </programme>
-  <programme start="20260110010000 +0000" stop="20260110030000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 250: Brisbane</title>
+  <programme start="20260114053000 +0000" stop="20260114073000 +0000" channel="DiemaSport.bg">
+    <title lang="bg">Aris - AEK.Round 16, Football: Greek Super League 2025/2026, /n/</title>
   </programme>
-  <programme start="20260110030000 +0000" stop="20260110050000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Euroleague: Danube - Fenerbahce</title>
+  <programme start="20260114073000 +0000" stop="20260114100000 +0000" channel="DiemaSport.bg">
+    <title lang="bg">Sacramento Kings - Los Angeles Lakers.NBA Basketball 2025/2026, /n/</title>
   </programme>
-  <programme start="20260110050000 +0000" stop="20260110070000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 250: Brisbane</title>
+  <programme start="20260114100000 +0000" stop="20260114123000 +0000" channel="DiemaSport.bg">
+    <title lang="bg">Golden State Warriors - Portland Trail Blazers.NBA Basketball 2025/2026, /n/</title>
   </programme>
-  <programme start="20260110070000 +0000" stop="20260110100000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">NFL: Tampa Bay Buccaneers - Carolina Panthers</title>
+  <programme start="20260114123000 +0000" stop="20260114130000 +0000" channel="DiemaSport.bg">
+    <title lang="bg">Football</title>
+    <desc lang="bg">.directly.</desc>
   </programme>
-  <programme start="20260110100000 +0000" stop="20260110103000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Trans World Sport</title>
+  <programme start="20260114130000 +0000" stop="20260114152500 +0000" channel="DiemaSport.bg">
+    <title lang="bg">Ludogorets - Rakov.Football: Friendly match, live</title>
   </programme>
-  <programme start="20260110103000 +0000" stop="20260110123000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 250: Brisbane</title>
+  <programme start="20260114152500 +0000" stop="20260114160000 +0000" channel="DiemaSport.bg">
+    <title lang="bg">Football</title>
+    <desc lang="bg">.directly.</desc>
   </programme>
-  <programme start="20260110123000 +0000" stop="20260110133000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Breakpoint</title>
+  <programme start="20260114160000 +0000" stop="20260114180000 +0000" channel="DiemaSport.bg">
+    <title lang="bg">Ludogorets - Paksh.Football: Friendly match, /n/</title>
   </programme>
-  <programme start="20260110133000 +0000" stop="20260110140000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Trans World Sport</title>
+  <programme start="20260114180000 +0000" stop="20260114190000 +0000" channel="DiemaSport.bg">
+    <title lang="bg">The best of the Home of Football.Episode 4, show about Bulgarian football 2025/2026</title>
   </programme>
-  <programme start="20260110140000 +0000" stop="20260110160000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 250: Brisbane</title>
+  <programme start="20260114190000 +0000" stop="20260114193000 +0000" channel="DiemaSport.bg">
+    <title lang="bg">NBA Diary.83 episode 2025/2026 USA Basketball broadcast</title>
   </programme>
-  <programme start="20260110160000 +0000" stop="20260110180000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE Africa Cup of Nations:</title>
+  <programme start="20260114193000 +0000" stop="20260114212500 +0000" channel="DiemaSport.bg">
+    <title lang="bg">RB Leipzig - Freiburg.Round 17, Football: Bundesliga 2025/2026, live</title>
   </programme>
-  <programme start="20260110180000 +0000" stop="20260110190000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Breakpoint</title>
-  </programme>
-  <programme start="20260110190000 +0000" stop="20260110210000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE Africa Cup of Nations:</title>
-  </programme>
-  <programme start="20260110210000 +0000" stop="20260110213000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">NFL: Round 18 preview</title>
+  <programme start="20260114212500 +0000" stop="20260114215500 +0000" channel="DiemaSport.bg">
+    <title lang="bg">Bundesliga</title>
+    <desc lang="bg">.directly.</desc>
   </programme>
   <programme start="20260111003000 +0000" stop="20260111010000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Trans World Sport</title>
@@ -721,47 +667,50 @@
   <programme start="20260114043000 +0000" stop="20260114050000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Trans World Sport</title>
   </programme>
-  <programme start="20260109233000 +0000" stop="20260110013000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Tennis: United Cup</title>
+  <programme start="20260114050000 +0000" stop="20260114070000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 250: Auckland</title>
   </programme>
-  <programme start="20260110013000 +0000" stop="20260110033000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Tennis: United Cup</title>
+  <programme start="20260114070000 +0000" stop="20260114090000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 250: Auckland</title>
   </programme>
-  <programme start="20260110033000 +0000" stop="20260110053000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Tennis: United Cup</title>
+  <programme start="20260114090000 +0000" stop="20260114110000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Eurocup: Bahceşehir Istanbul - Manresa</title>
   </programme>
-  <programme start="20260110053000 +0000" stop="20260110060000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Strike with a stick</title>
+  <programme start="20260114110000 +0000" stop="20260114130000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 250: Auckland</title>
   </programme>
-  <programme start="20260110060000 +0000" stop="20260110063000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">NFL: Round 18 preview</title>
+  <programme start="20260114130000 +0000" stop="20260114150000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 250: Auckland</title>
   </programme>
-  <programme start="20260110063000 +0000" stop="20260110083000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Tennis: United Cup</title>
+  <programme start="20260114150000 +0000" stop="20260114160000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Breakpoint</title>
   </programme>
-  <programme start="20260110083000 +0000" stop="20260110103000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Tennis: United Cup</title>
+  <programme start="20260114160000 +0000" stop="20260114180000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, Volleyball - Champions League, women: Vakfbank - Alba Blazh</title>
   </programme>
-  <programme start="20260110103000 +0000" stop="20260110123000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Tennis: United Cup</title>
+  <programme start="20260114180000 +0000" stop="20260114190000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Volley zone</title>
   </programme>
-  <programme start="20260110123000 +0000" stop="20260110143000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">NHL: Washington Capitals - Dallas Stars</title>
+  <programme start="20260114190000 +0000" stop="20260114193000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Basketball</title>
   </programme>
-  <programme start="20260110143000 +0000" stop="20260110164500 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Volleyball - Champions League: Knak Rozelare - Bogdanka</title>
+  <programme start="20260114193000 +0000" stop="20260114212000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, Euroleague: Partizan - Olympiakos</title>
   </programme>
-  <programme start="20260110164500 +0000" stop="20260110170000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Volleyball</title>
+  <programme start="20260114212000 +0000" stop="20260114213000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Basketball</title>
   </programme>
-  <programme start="20260110170000 +0000" stop="20260110190000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Volleyball - efbet Super Volley: CSKA - Deya</title>
+  <programme start="20260114223000 +0000" stop="20260115003000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 250: Auckland</title>
   </programme>
-  <programme start="20260110190000 +0000" stop="20260110200000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Strike with a stick</title>
+  <programme start="20260115003000 +0000" stop="20260115023000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 250: Auckland</title>
   </programme>
-  <programme start="20260110200000 +0000" stop="20260110220000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, French Cup: Sochaux - Lance</title>
+  <programme start="20260115023000 +0000" stop="20260115043000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 250: Auckland</title>
+  </programme>
+  <programme start="20260115043000 +0000" stop="20260115053000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">A contested ball</title>
   </programme>
   <programme start="20260110220000 +0000" stop="20260111000000 +0000" channel="MAXSport2.bg">
     <title lang="bg">LIVE, NHL: Colorado Avalanche - Columbus Blue Jackets</title>
@@ -907,56 +856,62 @@
   <programme start="20260114043000 +0000" stop="20260114063000 +0000" channel="MAXSport2.bg">
     <title lang="bg">LIVE, ATP 250: Adelaide</title>
   </programme>
-  <programme start="20260109220000 +0000" stop="20260110000000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Saudi Professional League: Al Nasser - Al Qadisiya</title>
+  <programme start="20260114063000 +0000" stop="20260114073000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Breakpoint</title>
   </programme>
-  <programme start="20260110000000 +0000" stop="20260110020000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Saudi Professional League: Al Hilal - Al Hazem</title>
+  <programme start="20260114073000 +0000" stop="20260114080000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Trans World Sport</title>
   </programme>
-  <programme start="20260110020000 +0000" stop="20260110040000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Serie A: Bologna - Atalanta</title>
+  <programme start="20260114080000 +0000" stop="20260114100000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">LIVE, ATP 250: Adelaide</title>
   </programme>
-  <programme start="20260110040000 +0000" stop="20260110060000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Serie A: Parma - Inter</title>
+  <programme start="20260114100000 +0000" stop="20260114103000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Trans World Sport</title>
   </programme>
-  <programme start="20260110060000 +0000" stop="20260110080000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Africa Cup of Nations:</title>
+  <programme start="20260114103000 +0000" stop="20260114123000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">NHL: Detroit Red Wings - Carolina Hurricanes</title>
   </programme>
-  <programme start="20260110080000 +0000" stop="20260110100000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Africa Cup of Nations:</title>
+  <programme start="20260114123000 +0000" stop="20260114143000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Volleyball - Women's Champions League: Fenerbahce - Novara</title>
   </programme>
-  <programme start="20260110100000 +0000" stop="20260110120000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Serie A: Milan - Genoa</title>
+  <programme start="20260114143000 +0000" stop="20260114153000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Strike with a stick</title>
   </programme>
-  <programme start="20260110120000 +0000" stop="20260110130000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Serie A: Round 19 overview</title>
+  <programme start="20260114153000 +0000" stop="20260114163000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">A contested ball</title>
   </programme>
-  <programme start="20260110130000 +0000" stop="20260110133000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Before the round</title>
-  </programme>
-  <programme start="20260110133000 +0000" stop="20260110140000 +0000" channel="MAXSport3.bg">
+  <programme start="20260114163000 +0000" stop="20260114170000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Football</title>
   </programme>
-  <programme start="20260110140000 +0000" stop="20260110160000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">LIVE Serie A: Como - Bologna</title>
+  <programme start="20260114170000 +0000" stop="20260114190000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">LIVE Africa Cup of Nations:</title>
   </programme>
-  <programme start="20260110160000 +0000" stop="20260110163000 +0000" channel="MAXSport3.bg">
+  <programme start="20260114190000 +0000" stop="20260114191500 +0000" channel="MAXSport2.bg">
     <title lang="bg">Football</title>
   </programme>
-  <programme start="20260110163000 +0000" stop="20260110170000 +0000" channel="MAXSport3.bg">
+  <programme start="20260114191500 +0000" stop="20260114194500 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20260114194500 +0000" stop="20260114200000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Football</title>
   </programme>
-  <programme start="20260110170000 +0000" stop="20260110190000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">LIVE, Serie A: Roma - Sassuolo</title>
+  <programme start="20260114200000 +0000" stop="20260114220000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">LIVE Africa Cup of Nations:</title>
   </programme>
-  <programme start="20260110190000 +0000" stop="20260110194500 +0000" channel="MAXSport3.bg">
+  <programme start="20260114220000 +0000" stop="20260114221500 +0000" channel="MAXSport2.bg">
     <title lang="bg">Football</title>
   </programme>
-  <programme start="20260110194500 +0000" stop="20260110214500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">LIVE Serie A: Atalanta - Torino</title>
+  <programme start="20260114221500 +0000" stop="20260115001500 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Volleyball - Series A1: Grotadzolina - Lube Civitanova</title>
   </programme>
-  <programme start="20260110214500 +0000" stop="20260110220000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Football</title>
+  <programme start="20260115001500 +0000" stop="20260115020000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">ATP 250: Adelaide</title>
+  </programme>
+  <programme start="20260115020000 +0000" stop="20260115040000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">LIVE, ATP 250: Adelaide</title>
+  </programme>
+  <programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">LIVE, ATP 250: Adelaide</title>
   </programme>
   <programme start="20260110220000 +0000" stop="20260111000000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Serie A: Roma - Sassuolo</title>
@@ -1105,57 +1060,53 @@
   <programme start="20260114040000 +0000" stop="20260114060000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Serie A: Inter - Napoli</title>
   </programme>
-  <programme start="20260109220000 +0000" stop="20260110000000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Tennis: United Cup</title>
+  <programme start="20260114060000 +0000" stop="20260114080000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Saudi Professional League: Al Hilal - Al Nasser</title>
   </programme>
-  <programme start="20260110000000 +0000" stop="20260110020000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Africa Cup of Nations:</title>
+  <programme start="20260114080000 +0000" stop="20260114100000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Serie A: Juventus - Cremonese</title>
   </programme>
-  <programme start="20260110020000 +0000" stop="20260110040000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Africa Cup of Nations:</title>
+  <programme start="20260114100000 +0000" stop="20260114120000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Turkish Cup: Fethiyespor - Galatasaray</title>
   </programme>
-  <programme start="20260110040000 +0000" stop="20260110060000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Saudi Professional League: Al Hilal - Al Hazem</title>
+  <programme start="20260114120000 +0000" stop="20260114140000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">French Cup: Paris Saint-Germain - Paris</title>
   </programme>
-  <programme start="20260110060000 +0000" stop="20260110080000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga 2: Cadiz - Sporting</title>
+  <programme start="20260114140000 +0000" stop="20260114160000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Coppa Italia Frezzarossa: Roma - Torino</title>
   </programme>
-  <programme start="20260110080000 +0000" stop="20260110090000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">In front of the Stadium</title>
-    <desc lang="bg">sports show.</desc>
+  <programme start="20260114160000 +0000" stop="20260114170000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Serie A: Round 20 overview</title>
   </programme>
-  <programme start="20260110090000 +0000" stop="20260110100000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LaLiga diary</title>
-  </programme>
-  <programme start="20260110100000 +0000" stop="20260110103000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Round 18 overview</title>
-  </programme>
-  <programme start="20260110103000 +0000" stop="20260110123000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Getafe - Real Sociedad</title>
-  </programme>
-  <programme start="20260110123000 +0000" stop="20260110130000 +0000" channel="MAXSport4.bg">
+  <programme start="20260114170000 +0000" stop="20260114173000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Football</title>
   </programme>
-  <programme start="20260110130000 +0000" stop="20260110150000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, La Liga: Oviedo - Betis</title>
+  <programme start="20260114173000 +0000" stop="20260114193000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">LIVE, Serie A: Napoli - Parma</title>
   </programme>
-  <programme start="20260110150000 +0000" stop="20260110151500 +0000" channel="MAXSport4.bg">
+  <programme start="20260114193000 +0000" stop="20260114194500 +0000" channel="MAXSport3.bg">
     <title lang="bg">Football</title>
   </programme>
-  <programme start="20260110151500 +0000" stop="20260110171500 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, La Liga: Villarreal - Alaves</title>
+  <programme start="20260114194500 +0000" stop="20260114214500 +0000" channel="MAXSport3.bg">
+    <title lang="bg">LIVE, Serie A: Inter - Lecce</title>
   </programme>
-  <programme start="20260110171500 +0000" stop="20260110173000 +0000" channel="MAXSport4.bg">
+  <programme start="20260114214500 +0000" stop="20260114220000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Football</title>
   </programme>
-  <programme start="20260110173000 +0000" stop="20260110193000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, La Liga: Girona - Osasuna</title>
+  <programme start="20260114220000 +0000" stop="20260115000000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Eurocup: Ulm - Chemnitz</title>
   </programme>
-  <programme start="20260110193000 +0000" stop="20260110200000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Football</title>
+  <programme start="20260115000000 +0000" stop="20260115003000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Trans World Sport</title>
   </programme>
-  <programme start="20260110200000 +0000" stop="20260110220000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, La Liga: Valencia - Elche</title>
+  <programme start="20260115003000 +0000" stop="20260115033000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">LIVE, Buffalo Sabers - Philadelphia Flyers</title>
+  </programme>
+  <programme start="20260115033000 +0000" stop="20260115040000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Serie A: Fiorentina - Milan</title>
   </programme>
   <programme start="20260110220000 +0000" stop="20260110221500 +0000" channel="MAXSport4.bg">
     <title lang="bg">Football</title>
@@ -1296,5 +1247,47 @@
   </programme>
   <programme start="20260114040000 +0000" stop="20260114060000 +0000" channel="MAXSport4.bg">
     <title lang="bg">French Cup: Sochaux - Lance</title>
+  </programme>
+  <programme start="20260114060000 +0000" stop="20260114080000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">French Cup: Bayeux - Olympique Marseille</title>
+  </programme>
+  <programme start="20260114080000 +0000" stop="20260114100000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Sevilla - Celta</title>
+  </programme>
+  <programme start="20260114100000 +0000" stop="20260114120000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Athletic Bilbao - Real Madrid</title>
+  </programme>
+  <programme start="20260114120000 +0000" stop="20260114140000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Barcelona - Atletico Madrid</title>
+  </programme>
+  <programme start="20260114140000 +0000" stop="20260114150000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">LaLiga diary</title>
+  </programme>
+  <programme start="20260114150000 +0000" stop="20260114153000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20260114153000 +0000" stop="20260114173000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">King's Cup:</title>
+  </programme>
+  <programme start="20260114173000 +0000" stop="20260114193000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">LIVE, Turkish Cup: Beyoglu Yeni Carsi - Fenerbahce</title>
+  </programme>
+  <programme start="20260114193000 +0000" stop="20260114200000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Round 19 overview</title>
+  </programme>
+  <programme start="20260114200000 +0000" stop="20260114220000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">LIVE, Copa del Rey:</title>
+  </programme>
+  <programme start="20260114220000 +0000" stop="20260115000000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">Turkish Cup: Fethiyespor - Galatasaray</title>
+  </programme>
+  <programme start="20260115000000 +0000" stop="20260115020000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Valencia - Elche</title>
+  </programme>
+  <programme start="20260115020000 +0000" stop="20260115040000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Villarreal - Alaves</title>
+  </programme>
+  <programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">French Cup: Paris Saint-Germain - Paris</title>
   </programme>
   </tv>
