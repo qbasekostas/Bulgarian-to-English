@@ -28,7 +28,7 @@
     <icon src="https://iptv-epg.org/logos/Bulgaria/MAXSport4.bg.png" />
   </channel>
   <programme start="20260219223000 +0000" stop="20260220003000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Coventry City - MiddlesbroughRound 32, Football: Championship 2025/2026, /n/</title>
+    <title lang="bg">Coventry City - MiddlesbroughRound 32, Soccer: Championship 2025/2026, /n/</title>
   </programme>
   <programme start="20260220003000 +0000" stop="20260220050000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Blackpool - Mansfield Town Round 33, Soccer: League One 2025/2026, /n/</title>
@@ -154,7 +154,7 @@
     <title lang="bg">Elite Asian Champions League: Roundup 8 Episode Asian Football 2025/2026 Show, /n/</title>
   </programme>
   <programme start="20260221053000 +0000" stop="20260221060000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Asian Champions League 2: Roundup Episode 8 Asian Football 2025/2026 Show /n/</title>
+    <title lang="bg">Asian Champions League 2: Roundup Episode 8 Asian Football 2025/2026 Broadcast /n/</title>
   </programme>
   <programme start="20260221060000 +0000" stop="20260221063000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Weekly in the Bundesliga 26 episode German football broadcast 2025/2026, /n/</title>
