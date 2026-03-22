@@ -28,7 +28,7 @@
     <icon src="https://iptv-epg.org/logos/Bulgaria/MAXSport4.bg.png" />
   </channel>
   <programme start="20260319223000 +0000" stop="20260319233000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">NBA Action 23 episode American basketball show 2025/2026, /n/</title>
+    <title lang="bg">NBA Action 23 episode American basketball broadcast 2025/2026, /n/</title>
   </programme>
   <programme start="20260319233000 +0000" stop="20260320050000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Nottingham Forest - Fulham Round 30, Soccer: Premier League 2025/2026, /n/</title>
@@ -43,16 +43,16 @@
     <title lang="bg">Premier League: The Big Interview Episode 32 English Football Show 2025/2026, /n/</title>
   </programme>
   <programme start="20260320093000 +0000" stop="20260320103000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">NBA Action 23 episode American basketball show 2025/2026, /n/</title>
+    <title lang="bg">NBA Action 23 episode American basketball broadcast 2025/2026, /n/</title>
   </programme>
   <programme start="20260320103000 +0000" stop="20260320130000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Houston Rockets - Los Angeles Lakers NBA Basketball 2025/2026, /n/</title>
   </programme>
   <programme start="20260320130000 +0000" stop="20260320133000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Premier League Stories32 Episodes English Football Show 2025/2026, /n/</title>
+    <title lang="bg">Premier League Stories32 Episode English Football Show 2025/2026, /n/</title>
   </programme>
   <programme start="20260320133000 +0000" stop="20260320153000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Manchester United - Aston Villa Round 30, Football: Premier League 2025/2026, /n/</title>
+    <title lang="bg">Manchester United - Aston Villa Round 30, Soccer: Premier League 2025/2026, /n/</title>
   </programme>
   <programme start="20260320153000 +0000" stop="20260320163000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Premier League Talk Show Episode 26, English Football Show 2025/2026, /n/</title>
@@ -182,7 +182,7 @@
     <title lang="bg">Hannover - Eintracht Braunschweig Round 27, Soccer: Second Bundesliga 2025/2026, /n/</title>
   </programme>
   <programme start="20260321053000 +0000" stop="20260321063000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">NBA Action 23 episode American basketball show 2025/2026, /n/</title>
+    <title lang="bg">NBA Action 23 episode American basketball broadcast 2025/2026, /n/</title>
   </programme>
   <programme start="20260321063000 +0000" stop="20260321073000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Formula 1 Talk Show 4 episode, show about Formula 1 2026, /n/</title>
@@ -211,7 +211,7 @@
     <desc lang="bg">directly.</desc>
   </programme>
   <programme start="20260321173000 +0000" stop="20260321192500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Borussia Dortmund - Hamburger Round 27, Football: Bundesliga 2025/2026, live</title>
+    <title lang="bg">Borussia Dortmund - Hamburger Round27, Football: Bundesliga 2025/2026, live</title>
   </programme>
   <programme start="20260321192500 +0000" stop="20260321200000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Bundesliga</title>
@@ -372,7 +372,7 @@
     <title lang="bg">Volleyball: CEV Challenge Cup, women: Panathinaikos - Valefolia</title>
   </programme>
   <programme start="20260320080000 +0000" stop="20260320100000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Volleyball - Series A1: Trento - Lube Civitanova</title>
+    <title lang="bg">Volleyball - Serie A1: Trento - Lube Civitanova</title>
   </programme>
   <programme start="20260320100000 +0000" stop="20260320121500 +0000" channel="MAXSport2.bg">
     <title lang="bg">Volleyball - Champions League, women: Vakfbank Vero Volley Milano</title>
