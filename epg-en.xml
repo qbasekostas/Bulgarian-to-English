@@ -28,7 +28,7 @@
     <icon src="https://iptv-epg.org/logos/Bulgaria/MAXSport4.bg.png" />
   </channel>
   <programme start="20260401220000 +0000" stop="20260401223000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Ligue 1: Before the round28 episode, French football show 2025/2026, /n/</title>
+    <title lang="bg">Ligue 1: Before the round28 episode, French football broadcast 2025/2026, /n/</title>
   </programme>
   <programme start="20260401223000 +0000" stop="20260401230000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Premier League: The Big Interview Episode 34 English Football Show 2025/2026, /n/</title>
@@ -67,7 +67,7 @@
     <title lang="bg">Coventry City - Derby County Round 40, Football: Championship 2025/2026, live</title>
   </programme>
   <programme start="20260402220000 +0000" stop="20260402223000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Ligue 1: Before the round28 episode, French football show 2025/2026, /n/</title>
+    <title lang="bg">Ligue 1: Before the round28 episode, French football broadcast 2025/2026, /n/</title>
   </programme>
   <programme start="20260402223000 +0000" stop="20260402230000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Premier League: The Big Interview Episode 34 English Football Show 2025/2026, /n/</title>
@@ -234,7 +234,7 @@
     <title lang="bg">Kosovo - Turkey Soccer: 2026 World Cup Qualifiers Play Off /n/</title>
   </programme>
   <programme start="20260403171500 +0000" stop="20260403174500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Ligue 1: Before the round28 episode, French football show 2025/2026, /n/</title>
+    <title lang="bg">Ligue 1: Before the round28 episode, French football broadcast 2025/2026, /n/</title>
   </programme>
   <programme start="20260403174500 +0000" stop="20260403181500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">FA Cup Round 6 Episode 6 English Football Show 2025/2026</title>
@@ -256,7 +256,7 @@
     <title lang="bg">Netherlands - Ecuador International Friendly, /n/</title>
   </programme>
   <programme start="20260404063000 +0000" stop="20260404083000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Germany - Ghana International friendly, /n/</title>
+    <title lang="bg">Germany - GhanaInternational friendly, /n/</title>
   </programme>
   <programme start="20260404083000 +0000" stop="20260404103000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Paris Saint-Germain - ToulouseRound 28, Soccer: Ligue 1 France 2025/2026, /n/</title>
@@ -477,7 +477,7 @@
     <title lang="bg">LIVE, ATP 250 Bucharest: ATP 250 Third quarter-final</title>
   </programme>
   <programme start="20260403120000 +0000" stop="20260403140000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 250 Bucharest: ATP 250 Fourth Quarter Final</title>
+    <title lang="bg">LIVE, ATP 250 Bucharest: ATP 250 Quarter Final Four</title>
   </programme>
   <programme start="20260403140000 +0000" stop="20260403143000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Volleyball</title>
@@ -642,7 +642,7 @@
     <title lang="bg">LIVE, ATP 250 Marrakech: Second semi-final</title>
   </programme>
   <programme start="20260404140000 +0000" stop="20260404160000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Volleyball - Series A1:</title>
+    <title lang="bg">LIVE, Volleyball - Serie A1:</title>
   </programme>
   <programme start="20260404160000 +0000" stop="20260404180000 +0000" channel="MAXSport2.bg">
     <title lang="bg">LIVE, Saudi Professional League: Al Hilal - Al Taawon</title>
