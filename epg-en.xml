@@ -27,39 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/logos/Bulgaria/MAXSport4.bg.png" />
   </channel>
-  <programme start="20260408230000 +0000" stop="20260409043000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Cleveland Cavaliers - Atlanta Hawks NBA Basketball 2025/2026, live</title>
-  </programme>
-  <programme start="20260409043000 +0000" stop="20260409070000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Milwaukee Bucks - Memphis Grizzlies NBA Basketball 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409070000 +0000" stop="20260409073000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Carabao Cup: Round 9 Review Episode 2025/26 English Football Show /n/</title>
-  </programme>
-  <programme start="20260409073000 +0000" stop="20260409093000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">West Ham United v Leeds United Football: FA Cup 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409093000 +0000" stop="20260409100000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Premier League Stories35 Episode English Football Show 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409100000 +0000" stop="20260409123000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Cleveland Cavaliers - Atlanta Hawks NBA Basketball 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409123000 +0000" stop="20260409150000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">San Antonio Spurs - Portland Trail Blazers NBA Basketball 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409150000 +0000" stop="20260409153000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Ligue 1: Before the round29 episode French football broadcast 2025/2026</title>
-  </programme>
-  <programme start="20260409153000 +0000" stop="20260409160000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Premier League: The Big Interview Episode 35 English Football Show 2025/2026</title>
-  </programme>
-  <programme start="20260409160000 +0000" stop="20260409170000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">NBA Action 26 Episode USA Basketball 2025/2026 Broadcast Live</title>
-  </programme>
-  <programme start="20260409170000 +0000" stop="20260409193000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Golden State Warriors - Houston Rockets NBA Basketball 2025/2026, /n/</title>
-  </programme>
   <programme start="20260409220000 +0000" stop="20260410043000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">NBA Action 26 Episode 2025/2026 American Basketball Show /n/</title>
   </programme>
@@ -135,48 +102,6 @@
   </programme>
   <programme start="20260411190500 +0000" stop="20260411205500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Rennes - AngersRound 29, Football: Ligue 1 France 2025/2026, live</title>
-  </programme>
-  <programme start="20260408220000 +0000" stop="20260408230000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Bundesliga Talk Show Episode 29, German Football Show 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260408230000 +0000" stop="20260409010000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Borussia Mönchengladbach - Heidenheim Round 28, Soccer: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409010000 +0000" stop="20260409013000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">NBA Diary164 Episode 2025/2026 American Basketball Show /n/</title>
-  </programme>
-  <programme start="20260409013000 +0000" stop="20260409040000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">San Antonio Spurs - Portland Trail Blazers 2025/2026 NBA Basketball Live</title>
-  </programme>
-  <programme start="20260409040000 +0000" stop="20260409060000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Paris Saint-Germain - ToulouseRound 28, Soccer: Ligue 1 France 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409060000 +0000" stop="20260409080000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Strasbourg-Nice Round 28, Football: Ligue 1 France 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409080000 +0000" stop="20260409100000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Brest - Rennes Round 28, Football: Ligue 1 France 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409100000 +0000" stop="20260409120000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Lille - Lens Round 28, Soccer: Ligue 1 France 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409120000 +0000" stop="20260409140000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Angers - Lyon Round 28, Football: Ligue 1 France 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409140000 +0000" stop="20260409143000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Ligue 1: Round 28 Roundup Episode 2025/2025 French Football Show /n/</title>
-  </programme>
-  <programme start="20260409143000 +0000" stop="20260409150000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Weekly in the Bundesliga 33 episode German football broadcast 2025/2026</title>
-  </programme>
-  <programme start="20260409150000 +0000" stop="20260409170000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Monaco - MarseilleRound 28, Soccer: Ligue 1 France 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409170000 +0000" stop="20260409180000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Bundesliga Talk Show Episode 29, German Football Show 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409180000 +0000" stop="20260409183000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Second Bundesliga: Round 28 Roundup Episode 2025/2026 German Football Show /n/</title>
   </programme>
   <programme start="20260409213000 +0000" stop="20260409220000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Weekly in the Bundesliga Episode 33 German Football Show 2025/2026, /n/</title>
@@ -263,58 +188,6 @@
   <programme start="20260411202500 +0000" stop="20260411204500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Bundesliga</title>
     <desc lang="bg">directly.</desc>
-  </programme>
-  <programme start="20260408213000 +0000" stop="20260408233000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Ludogorets - CSKA 1948. Round 28, Football: efbet Liga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260408233000 +0000" stop="20260409043000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Beroe - CSKA.Round 28, Football: efbet League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409043000 +0000" stop="20260409053000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">efbet League: Round Overview.28 episode, show about Bulgarian football 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409053000 +0000" stop="20260409060000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The heroes of the circle.28 episode, show about Bulgarian football 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409060000 +0000" stop="20260409080000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Montana - CSKA.Round 29, Football: efbet League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409080000 +0000" stop="20260409083000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The goals of the round.28 episode, show about Bulgarian football 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409083000 +0000" stop="20260409103000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Botev Plovdiv - Lokomotiv Plovdiv.Round 29, Football: efbet League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409103000 +0000" stop="20260409113000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Second Professional League: Round Overview.27 episode, show about Bulgarian football 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260409113000 +0000" stop="20260409120000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">NBA Diary.165 episode 2025/2026 USA Basketball broadcast</title>
-  </programme>
-  <programme start="20260409120000 +0000" stop="20260409123000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">efbet League football</title>
-    <desc lang="bg">.directly.</desc>
-  </programme>
-  <programme start="20260409123000 +0000" stop="20260409142500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Locomotive Sofia - Beroe.Round 29, Football: efbet League 2025/2026, live</title>
-  </programme>
-  <programme start="20260409142500 +0000" stop="20260409150000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">efbet League football</title>
-    <desc lang="bg">.directly.</desc>
-  </programme>
-  <programme start="20260409150000 +0000" stop="20260409165500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Ludogorets - Black Sea.Round 29, Football: efbet League 2025/2026, live</title>
-  </programme>
-  <programme start="20260409165500 +0000" stop="20260409173000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">efbet League football</title>
-    <desc lang="bg">.directly.</desc>
-  </programme>
-  <programme start="20260409173000 +0000" stop="20260409192500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Levski - Arda.Round 29, Football: efbet League 2025/2026, live</title>
-  </programme>
-  <programme start="20260409192500 +0000" stop="20260409200000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">efbet League football</title>
-    <desc lang="bg">.directly.</desc>
   </programme>
   <programme start="20260409220000 +0000" stop="20260410040000 +0000" channel="DiemaSport.bg">
     <title lang="bg">September - Botev Vratsa.Round 28, Football: efbet League 2025/2026, /n/</title>
@@ -412,48 +285,6 @@
   <programme start="20260411223000 +0000" stop="20260412003000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Levski - Arda.Round 29, Football: efbet League 2025/2026, /n/</title>
   </programme>
-  <programme start="20260408210000 +0000" stop="20260408230000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Monte Carlo</title>
-  </programme>
-  <programme start="20260408230000 +0000" stop="20260409010000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Monte Carlo</title>
-  </programme>
-  <programme start="20260409010000 +0000" stop="20260409030000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Monte Carlo</title>
-  </programme>
-  <programme start="20260409030000 +0000" stop="20260409050000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Monte Carlo</title>
-  </programme>
-  <programme start="20260409050000 +0000" stop="20260409070000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Monte Carlo</title>
-  </programme>
-  <programme start="20260409070000 +0000" stop="20260409090000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Monte Carlo</title>
-  </programme>
-  <programme start="20260409090000 +0000" stop="20260409110000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 1000: Monte Carlo</title>
-  </programme>
-  <programme start="20260409110000 +0000" stop="20260409130000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 1000: Monte Carlo</title>
-  </programme>
-  <programme start="20260409130000 +0000" stop="20260409150000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 1000: Monte Carlo</title>
-  </programme>
-  <programme start="20260409150000 +0000" stop="20260409160000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">A contested ball</title>
-  </programme>
-  <programme start="20260409160000 +0000" stop="20260409163000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Basketball</title>
-  </programme>
-  <programme start="20260409163000 +0000" stop="20260409182000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, Euroleague: Apoel Tel Aviv - Olympiakos</title>
-  </programme>
-  <programme start="20260409182000 +0000" stop="20260409184500 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Basketball</title>
-  </programme>
-  <programme start="20260409184500 +0000" stop="20260409204500 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, Euroleague: Valencia - Panathinaikos</title>
-  </programme>
   <programme start="20260409230000 +0000" stop="20260410010000 +0000" channel="MAXSport1.bg">
     <title lang="bg">ATP 1000: Monte Carlo</title>
   </programme>
@@ -528,45 +359,6 @@
   </programme>
   <programme start="20260411190000 +0000" stop="20260411200000 +0000" channel="MAXSport1.bg">
     <title lang="bg">LIVE, Cage Warriors 204: Gala Night from Rome</title>
-  </programme>
-  <programme start="20260408223000 +0000" stop="20260409010000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Sesame National Basketball League: Balkan - Black Sea</title>
-  </programme>
-  <programme start="20260409010000 +0000" stop="20260409040000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Golf: Hero Indian Open</title>
-  </programme>
-  <programme start="20260409040000 +0000" stop="20260409050000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Golf: Hero Indian Open</title>
-  </programme>
-  <programme start="20260409050000 +0000" stop="20260409070000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Eurocup: Besiktas - Bahcesehir Istanbul</title>
-  </programme>
-  <programme start="20260409070000 +0000" stop="20260409090000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Euroleague: Monaco - ASVEL</title>
-  </programme>
-  <programme start="20260409090000 +0000" stop="20260409111500 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Euroleague: Apoel Tel Aviv - Fenerbahce</title>
-  </programme>
-  <programme start="20260409111500 +0000" stop="20260409133000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Volleyball - efbet Super Volley: Levski - CSKA</title>
-  </programme>
-  <programme start="20260409133000 +0000" stop="20260409143000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Strike with a stick</title>
-  </programme>
-  <programme start="20260409143000 +0000" stop="20260409154500 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Speed ​​of Max</title>
-  </programme>
-  <programme start="20260409154500 +0000" stop="20260409160000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Volleyball</title>
-  </programme>
-  <programme start="20260409160000 +0000" stop="20260409181500 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Volleyball - efbet Super Volley: Lokomotiv Avia - Neftokhimik</title>
-  </programme>
-  <programme start="20260409181500 +0000" stop="20260409190000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Trans World Sport</title>
-  </programme>
-  <programme start="20260409190000 +0000" stop="20260409210000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, UEFA Conference League: Shakhtar Donetsk - AZ Alkmaar</title>
   </programme>
   <programme start="20260409210000 +0000" stop="20260409230000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Euroleague: Fenerbahce - Real Madrid</title>
@@ -648,48 +440,6 @@
   </programme>
   <programme start="20260411180000 +0000" stop="20260411200000 +0000" channel="MAXSport2.bg">
     <title lang="bg">LIVE, Saudi Professional League: Al Ahdud - Al Nasser</title>
-  </programme>
-  <programme start="20260408223000 +0000" stop="20260409003000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Serie A: Juventus - Genoa</title>
-  </programme>
-  <programme start="20260409003000 +0000" stop="20260409023000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Serie A: Lazio - Parma</title>
-  </programme>
-  <programme start="20260409023000 +0000" stop="20260409030000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Trans World Sport</title>
-  </programme>
-  <programme start="20260409030000 +0000" stop="20260409050000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Saudi Professional League: Al Hilal - Al Taawon</title>
-  </programme>
-  <programme start="20260409050000 +0000" stop="20260409070000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Copa Libertadores: Universidad Católica - Boca Juniors</title>
-  </programme>
-  <programme start="20260409070000 +0000" stop="20260409090000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Serie A: Juventus - Genoa</title>
-  </programme>
-  <programme start="20260409090000 +0000" stop="20260409110000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Serie A: Lazio - Parma</title>
-  </programme>
-  <programme start="20260409110000 +0000" stop="20260409120000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Europa League and Conference League</title>
-  </programme>
-  <programme start="20260409120000 +0000" stop="20260409140000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Champions League: Sporting Lisbon - Arsenal</title>
-  </programme>
-  <programme start="20260409140000 +0000" stop="20260409160000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Champions League: Real Madrid - Bayern Munich</title>
-  </programme>
-  <programme start="20260409160000 +0000" stop="20260409164500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Football</title>
-  </programme>
-  <programme start="20260409164500 +0000" stop="20260409183500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">LIVE, UEFA Conference League: Rayo Vallecano - AEK Athens</title>
-  </programme>
-  <programme start="20260409183500 +0000" stop="20260409190000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Football</title>
-  </programme>
-  <programme start="20260409190000 +0000" stop="20260409205000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">LIVE, UEFA Europa League: Bologna v Aston Villa</title>
   </programme>
   <programme start="20260409211500 +0000" stop="20260409221500 +0000" channel="MAXSport3.bg">
     <title lang="bg">LIVE, UEFA Europa League and Conference League: Round of the Round</title>
@@ -789,51 +539,6 @@
   </programme>
   <programme start="20260411184500 +0000" stop="20260411204500 +0000" channel="MAXSport3.bg">
     <title lang="bg">LIVE, Serie A: Atalanta - Juventus</title>
-  </programme>
-  <programme start="20260408213000 +0000" stop="20260408220000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Before the round</title>
-  </programme>
-  <programme start="20260408220000 +0000" stop="20260409000000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, Copa Sudamericana: Deportivo Cuenca - Santos</title>
-  </programme>
-  <programme start="20260409000000 +0000" stop="20260409003000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Trans World Sport</title>
-  </programme>
-  <programme start="20260409003000 +0000" stop="20260409023000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, Copa Libertadores: Cusco - Flamengo</title>
-  </programme>
-  <programme start="20260409023000 +0000" stop="20260409030000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Round 30 overview</title>
-  </programme>
-  <programme start="20260409030000 +0000" stop="20260409050000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga 2: Sporting Gijon - Real Sociedad B</title>
-  </programme>
-  <programme start="20260409050000 +0000" stop="20260409070000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Mallorca - Real Madrid</title>
-  </programme>
-  <programme start="20260409070000 +0000" stop="20260409090000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Atletico Madrid - Barcelona</title>
-  </programme>
-  <programme start="20260409090000 +0000" stop="20260409110000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, ATP 1000: Monte Carlo</title>
-  </programme>
-  <programme start="20260409110000 +0000" stop="20260409130000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, ATP 1000: Monte Carlo</title>
-  </programme>
-  <programme start="20260409130000 +0000" stop="20260409151500 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, ATP 1000: Monte Carlo</title>
-  </programme>
-  <programme start="20260409151500 +0000" stop="20260409154500 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Round 30 overview</title>
-  </programme>
-  <programme start="20260409154500 +0000" stop="20260409174500 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Copa Sudamericana: Deportivo Cuenca - Santos</title>
-  </programme>
-  <programme start="20260409174500 +0000" stop="20260409190000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LaLiga diary</title>
-  </programme>
-  <programme start="20260409190000 +0000" stop="20260409210000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, UEFA Conference League: Crystal Palace - Fiorentina</title>
   </programme>
   <programme start="20260409210000 +0000" stop="20260409220000 +0000" channel="MAXSport4.bg">
     <title lang="bg">LaLiga diary</title>
