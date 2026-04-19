@@ -28,13 +28,13 @@
     <icon src="https://iptv-epg.org/logos/Bulgaria/MAXSport4.bg.png" />
   </channel>
   <programme start="20260416220000 +0000" stop="20260416230000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">NBA Action 27 Episode 2025/2026 American Basketball Show, /n/</title>
+    <title lang="bg">NBA Action 27 episode American basketball show 2025/2026, /n/</title>
   </programme>
   <programme start="20260416230000 +0000" stop="20260417043000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Rennes - AngersRound 29, Football: Ligue 1 France 2025/2026, /n/</title>
   </programme>
   <programme start="20260417043000 +0000" stop="20260417053000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">NBA Action 27 Episode 2025/2026 American Basketball Show, /n/</title>
+    <title lang="bg">NBA Action 27 episode American basketball show 2025/2026, /n/</title>
   </programme>
   <programme start="20260417053000 +0000" stop="20260417073000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Chelsea v Manchester City Round 32, Football: Premier League 2025/2026, /n/</title>
@@ -55,7 +55,7 @@
     <title lang="bg">Premier League Stories36 Episode English Football Show 2025/2026, /n/</title>
   </programme>
   <programme start="20260417140000 +0000" stop="20260417160000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Liverpool v Fulham Round 32, Soccer: Premier League 2025/2026, /n/</title>
+    <title lang="bg">Liverpool v Fulham Round 32, Football: Premier League 2025/2026, /n/</title>
   </programme>
   <programme start="20260417160000 +0000" stop="20260417163000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">To Break the Net Episode 32, English Football Show 2025/2026, /n/</title>
@@ -79,7 +79,7 @@
     <title lang="bg">Portsmouth - Ipswich Town Round of 26, Soccer: Championship 2025/2026, /n/</title>
   </programme>
   <programme start="20260418073000 +0000" stop="20260418083000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">NBA Action 27 Episode 2025/2026 American Basketball Show, /n/</title>
+    <title lang="bg">NBA Action 27 episode American basketball show 2025/2026, /n/</title>
   </programme>
   <programme start="20260418083000 +0000" stop="20260418103000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Blackburn Rovers - Coventry City Round 43, Football: Championship 2025/2026, /n/</title>
