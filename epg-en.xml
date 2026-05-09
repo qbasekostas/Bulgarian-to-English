@@ -27,15 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/logos/Bulgaria/MAXSport4.bg.png" />
   </channel>
-  <programme start="20260507223000 +0000" stop="20260508043000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">efbet League: Before the round.33 episode, show about Bulgarian football 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260508043000 +0000" stop="20260508053000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The home of football.36 episode, show about Bulgarian football 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260508053000 +0000" stop="20260508073000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Spartak Varna - Dobruja.Round 33, Football: efbet League 2025/2026, /n/</title>
-  </programme>
   <programme start="20260508073000 +0000" stop="20260508080000 +0000" channel="DiemaSport.bg">
     <title lang="bg">The goals of the round.Round 33, broadcast for Bulgarian football 2025/2026, /n/</title>
   </programme>
@@ -126,15 +117,6 @@
     <desc lang="bg">.directly.</desc>
     <title lang="bg">NBA</title>
   </programme>
-  <programme start="20260507223000 +0000" stop="20260508043000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Chelsea v Nottingham Forest Round 35, Football: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260508043000 +0000" stop="20260508053000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">English Premier League Round 35 Episode 2025/2026 English Football Show /n/</title>
-  </programme>
-  <programme start="20260508053000 +0000" stop="20260508073000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Wolverhampton Wanderers - Sunderland Round 35, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
   <programme start="20260508073000 +0000" stop="20260508080000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Breaking the Net Episode 35 English Football Show 2025/2026 /n/</title>
   </programme>
@@ -215,15 +197,6 @@
   <programme start="20260509190000 +0000" stop="20260509205500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Playoff Football: England League 1 2025/2026 Playoff Live</title>
   </programme>
-  <programme start="20260507223000 +0000" stop="20260507233000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Formula 1 Talk Show 8 episode, show about Formula 1 2026, /n/</title>
-  </programme>
-  <programme start="20260507233000 +0000" stop="20260508043000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Freiburg - Wolfsburg Round 32, Football: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260508043000 +0000" stop="20260508063000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Bayern Munich - Heidenheim Round 32, Football: Bundesliga 2025/2026, /n/</title>
-  </programme>
   <programme start="20260508063000 +0000" stop="20260508070000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Second Bundesliga: Round 32 Roundup, German Football Show 2025/2026, /n/</title>
   </programme>
@@ -301,21 +274,6 @@
   <programme start="20260509210500 +0000" stop="20260509223000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Boxxer: Gradus Kraus - Theo Brooks Boxing Event Rotterdam, Netherlands, Record</title>
   </programme>
-  <programme start="20260507223000 +0000" stop="20260507230000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Speed ​​of Max</title>
-  </programme>
-  <programme start="20260507230000 +0000" stop="20260508010000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Volleyball - Women's Champions League</title>
-  </programme>
-  <programme start="20260508010000 +0000" stop="20260508030000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Rome</title>
-  </programme>
-  <programme start="20260508030000 +0000" stop="20260508050000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Rome</title>
-  </programme>
-  <programme start="20260508050000 +0000" stop="20260508070000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Rome</title>
-  </programme>
   <programme start="20260508070000 +0000" stop="20260508090000 +0000" channel="MAXSport1.bg">
     <title lang="bg">ATP 1000: Rome</title>
   </programme>
@@ -369,18 +327,6 @@
   </programme>
   <programme start="20260509170000 +0000" stop="20260509190000 +0000" channel="MAXSport1.bg">
     <title lang="bg">LIVE, ATP 1000: Rome</title>
-  </programme>
-  <programme start="20260508000000 +0000" stop="20260508010000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Strike with a stick</title>
-  </programme>
-  <programme start="20260508010000 +0000" stop="20260508040000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, NHL</title>
-  </programme>
-  <programme start="20260508040000 +0000" stop="20260508050000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Speed ​​of Max</title>
-  </programme>
-  <programme start="20260508050000 +0000" stop="20260508073000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Sesame National Basketball League: Black Sea - Spartak Pleven</title>
   </programme>
   <programme start="20260508073000 +0000" stop="20260508083500 +0000" channel="MAXSport2.bg">
     <title lang="bg">Moto GP: Overview of the Spanish Grand Prix race</title>
@@ -469,18 +415,6 @@
   <programme start="20260509190000 +0000" stop="20260509200000 +0000" channel="MAXSport2.bg">
     <title lang="bg">World Rally Championship: Portugal</title>
   </programme>
-  <programme start="20260508000000 +0000" stop="20260508014500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Saudi Professional League: Al Shabab - Al Nasser</title>
-  </programme>
-  <programme start="20260508014500 +0000" stop="20260508033000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Serie A: Roma - Fiorentina</title>
-  </programme>
-  <programme start="20260508033000 +0000" stop="20260508053000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Serie A: Juventus - Verona</title>
-  </programme>
-  <programme start="20260508053000 +0000" stop="20260508073000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Serie A: Sassuolo - AC Milan</title>
-  </programme>
   <programme start="20260508073000 +0000" stop="20260508093000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Copa Libertadores: Independiente Rivadavia - Fluminense</title>
   </programme>
@@ -549,18 +483,6 @@
   </programme>
   <programme start="20260509184500 +0000" stop="20260509204500 +0000" channel="MAXSport3.bg">
     <title lang="bg">LIVE, Serie A: Lecce - Juventus</title>
-  </programme>
-  <programme start="20260507230000 +0000" stop="20260508010000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga 2: Almeria - Mirandes</title>
-  </programme>
-  <programme start="20260508010000 +0000" stop="20260508040000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Golf: Estrella Damm Catalunya Championship</title>
-  </programme>
-  <programme start="20260508040000 +0000" stop="20260508050000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Golf: Estrella Damm Catalunya Championship</title>
-  </programme>
-  <programme start="20260508050000 +0000" stop="20260508070000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Copa Libertadores: Sporting Cristal - Palmeiras</title>
   </programme>
   <programme start="20260508070000 +0000" stop="20260508090000 +0000" channel="MAXSport4.bg">
     <title lang="bg">Saudi Professional League: Al Shabab - Al Nasser</title>
