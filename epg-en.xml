@@ -27,19 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260522165500 +0000" stop="20260522180000 +0000" channel="DiemaSport.bg">
-    <desc lang="bg">.directly.</desc>
-    <title lang="bg">efbet League football</title>
-  </programme>
-  <programme start="20260522180000 +0000" stop="20260522183000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">NBA Diary.206 episode 2025/2026 USA Basketball broadcast</title>
-  </programme>
-  <programme start="20260522183000 +0000" stop="20260522203000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Lokomotiv Plovdiv - CSKA.Football: Sesame Cup of Bulgaria 2025/2026, final, /n/</title>
-  </programme>
-  <programme start="20260522223000 +0000" stop="20260523040000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">September - Dobruja.Round 37, Football: efbet League 2025/2026, /n/</title>
-  </programme>
   <programme start="20260523040000 +0000" stop="20260523060000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Spartak Varna - Lokomotiv Sofia.Round 37, Football: efbet League 2025/2026, /n/</title>
   </programme>
@@ -80,24 +67,6 @@
     <desc lang="bg">.directly.</desc>
     <title lang="bg">German Cup</title>
   </programme>
-  <programme start="20260522165500 +0000" stop="20260522180000 +0000" channel="DiemaSport2.bg">
-    <desc lang="bg">directly.</desc>
-    <title lang="bg">efbet League football</title>
-  </programme>
-  <programme start="20260522180000 +0000" stop="20260522183000 +0000" channel="DiemaSport2.bg">
-    <desc lang="bg">directly.</desc>
-    <title lang="bg">Bundesliga</title>
-  </programme>
-  <programme start="20260522183000 +0000" stop="20260522202500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Playoff Football: Second Bundesliga 2025/2026 Playoff Direct</title>
-  </programme>
-  <programme start="20260522202500 +0000" stop="20260522204500 +0000" channel="DiemaSport2.bg">
-    <desc lang="bg">directly.</desc>
-    <title lang="bg">Bundesliga</title>
-  </programme>
-  <programme start="20260522224500 +0000" stop="20260523043000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Newcastle United v West Ham United Round 37, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
   <programme start="20260523043000 +0000" stop="20260523070000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Playoffs NBA Basketball 2025/2026 Playoffs Game 2 /n/</title>
   </programme>
@@ -133,42 +102,11 @@
   <programme start="20260523200000 +0000" stop="20260523205500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">NBA Action 32 episode, American basketball show 2025/2026, /n/</title>
   </programme>
-  <programme start="20260522170000 +0000" stop="20260522173000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Confidential From Formula 16 Episode Formula 1 2026 Broadcast /n/</title>
-  </programme>
-  <programme start="20260522173000 +0000" stop="20260522180000 +0000" channel="DiemaSport3.bg">
-    <desc lang="bg">directly.</desc>
-    <title lang="bg">Formula 2</title>
-  </programme>
-  <programme start="20260522180000 +0000" stop="20260522183000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Canadian Grand Prix Qualifying Round 3, Formula 2 2026, Direct</title>
-  </programme>
-  <programme start="20260522183000 +0000" stop="20260522190000 +0000" channel="DiemaSport3.bg">
-    <desc lang="bg">directly.</desc>
-    <title lang="bg">Formula 2</title>
-  </programme>
-  <programme start="20260522190000 +0000" stop="20260522200000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Canadian Grand Prix First Practice Round 5 Formula 1 2026 Record</title>
-  </programme>
-  <programme start="20260522200000 +0000" stop="20260522203000 +0000" channel="DiemaSport3.bg">
-    <desc lang="bg">directly.</desc>
-    <title lang="bg">Formula 1</title>
-  </programme>
-  <programme start="20260522213000 +0000" stop="20260522220000 +0000" channel="DiemaSport3.bg">
-    <desc lang="bg">directly.</desc>
-    <title lang="bg">Formula 1</title>
-  </programme>
-  <programme start="20260522220000 +0000" stop="20260522223000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Qualifying Canadian Grand Prix2 Round, Formula 1 Academy 2026, Direct</title>
-  </programme>
-  <programme start="20260522223000 +0000" stop="20260523043000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Eintracht Frankfurt - Stuttgart Round 34, Football: Bundesliga 2025/2026, /n/</title>
-  </programme>
   <programme start="20260523043000 +0000" stop="20260523053000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Bundesliga Talk Show Episode 35 German Football Show 2025/2026, /n/</title>
   </programme>
   <programme start="20260523053000 +0000" stop="20260523061500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Free Practice for Canadian Grand Prix Round 2, Formula 1 Academy 2026, /n/</title>
+    <title lang="bg">Canadian Grand Prix Free Practice Round 2, Formula 1 Academy 2026, /n/</title>
   </programme>
   <programme start="20260523061500 +0000" stop="20260523070000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Canadian Grand Prix practice round 3, Formula 2 2026, /n/</title>
@@ -238,21 +176,6 @@
   <programme start="20260523233000 +0000" stop="20260524000000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">NBA Diary207 Episode 2025/2026 American Basketball Show /n/</title>
   </programme>
-  <programme start="20260522173000 +0000" stop="20260522183000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Moto GP: Catalunya Grand Prix race overview</title>
-  </programme>
-  <programme start="20260522183000 +0000" stop="20260522190000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">The road to the final</title>
-  </programme>
-  <programme start="20260522190000 +0000" stop="20260522210000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, French Cup: Lance - Nice</title>
-  </programme>
-  <programme start="20260522210000 +0000" stop="20260522230000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 250 Geneva: First semi-final</title>
-  </programme>
-  <programme start="20260522230000 +0000" stop="20260523010000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 250 Geneva: Second semi-final</title>
-  </programme>
   <programme start="20260523010000 +0000" stop="20260523020000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Nascar Cup Series: Overview</title>
   </programme>
@@ -289,21 +212,6 @@
   <programme start="20260523180000 +0000" stop="20260523201500 +0000" channel="MAXSport1.bg">
     <title lang="bg">LIVE, Volleyball: Bulgaria - Poland</title>
   </programme>
-  <programme start="20260522165000 +0000" stop="20260522180000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Basketball</title>
-  </programme>
-  <programme start="20260522180000 +0000" stop="20260522195000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Euroleague: Valencia - Real Madrid</title>
-  </programme>
-  <programme start="20260522195000 +0000" stop="20260522203000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Basketball</title>
-  </programme>
-  <programme start="20260522233000 +0000" stop="20260523000000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Trans World Sport</title>
-  </programme>
-  <programme start="20260523000000 +0000" stop="20260523030000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, NHL: Colorado Avalanche - Vegas Golden Knights</title>
-  </programme>
   <programme start="20260523030000 +0000" stop="20260523050000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Moto GP: Catalunya Grand Prix</title>
   </programme>
@@ -330,18 +238,6 @@
   </programme>
   <programme start="20260523190000 +0000" stop="20260523200000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Golf: Soudal Open</title>
-  </programme>
-  <programme start="20260522171500 +0000" stop="20260522174500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Before the round</title>
-  </programme>
-  <programme start="20260522174500 +0000" stop="20260522200000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">LIVE, Turkish Cup: Trabzonspor - Konyaspor</title>
-  </programme>
-  <programme start="20260522200000 +0000" stop="20260522203000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Champions League</title>
-  </programme>
-  <programme start="20260522223000 +0000" stop="20260523003000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">French Cup: Lance - Nice</title>
   </programme>
   <programme start="20260523003000 +0000" stop="20260523023000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Copa Sudamericana: Santos - San Lorenzo</title>
@@ -387,20 +283,6 @@
   </programme>
   <programme start="20260523184500 +0000" stop="20260523204500 +0000" channel="MAXSport3.bg">
     <title lang="bg">LIVE, Serie A</title>
-  </programme>
-  <programme start="20260522170000 +0000" stop="20260522180000 +0000" channel="MAXSport4.bg">
-    <desc lang="bg">sports show.</desc>
-    <title lang="bg">In front of the Stadium</title>
-  </programme>
-  <programme start="20260522180000 +0000" stop="20260522200000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Girona - Real Sociedad</title>
-  </programme>
-  <programme start="20260522220000 +0000" stop="20260523000000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Barcelona - Betis</title>
-  </programme>
-  <programme start="20260523000000 +0000" stop="20260523010000 +0000" channel="MAXSport4.bg">
-    <desc lang="bg">sports show.</desc>
-    <title lang="bg">In front of the Stadium</title>
   </programme>
   <programme start="20260523010000 +0000" stop="20260523040000 +0000" channel="MAXSport4.bg">
     <title lang="bg">Golf: Soudal Open</title>
