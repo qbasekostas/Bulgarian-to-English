@@ -27,19 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260529163000 +0000" stop="20260529182500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Barrage.Football: efbet League 2025/2026, live</title>
-  </programme>
-  <programme start="20260529182500 +0000" stop="20260529190000 +0000" channel="DiemaSport.bg">
-    <desc lang="bg">.directly.</desc>
-    <title lang="bg">efbet League football</title>
-  </programme>
-  <programme start="20260529190000 +0000" stop="20260529193000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">NBA Diary.213 episode 2025/2026 USA Basketball broadcast</title>
-  </programme>
-  <programme start="20260529213000 +0000" stop="20260530040000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Barrage.Football: efbet League 2025/2026, /n/</title>
-  </programme>
   <programme start="20260530040000 +0000" stop="20260530060000 +0000" channel="DiemaSport.bg">
     <title lang="bg">CSKA 1948 - Levski.Round 36, Football: efbet League 2025/2026, /n/</title>
   </programme>
@@ -67,12 +54,6 @@
   <programme start="20260530183000 +0000" stop="20260530203000 +0000" channel="DiemaSport.bg">
     <title lang="bg">September - Dobruja.Round 37, Football: efbet League 2025/2026, /n/</title>
   </programme>
-  <programme start="20260529180000 +0000" stop="20260529184500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">The League Show 135 Episode French Football Show 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260529184500 +0000" stop="20260529204500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Nice - Saint Etienne Football: Ligue 1 France 2025/2026 Playoff Second Leg Live</title>
-  </programme>
   <programme start="20260530043000 +0000" stop="20260530053000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Premier League Talk Show Episode 34 English Football Show 2025/2026, /n/</title>
   </programme>
@@ -92,7 +73,7 @@
     <title lang="bg">English Premier League Round 38 Episode 2025/2026 English Football Show /n/</title>
   </programme>
   <programme start="20260530130000 +0000" stop="20260530140000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">NBA Action 33 episode American basketball show 2025/2026, /n/</title>
+    <title lang="bg">NBA Action33 episode American basketball show 2025/2026, /n/</title>
   </programme>
   <programme start="20260530140000 +0000" stop="20260530150000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Premier League goals of the season broadcast for English football 2025/2026</title>
@@ -102,15 +83,6 @@
   </programme>
   <programme start="20260530170000 +0000" stop="20260530205500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Boxxer: Adam Azim - Gustavo LemosBox: Boxxer, direct</title>
-  </programme>
-  <programme start="20260529183000 +0000" stop="20260529203000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Bosnia and Herzegovina - North Macedonia International friendly, live</title>
-  </programme>
-  <programme start="20260529230000 +0000" stop="20260530000000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">NBA Action 33 episode American basketball show 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260530000000 +0000" stop="20260530050000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Cleveland Cavaliers - New York Knicks NBA Basketball 2025/2026 Playoffs Game 6 Live</title>
   </programme>
   <programme start="20260530050000 +0000" stop="20260530060000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Formula 1 Talk Show 10 episode, show about Formula 1 2026, /n/</title>
@@ -135,27 +107,5 @@
   </programme>
   <programme start="20260530223000 +0000" stop="20260530230000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Diary NBA214 episode American basketball broadcast 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260529161500 +0000" stop="20260529181500 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Hockey</title>
-  </programme>
-  <programme start="20260529163000 +0000" stop="20260529183000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">NHL: Montreal Canadiens - Carolina Hurricanes</title>
-  </programme>
-  <programme start="20260529183000 +0000" stop="20260529184500 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Supercars 2026: First race in Tasmania</title>
-  </programme>
-  <programme start="20260529184500 +0000" stop="20260529200000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Supercars 2026: Second race in Tasmania</title>
-  </programme>
-  <programme start="20260529180000 +0000" stop="20260529190000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Calcio mania</title>
-  </programme>
-  <programme start="20260529170000 +0000" stop="20260529180000 +0000" channel="MAXSport4.bg">
-    <desc lang="bg">sports show.</desc>
-    <title lang="bg">In front of the Stadium</title>
-  </programme>
-  <programme start="20260529180000 +0000" stop="20260529200000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga 2: Malaga - Racing Santander</title>
   </programme>
   </tv>
