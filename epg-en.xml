@@ -27,21 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260602083000 +0000" stop="20260602100000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">September - Dobruja.Round 37, Football: efbet League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260602100000 +0000" stop="20260602120000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Spartak Varna - Lokomotiv Sofia.Round 37, Football: efbet League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260602120000 +0000" stop="20260602140000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Botev Vratsa - Beroe.Round 37, Football: efbet League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260602140000 +0000" stop="20260602160000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Slavia - Montana.Round 37, Football: efbet League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260602160000 +0000" stop="20260602180000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Bulgaria - Montenegro.International Friendly Match, /n/</title>
-  </programme>
   <programme start="20260602180000 +0000" stop="20260602190000 +0000" channel="DiemaSport.bg">
     <title lang="bg">The heroes of the season.2 episode, show about Bulgarian football 2025/2026, /n/</title>
   </programme>
@@ -122,7 +107,7 @@
     <title lang="bg">Luxembourg - Italy.International Friendly Match, /n/</title>
   </programme>
   <programme start="20260605063000 +0000" stop="20260605083000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Season overview in efbet League 2025/2026.Broadcast for Bulgarian football_x000D_, /n/</title>
+    <title lang="bg">Season overview in efbet Liga 2025/2026.Broadcast for Bulgarian football_x000D_, /n/</title>
   </programme>
   <programme start="20260605083000 +0000" stop="20260605103000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Sweden - Greece.International Friendly Match, /n/</title>
@@ -149,7 +134,7 @@
     <title lang="bg">Slovakia - Montenegro.International Friendly Match, /n/</title>
   </programme>
   <programme start="20260606030000 +0000" stop="20260606050000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Season overview in efbet League 2025/2026.Broadcast for Bulgarian football_x000D_, /n/</title>
+    <title lang="bg">Season overview in efbet Liga 2025/2026.Broadcast for Bulgarian football_x000D_, /n/</title>
   </programme>
   <programme start="20260606050000 +0000" stop="20260606070000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Georgia - Bahrain.International Friendly Match, /n/</title>
@@ -186,18 +171,6 @@
   </programme>
   <programme start="20260606230000 +0000" stop="20260607000000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Goals of the season in the efbet League.1 part, program for Bulgarian football 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260602100000 +0000" stop="20260602120000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Manchester United - Arsenal Round 1, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260602120000 +0000" stop="20260602140000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Tottenham Hotspur v Burnley Round 1, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260602140000 +0000" stop="20260602160000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Liverpool v Bournemouth Round 1, Football: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260602160000 +0000" stop="20260602170000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Premier League goals of the season 2025/2026 Stream for English football, /n/</title>
   </programme>
   <programme start="20260602170000 +0000" stop="20260602190000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Georgia - Romania International friendly match, live</title>
@@ -258,7 +231,7 @@
     <title lang="bg">Premier League Stories Episode 43, English Football Show 2025/2026, /n/</title>
   </programme>
   <programme start="20260604130000 +0000" stop="20260604133000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Breaking the Net 38 episode English football show 2025/2026, /n/</title>
+    <title lang="bg">Breaking the Net episode 38, English Football Show 2025/2026, /n/</title>
   </programme>
   <programme start="20260604133000 +0000" stop="20260604153000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Premier League Extended Roundup 2025/20261 Episode, English Football Broadcast, /n/</title>
@@ -300,7 +273,7 @@
     <title lang="bg">Wales - GhanaInternational Friendly, /n/</title>
   </programme>
   <programme start="20260605120000 +0000" stop="20260605140000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Croatia - Belgium International Friendly, /n/</title>
+    <title lang="bg">Croatia - Belgium International friendly, /n/</title>
   </programme>
   <programme start="20260605140000 +0000" stop="20260605160000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Northern Ireland - Guinea International Friendly, /n/</title>
@@ -338,22 +311,6 @@
   <programme start="20260606220000 +0000" stop="20260607000000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Azerbaijan - Malta International friendly match, /n/</title>
   </programme>
-  <programme start="20260602093000 +0000" stop="20260602113000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Turkey - North Macedonia International friendly match, /n/</title>
-  </programme>
-  <programme start="20260602113000 +0000" stop="20260602133000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Norway - Sweden International Friendly, /n/</title>
-  </programme>
-  <programme start="20260602133000 +0000" stop="20260602153000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Austria - Tunisia International Friendly, /n/</title>
-  </programme>
-  <programme start="20260602153000 +0000" stop="20260602160000 +0000" channel="DiemaSport3.bg">
-    <desc lang="bg">directly.</desc>
-    <title lang="bg">Football</title>
-  </programme>
-  <programme start="20260602160000 +0000" stop="20260602175500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Croatia - Belgium International friendly, live</title>
-  </programme>
   <programme start="20260602175500 +0000" stop="20260602184500 +0000" channel="DiemaSport3.bg">
     <desc lang="bg">directly.</desc>
     <title lang="bg">Football</title>
@@ -372,7 +329,7 @@
     <title lang="bg">Turkey - North Macedonia International friendly match, /n/</title>
   </programme>
   <programme start="20260603083000 +0000" stop="20260603103000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Croatia - Belgium International Friendly, /n/</title>
+    <title lang="bg">Croatia - Belgium International friendly, /n/</title>
   </programme>
   <programme start="20260603103000 +0000" stop="20260603123000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Georgia - Romania International friendly match, /n/</title>
@@ -580,18 +537,6 @@
     <desc lang="bg">directly.</desc>
     <title lang="bg">Football</title>
   </programme>
-  <programme start="20260602090000 +0000" stop="20260602111500 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 250: Buenos Aires</title>
-  </programme>
-  <programme start="20260602111500 +0000" stop="20260602130000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 500: Rotterdam</title>
-  </programme>
-  <programme start="20260602130000 +0000" stop="20260602151500 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 500: Dallas</title>
-  </programme>
-  <programme start="20260602151500 +0000" stop="20260602181500 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 500: Rio de Janeiro</title>
-  </programme>
   <programme start="20260602181500 +0000" stop="20260602184500 +0000" channel="MAXSport1.bg">
     <title lang="bg">ATP 500: Rio de Janeiro</title>
   </programme>
@@ -756,24 +701,6 @@
   </programme>
   <programme start="20260606173000 +0000" stop="20260606200000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Final: Yannick Siner - Kasper Ruud</title>
-  </programme>
-  <programme start="20260602083000 +0000" stop="20260602093000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Nascar Cup Series: Cracker Barrel 400, Nashville Superspeedway</title>
-  </programme>
-  <programme start="20260602093000 +0000" stop="20260602103000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">World Rally Championship: Overview of the race in Japan</title>
-  </programme>
-  <programme start="20260602103000 +0000" stop="20260602123000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Hockey</title>
-  </programme>
-  <programme start="20260602123000 +0000" stop="20260602150000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Sesame National Basketball League: Lokomotiv Plovdiv - Balkan</title>
-  </programme>
-  <programme start="20260602150000 +0000" stop="20260602160000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Strike with a stick</title>
-  </programme>
-  <programme start="20260602160000 +0000" stop="20260602170000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">World Rally Championship: Japan</title>
   </programme>
   <programme start="20260602170000 +0000" stop="20260602180000 +0000" channel="MAXSport2.bg">
     <title lang="bg">World Rally Championship: Japan</title>
@@ -964,18 +891,6 @@
   <programme start="20260606183000 +0000" stop="20260606203000 +0000" channel="MAXSport2.bg">
     <title lang="bg">LIVE, Volleyball - Nations League Women: Italy - Turkey</title>
   </programme>
-  <programme start="20260602091500 +0000" stop="20260602111500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Saudi Professional League: Al Ahly - Al Hilal</title>
-  </programme>
-  <programme start="20260602111500 +0000" stop="20260602131500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Saudi Professional League: Al Nasser - Al Riyadh</title>
-  </programme>
-  <programme start="20260602131500 +0000" stop="20260602151500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Saudi Professional League: Al Ittihad - Al Nasser</title>
-  </programme>
-  <programme start="20260602151500 +0000" stop="20260602171500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Conference League: Crystal Palace - Fiorentina</title>
-  </programme>
   <programme start="20260602171500 +0000" stop="20260602191500 +0000" channel="MAXSport3.bg">
     <title lang="bg">UEFA Conference League: AZ Alkmaar - Shakhtar Donetsk</title>
   </programme>
@@ -1125,21 +1040,6 @@
   </programme>
   <programme start="20260606173000 +0000" stop="20260606193000 +0000" channel="MAXSport3.bg">
     <title lang="bg">UEFA Europa League: Stuttgart - Porto</title>
-  </programme>
-  <programme start="20260602083000 +0000" stop="20260602090000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Trans World Sport</title>
-  </programme>
-  <programme start="20260602090000 +0000" stop="20260602110000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Levante - Barcelona</title>
-  </programme>
-  <programme start="20260602110000 +0000" stop="20260602130000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Oviedo - Real Madrid</title>
-  </programme>
-  <programme start="20260602130000 +0000" stop="20260602150000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Osasuna - Valencia</title>
-  </programme>
-  <programme start="20260602150000 +0000" stop="20260602170000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Atletico Madrid - Elche</title>
   </programme>
   <programme start="20260602170000 +0000" stop="20260602180000 +0000" channel="MAXSport4.bg">
     <title lang="bg">LaLiga diary</title>
