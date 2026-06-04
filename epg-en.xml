@@ -27,15 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260603040000 +0000" stop="20260603060000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Germany - Finland.International Friendly Match, /n/</title>
-  </programme>
-  <programme start="20260603060000 +0000" stop="20260603070000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The heroes of the season.broadcast about Bulgarian football 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260603070000 +0000" stop="20260603090000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Slovakia - Malta.International Friendly Match, /n/</title>
-  </programme>
   <programme start="20260603090000 +0000" stop="20260603110000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Bulgaria - Moldova.International Friendly Match, /n/</title>
   </programme>
@@ -166,17 +157,11 @@
   <programme start="20260606230000 +0000" stop="20260607000000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Goals of the season in the efbet League.1 part, program for Bulgarian football 2025/2026, /n/</title>
   </programme>
-  <programme start="20260603043000 +0000" stop="20260603063000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Chelsea - West Ham United Round 2, Football: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260603063000 +0000" stop="20260603083000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Fulham v Manchester United Round 2, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
   <programme start="20260603083000 +0000" stop="20260603103000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Arsenal - Leeds United Round 2, Soccer: Premier League 2025/2026, /n/</title>
   </programme>
   <programme start="20260603103000 +0000" stop="20260603123000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Newcastle United - Liverpool Round 2, Football: Premier League 2025/2026, /n/</title>
+    <title lang="bg">Newcastle United - Liverpool Round 2, Soccer: Premier League 2025/2026, /n/</title>
   </programme>
   <programme start="20260603123000 +0000" stop="20260603143000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Manchester City - Tottenham Hotspur Round 2, Football: Premier League 2025/2026, /n/</title>
@@ -261,7 +246,7 @@
     <title lang="bg">Wales - GhanaInternational Friendly, /n/</title>
   </programme>
   <programme start="20260605120000 +0000" stop="20260605140000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Croatia - Belgium International Friendly, /n/</title>
+    <title lang="bg">Croatia - Belgium International friendly, /n/</title>
   </programme>
   <programme start="20260605140000 +0000" stop="20260605160000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Northern Ireland - Guinea International Friendly, /n/</title>
@@ -299,14 +284,8 @@
   <programme start="20260606220000 +0000" stop="20260607000000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Azerbaijan - Malta International friendly match, /n/</title>
   </programme>
-  <programme start="20260603043000 +0000" stop="20260603063000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Norway - Sweden International Friendly, /n/</title>
-  </programme>
-  <programme start="20260603063000 +0000" stop="20260603083000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Turkey - North Macedonia International friendly match, /n/</title>
-  </programme>
   <programme start="20260603083000 +0000" stop="20260603103000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Croatia - Belgium International Friendly, /n/</title>
+    <title lang="bg">Croatia - Belgium International friendly, /n/</title>
   </programme>
   <programme start="20260603103000 +0000" stop="20260603123000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Georgia - Romania International friendly match, /n/</title>
@@ -367,7 +346,7 @@
     <title lang="bg">Practice for the Monaco Grand Prix Round 1, Porsche Super Cup 2026, live</title>
   </programme>
   <programme start="20260604153000 +0000" stop="20260604160000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">The League Show 135 Episode French Football Show 2025/2026 /n/</title>
+    <title lang="bg">The League Show 135 Episode French Football Show 2025/2026, /n/</title>
   </programme>
   <programme start="20260604160000 +0000" stop="20260604180000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Slovenia - Cyprus International friendly match, direct</title>
@@ -436,7 +415,7 @@
     <title lang="bg">Second practice for Monaco Grand Prix Round 6 Formula 1 2026 live</title>
   </programme>
   <programme start="20260605161000 +0000" stop="20260605164500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">The League Show 135 Episode French Football Show 2025/2026 /n/</title>
+    <title lang="bg">The League Show 135 Episode French Football Show 2025/2026, /n/</title>
   </programme>
   <programme start="20260605164500 +0000" stop="20260605174500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Qualifying Monaco Grand Prix1 Round, Porsche Super Cup 2026, Direct</title>
@@ -513,21 +492,6 @@
   <programme start="20260606194000 +0000" stop="20260606200000 +0000" channel="DiemaSport3.bg">
     <desc lang="bg">directly.</desc>
     <title lang="bg">Football</title>
-  </programme>
-  <programme start="20260603010000 +0000" stop="20260603040000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Senshi - Boina Galavecher from Plovdiv</title>
-  </programme>
-  <programme start="20260603040000 +0000" stop="20260603043000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Senshi - Boina Galavecher from Plovdiv</title>
-  </programme>
-  <programme start="20260603043000 +0000" stop="20260603050000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Golf: Challenge de Catalunya</title>
-  </programme>
-  <programme start="20260603050000 +0000" stop="20260603070000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Euroleague: Olympiakos - Real Madrid</title>
-  </programme>
-  <programme start="20260603070000 +0000" stop="20260603090000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Diamond League 2026: Tournament in Rabat</title>
   </programme>
   <programme start="20260603090000 +0000" stop="20260603104500 +0000" channel="MAXSport1.bg">
     <title lang="bg">ATP 250: Delray Beach</title>
@@ -662,22 +626,13 @@
     <title lang="bg">LIVE MotoGP: Hungarian Grand Prix Sprint</title>
   </programme>
   <programme start="20260606140000 +0000" stop="20260606160000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Final: Andrei Rublev - Artur Fiss</title>
+    <title lang="bg">Final: Andrey Rublev - Artur Fiss</title>
   </programme>
   <programme start="20260606160000 +0000" stop="20260606173000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Final: Yanik Siner - Alexander Zverev</title>
   </programme>
   <programme start="20260606173000 +0000" stop="20260606200000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Final: Yannick Siner - Kasper Ruud</title>
-  </programme>
-  <programme start="20260603030000 +0000" stop="20260603033000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Challenge de Catalunya: Tournament overview</title>
-  </programme>
-  <programme start="20260603033000 +0000" stop="20260603053000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Volleyball - Nations League Women: Belgium - Poland</title>
-  </programme>
-  <programme start="20260603053000 +0000" stop="20260603083000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Golf: Austrian Alpine Open</title>
   </programme>
   <programme start="20260603083000 +0000" stop="20260603093000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Golf: Austrian Alpine Open</title>
@@ -838,18 +793,6 @@
   <programme start="20260606183000 +0000" stop="20260606203000 +0000" channel="MAXSport2.bg">
     <title lang="bg">LIVE, Volleyball - Nations League Women: Italy - Turkey</title>
   </programme>
-  <programme start="20260603010000 +0000" stop="20260603030000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Rugby - Six Nations: Scotland v England</title>
-  </programme>
-  <programme start="20260603030000 +0000" stop="20260603050000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Rugby - Six Nations: Wales v France</title>
-  </programme>
-  <programme start="20260603050000 +0000" stop="20260603080000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Nascar Cup Series: Straight Talk Wireless 500, Phoenix Raceway</title>
-  </programme>
-  <programme start="20260603080000 +0000" stop="20260603091500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Nascar Cup Series: Straight Talk Wireless 500, Phoenix Raceway</title>
-  </programme>
   <programme start="20260603091500 +0000" stop="20260603111500 +0000" channel="MAXSport3.bg">
     <title lang="bg">Saudi Professional League: Al Nasser - Al Fateh</title>
   </programme>
@@ -978,18 +921,6 @@
   </programme>
   <programme start="20260606173000 +0000" stop="20260606193000 +0000" channel="MAXSport3.bg">
     <title lang="bg">UEFA Europa League: Stuttgart - Porto</title>
-  </programme>
-  <programme start="20260603010000 +0000" stop="20260603030000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Copa Libertadores: Independiente del Valle - Rosario Central</title>
-  </programme>
-  <programme start="20260603030000 +0000" stop="20260603050000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Copa Libertadores: Cerro Porteño - Sporting Cristal</title>
-  </programme>
-  <programme start="20260603050000 +0000" stop="20260603070000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Levante - Barcelona</title>
-  </programme>
-  <programme start="20260603070000 +0000" stop="20260603090000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Oviedo - Real Madrid</title>
   </programme>
   <programme start="20260603090000 +0000" stop="20260603103000 +0000" channel="MAXSport4.bg">
     <desc lang="bg">sports show.</desc>
