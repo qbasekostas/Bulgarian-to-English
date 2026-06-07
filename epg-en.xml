@@ -27,18 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260605163000 +0000" stop="20260605183000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Slovakia - Montenegro.International friendly, live</title>
-  </programme>
-  <programme start="20260605183000 +0000" stop="20260605190000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Black Sea - Locomotive Plovdiv.First League Classic 2017/2018, /n/</title>
-  </programme>
-  <programme start="20260605210500 +0000" stop="20260605230000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Moldova - Bulgaria.International friendly, recording</title>
-  </programme>
-  <programme start="20260605230000 +0000" stop="20260606030000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Slovakia - Montenegro.International Friendly Match, /n/</title>
-  </programme>
   <programme start="20260606030000 +0000" stop="20260606050000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Season overview in efbet League 2025/2026.Broadcast for Bulgarian football_x000D_, /n/</title>
   </programme>
@@ -78,12 +66,6 @@
   <programme start="20260606230000 +0000" stop="20260607000000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Goals of the season in the efbet League.1 part, program for Bulgarian football 2025/2026, /n/</title>
   </programme>
-  <programme start="20260605180000 +0000" stop="20260605200000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Azerbaijan - Malta International friendly match, direct</title>
-  </programme>
-  <programme start="20260605223000 +0000" stop="20260606043000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Georgia - Romania International friendly match, /n/</title>
-  </programme>
   <programme start="20260606043000 +0000" stop="20260606063000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">France - Cote d'Ivoire International Friendly, /n/</title>
   </programme>
@@ -107,22 +89,6 @@
   </programme>
   <programme start="20260606220000 +0000" stop="20260607000000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Azerbaijan - Malta International friendly match, /n/</title>
-  </programme>
-  <programme start="20260605161000 +0000" stop="20260605164500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">The League Show 135 Episode French Football Show 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260605164500 +0000" stop="20260605174500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Qualifying Monaco Grand Prix1 Round, Porsche Super Cup 2026, Direct</title>
-  </programme>
-  <programme start="20260605174500 +0000" stop="20260605194500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Hungary - Finland International friendly, live</title>
-  </programme>
-  <programme start="20260605214500 +0000" stop="20260605215500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Denmark - Democratic Republic of the CongoInternational Friendly, /n/</title>
-  </programme>
-  <programme start="20260605215500 +0000" stop="20260606044500 +0000" channel="DiemaSport3.bg">
-    <desc lang="bg">directly.</desc>
-    <title lang="bg">Football</title>
   </programme>
   <programme start="20260606044500 +0000" stop="20260606053000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Monaco Grand Prix Qualifying Round 2, Formula 3 2026, /n/</title>
@@ -187,21 +153,6 @@
     <desc lang="bg">directly.</desc>
     <title lang="bg">Football</title>
   </programme>
-  <programme start="20260605170000 +0000" stop="20260605190000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Final: Fabio Cobolli - Ben Shelton</title>
-  </programme>
-  <programme start="20260605190000 +0000" stop="20260605210000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Volleyball - Women's League of Nations: Brazil - Dominican Republic</title>
-  </programme>
-  <programme start="20260605210000 +0000" stop="20260605230000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Volleyball - Women's League of Nations: Serbia - Poland</title>
-  </programme>
-  <programme start="20260605230000 +0000" stop="20260606013000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Sesame National Basketball League: Balkan - Lokomotiv Plovdiv</title>
-  </programme>
-  <programme start="20260606013000 +0000" stop="20260606033000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Diamond League 2026: Tournament in Rome</title>
-  </programme>
   <programme start="20260606033000 +0000" stop="20260606050000 +0000" channel="MAXSport1.bg">
     <title lang="bg">MotoGP: Practice for the Hungarian Grand Prix</title>
   </programme>
@@ -232,24 +183,6 @@
   <programme start="20260606173000 +0000" stop="20260606200000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Final: Yannick Siner - Kasper Ruud</title>
   </programme>
-  <programme start="20260605161500 +0000" stop="20260605183000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Sesame National Basketball League: Balkan - Lokomotiv Plovdiv</title>
-  </programme>
-  <programme start="20260605183000 +0000" stop="20260605190000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Golf: Danish Golf Challenge</title>
-  </programme>
-  <programme start="20260605190000 +0000" stop="20260605193000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Volleyball</title>
-  </programme>
-  <programme start="20260605213000 +0000" stop="20260605220000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Volleyball</title>
-  </programme>
-  <programme start="20260605220000 +0000" stop="20260606000000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">NHL</title>
-  </programme>
-  <programme start="20260606000000 +0000" stop="20260606030000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, NHL</title>
-  </programme>
   <programme start="20260606030000 +0000" stop="20260606050000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Hockey</title>
   </programme>
@@ -277,21 +210,6 @@
   <programme start="20260606183000 +0000" stop="20260606203000 +0000" channel="MAXSport2.bg">
     <title lang="bg">LIVE, Volleyball - Nations League Women: Italy - Turkey</title>
   </programme>
-  <programme start="20260605180000 +0000" stop="20260605183000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Champions League</title>
-  </programme>
-  <programme start="20260605183000 +0000" stop="20260605193000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Champions League</title>
-  </programme>
-  <programme start="20260605223000 +0000" stop="20260605230000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Nascar Cup Series: AdventHealth 400, Kansas Speedway</title>
-  </programme>
-  <programme start="20260605230000 +0000" stop="20260606010000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Rugby - Six Nations: France - England</title>
-  </programme>
-  <programme start="20260606010000 +0000" stop="20260606030000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Rugby - Six Nations: Ireland v Scotland</title>
-  </programme>
   <programme start="20260606030000 +0000" stop="20260606050000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Rugby - Six Nations: Wales v Italy</title>
   </programme>
@@ -315,22 +233,6 @@
   </programme>
   <programme start="20260606173000 +0000" stop="20260606193000 +0000" channel="MAXSport3.bg">
     <title lang="bg">UEFA Europa League: Stuttgart - Porto</title>
-  </programme>
-  <programme start="20260605170000 +0000" stop="20260605180000 +0000" channel="MAXSport4.bg">
-    <desc lang="bg">sports show.</desc>
-    <title lang="bg">In front of the Stadium</title>
-  </programme>
-  <programme start="20260605180000 +0000" stop="20260605200000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Major League Soccer: San Diego - Real Salt Lake</title>
-  </programme>
-  <programme start="20260605220000 +0000" stop="20260605230000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LaLiga diary</title>
-  </programme>
-  <programme start="20260605230000 +0000" stop="20260606010000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Copa Sudamericana: Caracas - Botafogo</title>
-  </programme>
-  <programme start="20260606010000 +0000" stop="20260606040000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Golf: KLM Open</title>
   </programme>
   <programme start="20260606040000 +0000" stop="20260606050000 +0000" channel="MAXSport4.bg">
     <title lang="bg">Golf: KLM Open</title>
