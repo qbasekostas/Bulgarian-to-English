@@ -27,15 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260609170000 +0000" stop="20260609190000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Hungary - Kazakhstan.International friendly, live</title>
-  </programme>
-  <programme start="20260609190000 +0000" stop="20260609193000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">NBA Diary.Episode 219 American Basketball Show 2025/2026 /n/</title>
-  </programme>
-  <programme start="20260609213000 +0000" stop="20260610040000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Arda - Lokomotiv Sofia.Round 2, Football: efbet League 2025/2026, /n/</title>
-  </programme>
   <programme start="20260610040000 +0000" stop="20260610060000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Season overview.Broadcast for Bulgarian football_x000D_ 2025/2026, /n/</title>
   </programme>
@@ -204,12 +195,6 @@
   <programme start="20260613220000 +0000" stop="20260614000000 +0000" channel="DiemaSport.bg">
     <title lang="bg">September - Beroe.Round 4, Football: efbet League 2025/2026, /n/</title>
   </programme>
-  <programme start="20260609180000 +0000" stop="20260609203000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">New York Knicks - San Antonio Spurs NBA Basketball 2025/2026 Final Playoff Game 3 /n/</title>
-  </programme>
-  <programme start="20260609223000 +0000" stop="20260610040000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Northern Ireland - Guinea International Friendly, /n/</title>
-  </programme>
   <programme start="20260610040000 +0000" stop="20260610060000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Premier League 2025/2026 Extended Overview English Football 2025/2026 Broadcast, /n/</title>
   </programme>
@@ -331,12 +316,6 @@
   </programme>
   <programme start="20260613213000 +0000" stop="20260613233000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Fulham v Leeds United Round 4, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260609180000 +0000" stop="20260609200000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Azerbaijan - San Marino International friendly, live</title>
-  </programme>
-  <programme start="20260609220000 +0000" stop="20260610043000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Kosovo - AndorraInternational friendly match, /n/</title>
   </programme>
   <programme start="20260610043000 +0000" stop="20260610063000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">England - New Zealand International Friendly, /n/</title>
@@ -562,18 +541,6 @@
   <programme start="20260613213000 +0000" stop="20260613221500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Qualification Barcelona Grand Prix Round 2, Porsche Super Cup 2026, /n/</title>
   </programme>
-  <programme start="20260609170000 +0000" stop="20260609190000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Volleyball - Women's League of Nations: Brazil - Bulgaria</title>
-  </programme>
-  <programme start="20260609190000 +0000" stop="20260609210000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Volleyball - League of Nations, women: Bulgaria - Turkey</title>
-  </programme>
-  <programme start="20260609210000 +0000" stop="20260610000000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Nascar Cup Series: Firekeepers Casino 400, Michigan International Speedway</title>
-  </programme>
-  <programme start="20260610000000 +0000" stop="20260610010000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Breakpoint</title>
-  </programme>
   <programme start="20260610010000 +0000" stop="20260610030000 +0000" channel="MAXSport1.bg">
     <title lang="bg">ATP 250: Hertogenbosch</title>
   </programme>
@@ -708,18 +675,6 @@
   </programme>
   <programme start="20260613170000 +0000" stop="20260613190000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Volleyball - League of Nations: Japan - Poland</title>
-  </programme>
-  <programme start="20260609161500 +0000" stop="20260609173000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Moto2: Hungarian Grand Prix Race</title>
-  </programme>
-  <programme start="20260609173000 +0000" stop="20260609193000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">MotoGP: Hungarian Grand Prix Race</title>
-  </programme>
-  <programme start="20260609213000 +0000" stop="20260610000000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Sesame National Basketball League: Balkan - Lokomotiv Plovdiv</title>
-  </programme>
-  <programme start="20260610000000 +0000" stop="20260610030000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, NHL: Vegas Golden Knights - Carolina Hurricanes</title>
   </programme>
   <programme start="20260610030000 +0000" stop="20260610050000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Diamond League 2026: Stockholm Tournament</title>
@@ -895,18 +850,6 @@
   <programme start="20260613180000 +0000" stop="20260613200000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Volleyball - League of Nations: Cuba - Slovenia</title>
   </programme>
-  <programme start="20260609170000 +0000" stop="20260609190000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Europa League: Aston Villa - Bologna</title>
-  </programme>
-  <programme start="20260609190000 +0000" stop="20260609210000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Europa League: Braga - Betis</title>
-  </programme>
-  <programme start="20260609210000 +0000" stop="20260609230000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Saudi Professional League: Al Nasser - Al Qadisiya</title>
-  </programme>
-  <programme start="20260609230000 +0000" stop="20260610010000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Saudi Professional League: Al Hilal - Al Nasser</title>
-  </programme>
   <programme start="20260610010000 +0000" stop="20260610030000 +0000" channel="MAXSport3.bg">
     <title lang="bg">ATP 250: Stuttgart</title>
   </programme>
@@ -1047,18 +990,6 @@
   </programme>
   <programme start="20260613170000 +0000" stop="20260613190000 +0000" channel="MAXSport3.bg">
     <title lang="bg">UEFA Champions League: Atalanta - Bayern Munich</title>
-  </programme>
-  <programme start="20260609170000 +0000" stop="20260609190000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga 2: Castillon - Almeria</title>
-  </programme>
-  <programme start="20260609190000 +0000" stop="20260609210000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, La Liga 2: Almeria - Castillon</title>
-  </programme>
-  <programme start="20260609210000 +0000" stop="20260609230000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Major League Soccer: Minnesota United v Austin FC</title>
-  </programme>
-  <programme start="20260609230000 +0000" stop="20260610010000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Betis - Real Sociedad</title>
   </programme>
   <programme start="20260610010000 +0000" stop="20260610030000 +0000" channel="MAXSport4.bg">
     <title lang="bg">La Liga: Mallorca - Atletico Madrid</title>
