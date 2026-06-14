@@ -27,15 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260612170000 +0000" stop="20260612180000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The heroes of the season.show about Bulgarian football _x000D_ 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260612180000 +0000" stop="20260612200000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Semi Final 2. Basketball: Liga Endesa 2025/2026 Semi Finals Match 2 Live</title>
-  </programme>
-  <programme start="20260612220000 +0000" stop="20260613040000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Dobruja - CSKA 1948. 4th round, Football: efbet League 2025/2026, /n/</title>
-  </programme>
   <programme start="20260613040000 +0000" stop="20260613060000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Botev Plovdiv - Lokomotiv Sofia.Round 4, Football: efbet League 2025/2026, /n/</title>
   </programme>
@@ -75,15 +66,6 @@
   <programme start="20260613220000 +0000" stop="20260614000000 +0000" channel="DiemaSport.bg">
     <title lang="bg">September - Beroe.Round 4, Football: efbet League 2025/2026, /n/</title>
   </programme>
-  <programme start="20260612163000 +0000" stop="20260612183000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Leeds United - Newcastle United Round 3, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260612183000 +0000" stop="20260612203000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Liverpool v Arsenal Round 3, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260612223000 +0000" stop="20260613040000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Nottingham Forest - West Ham United Round 3, Football: Premier League 2025/2026, /n/</title>
-  </programme>
   <programme start="20260613040000 +0000" stop="20260613060000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Arsenal v Nottingham Forest Round 4, Soccer: Premier League 2025/2026, /n/</title>
   </programme>
@@ -110,24 +92,6 @@
   </programme>
   <programme start="20260613213000 +0000" stop="20260613233000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Fulham v Leeds United Round 4, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260612163000 +0000" stop="20260612173000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Practice for Barcelona Grand Prix2 round, Porsche Supercup 2026, live</title>
-  </programme>
-  <programme start="20260612173000 +0000" stop="20260612180000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Bundesliga Special 24 Episode German Football Show 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260612180000 +0000" stop="20260612190000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Practice for Barcelona Grand Prix Round 5, Formula 2 2026, /n/</title>
-  </programme>
-  <programme start="20260612190000 +0000" stop="20260612194500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Barcelona Grand Prix Qualifying Round 5, Formula 2 2026, /n/</title>
-  </programme>
-  <programme start="20260612194500 +0000" stop="20260612204500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Practice for the Barcelona Grand Prix Round 3, Formula 3 2026, /n/</title>
-  </programme>
-  <programme start="20260612213000 +0000" stop="20260613033000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">England - Costa Rica International Friendly, /n/</title>
   </programme>
   <programme start="20260613033000 +0000" stop="20260613043000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Practice for Barcelona Grand Prix Round 2, Porsche Super Cup 2026, /n/</title>
@@ -181,18 +145,6 @@
   <programme start="20260613213000 +0000" stop="20260613221500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Qualification Barcelona Grand Prix Round 2, Porsche Super Cup 2026, /n/</title>
   </programme>
-  <programme start="20260612170000 +0000" stop="20260612190000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Volleyball - League of Nations: Bulgaria - Iran</title>
-  </programme>
-  <programme start="20260612190000 +0000" stop="20260612210000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Volleyball - League of Nations: Ukraine - Cuba</title>
-  </programme>
-  <programme start="20260612210000 +0000" stop="20260612230000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 250 Stuttgart: Third quarter-final</title>
-  </programme>
-  <programme start="20260612230000 +0000" stop="20260613010000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 250 Stuttgart: Fourth quarter-final</title>
-  </programme>
   <programme start="20260613010000 +0000" stop="20260613020000 +0000" channel="MAXSport1.bg">
     <title lang="bg">MotoGP: Hungarian Grand Prix Race Overview</title>
   </programme>
@@ -219,15 +171,6 @@
   </programme>
   <programme start="20260613170000 +0000" stop="20260613190000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Volleyball - League of Nations: Japan - Poland</title>
-  </programme>
-  <programme start="20260612170000 +0000" stop="20260612190000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">NHL: Carolina Hurricanes - Vegas Golden Knights</title>
-  </programme>
-  <programme start="20260612190000 +0000" stop="20260612200000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Speed ​​of Max</title>
-  </programme>
-  <programme start="20260612220000 +0000" stop="20260613010000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">UFC Fight Night: Belal Muhammad vs. Gabriel Bonfim</title>
   </programme>
   <programme start="20260613010000 +0000" stop="20260613021500 +0000" channel="MAXSport2.bg">
     <title lang="bg">Moto3: Hungarian Grand Prix Race</title>
@@ -262,18 +205,6 @@
   <programme start="20260613180000 +0000" stop="20260613200000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Volleyball - League of Nations: Cuba - Slovenia</title>
   </programme>
-  <programme start="20260612170000 +0000" stop="20260612190000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Europa League: Freiburg - Braga</title>
-  </programme>
-  <programme start="20260612190000 +0000" stop="20260612210000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Europa League: Freiburg_ Aston Villa</title>
-  </programme>
-  <programme start="20260612210000 +0000" stop="20260612230000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Saudi Professional League: Al Riyadh - Al Nasser</title>
-  </programme>
-  <programme start="20260612230000 +0000" stop="20260613010000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Saudi Professional League: Al Ahdud - Al Hilal</title>
-  </programme>
   <programme start="20260613010000 +0000" stop="20260613020000 +0000" channel="MAXSport3.bg">
     <title lang="bg">UEFA Champions League</title>
   </programme>
@@ -303,31 +234,6 @@
   </programme>
   <programme start="20260613170000 +0000" stop="20260613190000 +0000" channel="MAXSport3.bg">
     <title lang="bg">UEFA Champions League: Atalanta - Bayern Munich</title>
-  </programme>
-  <programme start="20260612163000 +0000" stop="20260612170000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga Talents: Round of 16</title>
-  </programme>
-  <programme start="20260612170000 +0000" stop="20260612180000 +0000" channel="MAXSport4.bg">
-    <desc lang="bg">sports show.</desc>
-    <title lang="bg">In front of the Stadium</title>
-  </programme>
-  <programme start="20260612180000 +0000" stop="20260612183000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga Talents: Round of 16</title>
-  </programme>
-  <programme start="20260612183000 +0000" stop="20260612190000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga Talents: Round of 16</title>
-  </programme>
-  <programme start="20260612190000 +0000" stop="20260612193000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga Talents: Round of 16</title>
-  </programme>
-  <programme start="20260612193000 +0000" stop="20260612200000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga Talents: Round of 16</title>
-  </programme>
-  <programme start="20260612220000 +0000" stop="20260613000000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Atletico Madrid - Rayo Vallecano</title>
-  </programme>
-  <programme start="20260613000000 +0000" stop="20260613020000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Sevilla - Villarreal</title>
   </programme>
   <programme start="20260613020000 +0000" stop="20260613030000 +0000" channel="MAXSport4.bg">
     <desc lang="bg">sports show.</desc>
