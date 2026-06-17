@@ -228,12 +228,6 @@
   <programme start="20260620190000 +0000" stop="20260620200000 +0000" channel="DiemaSport.bg">
     <title lang="bg">The season of CSKA.2 episode, show about Bulgarian football 2025/2026, /n/</title>
   </programme>
-  <programme start="20260615210500 +0000" stop="20260615230000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Aston Villa - Fulham Round 6, Football: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260615230000 +0000" stop="20260616010000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Tottenham Hotspur - Wolverhampton Wanderers Round 6, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
   <programme start="20260616010000 +0000" stop="20260616043000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Paris FC: The Return1 episode French football show 2025/2026, /n/</title>
   </programme>
@@ -407,9 +401,6 @@
   </programme>
   <programme start="20260620200000 +0000" stop="20260620203000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">The best of the Premier League1 episode, English football show 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260615213000 +0000" stop="20260616040000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Union Berlin - Stuttgart 1st round, Football: Bundesliga 2025/2026, /n/</title>
   </programme>
   <programme start="20260616040000 +0000" stop="20260616050000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Practice for Barcelona Grand Prix Round 3, Formula 3 2026, /n/</title>
@@ -621,12 +612,6 @@
   <programme start="20260620214500 +0000" stop="20260620233000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Borussia Dortmund - Wolfsburg Round 4, Football: Bundesliga 2025/2026, /n/</title>
   </programme>
-  <programme start="20260615220000 +0000" stop="20260616000000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Volleyball - League of Nations: Bulgaria - Iran</title>
-  </programme>
-  <programme start="20260616000000 +0000" stop="20260616003000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Carrera Cup'26: Round Overview</title>
-  </programme>
   <programme start="20260616003000 +0000" stop="20260616023000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Diamond League 2026: Tournament in Oslo</title>
   </programme>
@@ -791,15 +776,6 @@
   </programme>
   <programme start="20260620183000 +0000" stop="20260620193000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Nascar Cup Series: Overview</title>
-  </programme>
-  <programme start="20260615210000 +0000" stop="20260615230000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">NHL: Carolina Hurricanes - Vegas Golden Knights</title>
-  </programme>
-  <programme start="20260615230000 +0000" stop="20260616000000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Strike with a stick</title>
-  </programme>
-  <programme start="20260616000000 +0000" stop="20260616030000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, NHL: Vegas Golden Knights - Carolina Hurricanes</title>
   </programme>
   <programme start="20260616030000 +0000" stop="20260616050000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Eurocup: Besiktas - Bahcesehir Istanbul</title>
@@ -1002,12 +978,6 @@
   <programme start="20260620190000 +0000" stop="20260620200000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Carrera Cup'26 Lausitzring: First race</title>
   </programme>
-  <programme start="20260615220000 +0000" stop="20260615234500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Saudi Professional League: Al Shabab - Al Hilal</title>
-  </programme>
-  <programme start="20260615234500 +0000" stop="20260616013000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Saudi Professional League: Al Nasser - Neom</title>
-  </programme>
   <programme start="20260616013000 +0000" stop="20260616033000 +0000" channel="MAXSport3.bg">
     <title lang="bg">ATP 500: Halle</title>
   </programme>
@@ -1175,12 +1145,6 @@
   </programme>
   <programme start="20260620200000 +0000" stop="20260620201500 +0000" channel="MAXSport3.bg">
     <title lang="bg">UEFA Champions League: PSG - Arsenal</title>
-  </programme>
-  <programme start="20260615221500 +0000" stop="20260616000000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Celta v Atletico Madrid</title>
-  </programme>
-  <programme start="20260616000000 +0000" stop="20260616010000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">The talents of La Liga</title>
   </programme>
   <programme start="20260616010000 +0000" stop="20260616030000 +0000" channel="MAXSport4.bg">
     <title lang="bg">Copa Libertadores: Barcelona Guayaquil - Botafogo</title>
