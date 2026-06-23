@@ -27,12 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260621170000 +0000" stop="20260621190000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">CSKA 1948 - Slavia.Round 8, Football: efbet League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260621220000 +0000" stop="20260622034500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Season overview in efbet League 2025/2026.broadcast about Bulgarian football 2025/2026, /n/</title>
-  </programme>
   <programme start="20260622034500 +0000" stop="20260622050000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Levski's season.1 episode, show about Bulgarian football 2025/2026, /n/</title>
   </programme>
@@ -162,9 +156,6 @@
   <programme start="20260625161500 +0000" stop="20260625190000 +0000" channel="DiemaSport.bg">
     <title lang="bg">CSKA - Ludogorets.Round 11, Football: efbet League 2025/2026, /n/</title>
   </programme>
-  <programme start="20260621163000 +0000" stop="20260621194500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">MVP Boxing Boxing event from El Paso, USA, /n/</title>
-  </programme>
   <programme start="20260622040000 +0000" stop="20260622060000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Bournemouth - West Ham United Round of 12, Soccer: Premier League 2025/2026, /n/</title>
   </programme>
@@ -288,15 +279,6 @@
   <programme start="20260625210500 +0000" stop="20260625220000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">NBA Action 37 episode American basketball broadcast 2025/2026, /n/</title>
   </programme>
-  <programme start="20260621161500 +0000" stop="20260621180000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Heidenheim - Augsburg Round 5, Football: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260621180000 +0000" stop="20260621194500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Freiburg - Hoffenheim Round 5, Soccer: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260621214500 +0000" stop="20260622041500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Union Berlin - Hamburg 5th round, Soccer: Bundesliga 2025/2026, /n/</title>
-  </programme>
   <programme start="20260622041500 +0000" stop="20260622061500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Hoffenheim - Cologne Round 6, Soccer: Bundesliga 2025/2026, /n/</title>
   </programme>
@@ -413,18 +395,6 @@
   </programme>
   <programme start="20260625183000 +0000" stop="20260625203000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Cologne - Hamburg Round 9, Soccer: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260621170000 +0000" stop="20260621190000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Volleyball - League of Nations, women: Bulgaria - Ukraine</title>
-  </programme>
-  <programme start="20260621190000 +0000" stop="20260621210000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Volleyball - Women's League of Nations: USA - Italy</title>
-  </programme>
-  <programme start="20260621210000 +0000" stop="20260621233000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 500 Halle: Final</title>
-  </programme>
-  <programme start="20260621233000 +0000" stop="20260622004500 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Supercars 2025: First race in Darwin</title>
   </programme>
   <programme start="20260622004500 +0000" stop="20260622023000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Supercars 2025: Second race in Darwin</title>
@@ -584,18 +554,6 @@
   </programme>
   <programme start="20260625184500 +0000" stop="20260625200000 +0000" channel="MAXSport1.bg">
     <title lang="bg">ADAC GT 2026 Lausitzring: Second race</title>
-  </programme>
-  <programme start="20260621163000 +0000" stop="20260621183000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Volleyball - Nations League Women: Turkey - China</title>
-  </programme>
-  <programme start="20260621183000 +0000" stop="20260621200000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">DTM 2026 Lausitzring: Second race</title>
-  </programme>
-  <programme start="20260621230000 +0000" stop="20260621233000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Nascar Cup Series: Anduril 250, San Diego Naval Base</title>
-  </programme>
-  <programme start="20260621233000 +0000" stop="20260622003000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Carrera Cup'26 Lausitzring: Second race</title>
   </programme>
   <programme start="20260622003000 +0000" stop="20260622011500 +0000" channel="MAXSport2.bg">
     <title lang="bg">ADAC GT 2026 Lausitzring: Second race</title>
@@ -771,15 +729,6 @@
   <programme start="20260625183000 +0000" stop="20260625203000 +0000" channel="MAXSport2.bg">
     <title lang="bg">MotoGP: Race for the Czech Grand Prix</title>
   </programme>
-  <programme start="20260621170000 +0000" stop="20260621180000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Carrera Cup'26 Lausitzring: Second race</title>
-  </programme>
-  <programme start="20260621180000 +0000" stop="20260621194500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Supercars 2025: Second race in Darwin</title>
-  </programme>
-  <programme start="20260621213000 +0000" stop="20260622003000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UFC Fight Night: Kape vs. Horiguchi</title>
-  </programme>
   <programme start="20260622003000 +0000" stop="20260622030000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Cage Warriors 207: Gala Night from Manchester</title>
   </programme>
@@ -914,18 +863,6 @@
   </programme>
   <programme start="20260625180000 +0000" stop="20260625200000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Turkish Cup: Galatasaray - Istanbulspor</title>
-  </programme>
-  <programme start="20260621170000 +0000" stop="20260621190000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga 2: Almeria - Malaga</title>
-  </programme>
-  <programme start="20260621190000 +0000" stop="20260621210000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Real Madrid - Barcelona</title>
-  </programme>
-  <programme start="20260621210000 +0000" stop="20260621230000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Valencia - Villarreal</title>
-  </programme>
-  <programme start="20260621230000 +0000" stop="20260622010000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Betis - Atletico Madrid</title>
   </programme>
   <programme start="20260622010000 +0000" stop="20260622030000 +0000" channel="MAXSport4.bg">
     <title lang="bg">Copa Libertadores: Barcelona Guayaquil - Universidad Católica</title>
