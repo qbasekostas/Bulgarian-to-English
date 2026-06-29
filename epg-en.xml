@@ -27,12 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260627180000 +0000" stop="20260627200000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">CSKA 1948 - Ludogorets.Round 13, Football: efbet League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260627220000 +0000" stop="20260628040000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The best of the Home of Football.8 episode, show about Bulgarian football 2025/2026, /n/</title>
-  </programme>
   <programme start="20260628040000 +0000" stop="20260628060000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Dobruja - Spartak Varna.Round 14, Football: efbet League 2025/2026, /n/</title>
   </programme>
@@ -192,15 +186,6 @@
   <programme start="20260702210000 +0000" stop="20260702220000 +0000" channel="DiemaSport.bg">
     <title lang="bg">The season of Botev Plovdiv.8 episode, show about Bulgarian football 2025/2026, /n/</title>
   </programme>
-  <programme start="20260627161500 +0000" stop="20260627180000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Wolverhampton Wanderers - Brentford Round 17, Football: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260627180000 +0000" stop="20260627200000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Luton Town - Forest Green Rovers First Round, Soccer: FA Cup 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260627220000 +0000" stop="20260628040000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Aston Villa - Manchester United Round 17, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
   <programme start="20260628040000 +0000" stop="20260628063000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">San Antonio Spurs - New York Knicks NBA Basketball 2025/2026 Final Playoff Game 1 /n/</title>
   </programme>
@@ -344,12 +329,6 @@
   </programme>
   <programme start="20260702224500 +0000" stop="20260702231500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">The best of the Premier League3 episode, English football show 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260627173000 +0000" stop="20260627191500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Eintracht Frankfurt - Mainz Round 10, Soccer: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260627191500 +0000" stop="20260627201500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Austrian Grand Prix Sprint Round 4, Formula 3 2026, /n/</title>
   </programme>
   <programme start="20260628041500 +0000" stop="20260628053000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Third Practice for the Austrian Grand Prix Round 8, Formula 1 2026, /n/</title>
@@ -598,18 +577,6 @@
   <programme start="20260702220000 +0000" stop="20260702223000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Formula 1: Review8 episode Formula 1 2026 show, /n/</title>
   </programme>
-  <programme start="20260627170000 +0000" stop="20260627173000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Trans World Sport</title>
-  </programme>
-  <programme start="20260627173000 +0000" stop="20260627183000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">MotoGP: Sprint for the Dutch Grand Prix</title>
-  </programme>
-  <programme start="20260627183000 +0000" stop="20260627203000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, Volleyball - League of Nations: France - Serbia</title>
-  </programme>
-  <programme start="20260627223000 +0000" stop="20260628010000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 250 Eastbourne: Final</title>
-  </programme>
   <programme start="20260628010000 +0000" stop="20260628040000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Nascar Cup Series: Anduril 250, San Diego Naval Base</title>
   </programme>
@@ -786,12 +753,6 @@
   </programme>
   <programme start="20260702180000 +0000" stop="20260702200000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Euroleague: Valencia - Real Madrid</title>
-  </programme>
-  <programme start="20260627190000 +0000" stop="20260627193000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Golf: Interwetten Open</title>
-  </programme>
-  <programme start="20260627220000 +0000" stop="20260628010000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">NHL: Draft</title>
   </programme>
   <programme start="20260628010000 +0000" stop="20260628020000 +0000" channel="MAXSport2.bg">
     <title lang="bg">NHL: Draft</title>
@@ -1006,15 +967,6 @@
   <programme start="20260702173000 +0000" stop="20260702193000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Volleyball - League of Nations: Bulgaria - Canada</title>
   </programme>
-  <programme start="20260627163000 +0000" stop="20260627183000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Turkish Cup: Galatasaray - Genclerbirligi</title>
-  </programme>
-  <programme start="20260627183000 +0000" stop="20260627203000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">LIVE, Volleyball - League of Nations: Slovenia - Brazil</title>
-  </programme>
-  <programme start="20260627233000 +0000" stop="20260628023000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UFC Fight Night: Fiziev vs. Torres</title>
-  </programme>
   <programme start="20260628023000 +0000" stop="20260628043000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Diamond League 2026: Tournament in Doha</title>
   </programme>
@@ -1200,12 +1152,6 @@
   </programme>
   <programme start="20260702170000 +0000" stop="20260702190000 +0000" channel="MAXSport3.bg">
     <title lang="bg">French Cup: Lance - Feni-Honoit</title>
-  </programme>
-  <programme start="20260627190000 +0000" stop="20260627203000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, NHL: Draft</title>
-  </programme>
-  <programme start="20260627233000 +0000" stop="20260628003000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Golf: Women's Amateur Championship</title>
   </programme>
   <programme start="20260628003000 +0000" stop="20260628010000 +0000" channel="MAXSport4.bg">
     <title lang="bg">The best saves</title>
