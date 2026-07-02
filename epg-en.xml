@@ -27,18 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260630180000 +0000" stop="20260630200000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Botev Vratsa - Slavia.Round 16, Football: efbet League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260630200000 +0000" stop="20260630210000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The season of the Black Sea.13 episode, show about Bulgarian football 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260630210000 +0000" stop="20260630220000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The season of Arda.12 episode, show about Bulgarian football 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260630220000 +0000" stop="20260701040000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The season of September.11 episode, show about Bulgarian football 2025/2026, /n/</title>
-  </programme>
   <programme start="20260701040000 +0000" stop="20260701060000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Locomotive Plovdiv - Montana.Round 17, Football: efbet League 2025/2026, /n/</title>
   </programme>
@@ -85,7 +73,7 @@
     <title lang="bg">Beroe - Black Sea.Round 18, Football: efbet League 2025/2026, /n/</title>
   </programme>
   <programme start="20260702130000 +0000" stop="20260702150000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">September - CSKA 1948. Round 18, Football: efbet League 2025/2026, /n/</title>
+    <title lang="bg">September - CSKA 1948. Round 18, Football: efbet Liga 2025/2026, /n/</title>
   </programme>
   <programme start="20260702150000 +0000" stop="20260702170000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Dobruja - Ludogorets.Round 18, Football: efbet League 2025/2026, /n/</title>
@@ -164,12 +152,6 @@
   </programme>
   <programme start="20260704210000 +0000" stop="20260704220000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Dobruja season.Episode 4, show about Bulgarian football 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260630180000 +0000" stop="20260630200000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Sunderland - Manchester City Round 19, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260630220000 +0000" stop="20260701040000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Brentford v Tottenham Hotspur Round 19, Soccer: Premier League 2025/2026, /n/</title>
   </programme>
   <programme start="20260701040000 +0000" stop="20260701060000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Aston Villa - Nottingham Forest Round 20, Soccer: Premier League 2025/2026, /n/</title>
@@ -302,21 +284,6 @@
   </programme>
   <programme start="20260704190000 +0000" stop="20260704205500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Newcastle United - Aston Villa Round 23, Football: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260630170000 +0000" stop="20260630180000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Formula 1: Season Overview 2007 Formula 1 broadcast , /n/</title>
-  </programme>
-  <programme start="20260630180000 +0000" stop="20260630190000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Formula 1: Extra8 episode, show about Formula 1 2026</title>
-  </programme>
-  <programme start="20260630190000 +0000" stop="20260630195000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Practice for Austrian Grand Prix Round 4, Formula 3 2026, /n/</title>
-  </programme>
-  <programme start="20260630195000 +0000" stop="20260630203000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Qualifying for Austrian Grand Prix Round 4, Formula 3 2026, /n/</title>
-  </programme>
-  <programme start="20260630213000 +0000" stop="20260701040000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Austrian Grand Prix Round 4, Formula 3 2026, /n/</title>
   </programme>
   <programme start="20260701040000 +0000" stop="20260701050000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Bundesliga season overview 2025/2026 German football broadcast, /n/</title>
@@ -552,15 +519,6 @@
   <programme start="20260704194500 +0000" stop="20260704204500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">British Grand Prix Sprint Round 5, Formula 3 2026, /n/</title>
   </programme>
-  <programme start="20260630180000 +0000" stop="20260630200000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Eurocup: Turk Telecom Ankara - Burg an Bres</title>
-  </programme>
-  <programme start="20260630220000 +0000" stop="20260630233000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Volleyball - Women's League of Nations: Brazil - Bulgaria</title>
-  </programme>
-  <programme start="20260630233000 +0000" stop="20260701013000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Volleyball - League of Nations, women: Bulgaria - Turkey</title>
-  </programme>
   <programme start="20260701013000 +0000" stop="20260701021500 +0000" channel="MAXSport1.bg">
     <title lang="bg">Carrera Cup'26: Round Overview</title>
   </programme>
@@ -686,12 +644,6 @@
   </programme>
   <programme start="20260704183000 +0000" stop="20260704201500 +0000" channel="MAXSport1.bg">
     <title lang="bg">Volleyball - Serie A1: Perugia - Piacenza</title>
-  </programme>
-  <programme start="20260630174500 +0000" stop="20260630194500 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Volleyball - League of Nations: Bulgaria - Serbia</title>
-  </programme>
-  <programme start="20260630221500 +0000" stop="20260701011500 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Nascar Cup Series: Toyota / Save Mart 350, Sonoma Raceway</title>
   </programme>
   <programme start="20260701011500 +0000" stop="20260701020000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Nascar Cup Series: Toyota / Save Mart 350, Sonoma Raceway</title>
@@ -858,18 +810,6 @@
   <programme start="20260704173000 +0000" stop="20260704193000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Diamond League 2026: Tournament in Paris</title>
   </programme>
-  <programme start="20260630170000 +0000" stop="20260630190000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Turkish Cup: Gençlerbirligi - Trabzonspor</title>
-  </programme>
-  <programme start="20260630190000 +0000" stop="20260630204500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">MotoGP: Race for the Brazilian Grand Prix</title>
-  </programme>
-  <programme start="20260630220000 +0000" stop="20260630231500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Moto3: Race for the Brazilian Grand Prix</title>
-  </programme>
-  <programme start="20260630231500 +0000" stop="20260701021500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UFC Fight Night: Rafael Fiziev vs. Manuel Torres</title>
-  </programme>
   <programme start="20260701021500 +0000" stop="20260701023000 +0000" channel="MAXSport3.bg">
     <title lang="bg">UFC Fight Night: Rafael Fiziev vs. Manuel Torres</title>
   </programme>
@@ -1028,18 +968,6 @@
   </programme>
   <programme start="20260704170000 +0000" stop="20260704190000 +0000" channel="MAXSport3.bg">
     <title lang="bg">French Cup: PSG - Paris</title>
-  </programme>
-  <programme start="20260630170000 +0000" stop="20260630190000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Girona - Real Madrid</title>
-  </programme>
-  <programme start="20260630190000 +0000" stop="20260630210000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Barcelona - Alaves</title>
-  </programme>
-  <programme start="20260630210000 +0000" stop="20260630230000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Athletic Bilbao v Atletico Madrid</title>
-  </programme>
-  <programme start="20260630230000 +0000" stop="20260701010000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Alaves - Real Sociedad</title>
   </programme>
   <programme start="20260701010000 +0000" stop="20260701030000 +0000" channel="MAXSport4.bg">
     <title lang="bg">La Liga: Betis - Barcelona</title>
