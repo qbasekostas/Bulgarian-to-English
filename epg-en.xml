@@ -27,23 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260709163000 +0000" stop="20260709173000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The season of CSKA.2 episode, show about Bulgarian football 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260709173000 +0000" stop="20260709180000 +0000" channel="DiemaSport.bg">
-    <desc lang="bg">.directly.</desc>
-    <title lang="bg">Football</title>
-  </programme>
-  <programme start="20260709180000 +0000" stop="20260709195500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">CSKA - Derry City.1st round, Football: Europa League 2026/2027, playoffs, first leg, live</title>
-  </programme>
-  <programme start="20260709195500 +0000" stop="20260709203000 +0000" channel="DiemaSport.bg">
-    <desc lang="bg">.directly.</desc>
-    <title lang="bg">Football</title>
-  </programme>
-  <programme start="20260709223000 +0000" stop="20260710040000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">CSKA - Derry City.Round 1, Soccer: Europa League 2026/2027, Playoffs, First Leg, /n/</title>
-  </programme>
   <programme start="20260710040000 +0000" stop="20260710060000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Spartak Varna - Montana.Round 24, Football: efbet League 2025/2026, /n/</title>
   </programme>
@@ -104,15 +87,6 @@
   <programme start="20260711210000 +0000" stop="20260711230000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Levski - Lokomotiv Plovdiv.Round 25, Football: efbet League 2025/2026, /n/</title>
   </programme>
-  <programme start="20260709163000 +0000" stop="20260709170000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">The best of the Premier League4 episode, English football show 2025/2026</title>
-  </programme>
-  <programme start="20260709170000 +0000" stop="20260709191500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Burnley v Brentford Round 28, Football: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260709211500 +0000" stop="20260710040000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Brighton &amp; Hove Albion v Nottingham Forest Round 28, Football: Premier League 2025/2026, /n/</title>
-  </programme>
   <programme start="20260710040000 +0000" stop="20260710060000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Bournemouth v Brentford Round 29, Football: Premier League 2025/2026, /n/</title>
   </programme>
@@ -163,18 +137,6 @@
   </programme>
   <programme start="20260711180000 +0000" stop="20260711200000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Nottingham Forest - Fulham Round 30, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260709170000 +0000" stop="20260709173000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Formula 1: Review Episode 9, Formula 1 2026 show, /n/</title>
-  </programme>
-  <programme start="20260709173000 +0000" stop="20260709193000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Borussia Mönchengladbach - Wolfsburg Round 14, Soccer: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260709193000 +0000" stop="20260709203000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Formula 1: Extra9 episode, show for Formula 1 2026, /n/</title>
-  </programme>
-  <programme start="20260709221500 +0000" stop="20260710040000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Formula 1 Talk Show 16 episode, show about Formula 1 2026, /n/</title>
   </programme>
   <programme start="20260710040000 +0000" stop="20260710060000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Eintracht Frankfurt - Augsburg Round 14, Soccer: Bundesliga 2025/2026, /n/</title>
@@ -244,15 +206,6 @@
   </programme>
   <programme start="20260711190000 +0000" stop="20260711204500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Augsburg - Werder Bremen Round 15, Football: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260709173000 +0000" stop="20260709200000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Sesame National Basketball League: Lokomotiv Plovdiv - Balkan</title>
-  </programme>
-  <programme start="20260709230000 +0000" stop="20260709233000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">UFC Fight Night: Murphy vs. Evloev</title>
-  </programme>
-  <programme start="20260709233000 +0000" stop="20260710021500 +0000" channel="MAXSport1.bg">
-    <title lang="bg">UFC Fight Night: Adesanya vs. Pfeiffer</title>
   </programme>
   <programme start="20260710021500 +0000" stop="20260710050000 +0000" channel="MAXSport1.bg">
     <title lang="bg">UFC Fight Night: Moicano vs. Duncan</title>
@@ -329,21 +282,6 @@
   <programme start="20260711193000 +0000" stop="20260711200000 +0000" channel="MAXSport1.bg">
     <title lang="bg">DIRECT, Senshi - Boina Galavecher from Varna</title>
   </programme>
-  <programme start="20260709163000 +0000" stop="20260709173000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Breakpoint</title>
-  </programme>
-  <programme start="20260709173000 +0000" stop="20260709180000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Golf: Blot Open de Bretagne</title>
-  </programme>
-  <programme start="20260709180000 +0000" stop="20260709200000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Volleyball - Women's Nations League: Serbia - France</title>
-  </programme>
-  <programme start="20260709230000 +0000" stop="20260709233000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Nascar Cup Series: NASCAR Cup Series at Chicagoland, Chicagoland Speedway</title>
-  </programme>
-  <programme start="20260709233000 +0000" stop="20260710020000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Cage Warriors 209: Gala Night from Newcastle</title>
-  </programme>
   <programme start="20260710020000 +0000" stop="20260710030000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Nascar Cup Series: Overview</title>
   </programme>
@@ -416,15 +354,6 @@
   <programme start="20260711190000 +0000" stop="20260711200000 +0000" channel="MAXSport2.bg">
     <title lang="bg">UFC 329: Before the Big Clash: McGregor vs. Hallaway</title>
   </programme>
-  <programme start="20260709173000 +0000" stop="20260709193000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Champions League: Atalanta - Bayern Munich</title>
-  </programme>
-  <programme start="20260709213000 +0000" stop="20260709233000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Champions League: Newcastle - Barcelona</title>
-  </programme>
-  <programme start="20260709233000 +0000" stop="20260710010000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">World Rally Championship: Croatia</title>
-  </programme>
   <programme start="20260710010000 +0000" stop="20260710030000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Major League Soccer: Los Angeles Galaxy - Real Salt Lake</title>
   </programme>
@@ -484,18 +413,6 @@
   </programme>
   <programme start="20260711163000 +0000" stop="20260711190000 +0000" channel="MAXSport3.bg">
     <title lang="bg">LIVE, Golf: Genesis Scottish Open</title>
-  </programme>
-  <programme start="20260709170000 +0000" stop="20260709190000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Copa del Rey: Atlético Baleares - Atlético Madrid</title>
-  </programme>
-  <programme start="20260709190000 +0000" stop="20260709210000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Copa del Rey: Deportivo La Coruña - Atletico Madrid</title>
-  </programme>
-  <programme start="20260709210000 +0000" stop="20260710000000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Golf: Genesis Scottish Open</title>
-  </programme>
-  <programme start="20260710000000 +0000" stop="20260710010000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Golf: Genesis Scottish Open</title>
   </programme>
   <programme start="20260710010000 +0000" stop="20260710030000 +0000" channel="MAXSport4.bg">
     <title lang="bg">La Liga: Sevilla - Celta</title>
