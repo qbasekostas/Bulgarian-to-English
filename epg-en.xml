@@ -27,15 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260714030000 +0000" stop="20260714050000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Lokomotiv Plovdiv - Lokomotiv Sofia.Round 28, Football: efbet League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260714050000 +0000" stop="20260714070000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Arda - Montana.Round 28, Football: efbet League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260714070000 +0000" stop="20260714090000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Beroe - CSKA.Round 28, Football: efbet League 2025/2026, /n/</title>
-  </programme>
   <programme start="20260714090000 +0000" stop="20260714110000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Botev Plovdiv - Spartak Varna.Round 28, Football: efbet League 2025/2026, /n/</title>
   </programme>
@@ -211,12 +202,6 @@
     <desc lang="bg">.directly.</desc>
     <title lang="bg">efbet League football</title>
   </programme>
-  <programme start="20260714043000 +0000" stop="20260714063000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Chelsea v Manchester United Round 33, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260714063000 +0000" stop="20260714083000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Leeds United - Wolverhampton Wanderers Round 33, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
   <programme start="20260714083000 +0000" stop="20260714103000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Brentford v Fulham Round 33, Football: Premier League 2025/2026, /n/</title>
   </programme>
@@ -369,15 +354,6 @@
   </programme>
   <programme start="20260718183000 +0000" stop="20260718203000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Arsenal v Burnley Round 37, Football: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260714040000 +0000" stop="20260714060000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Werder Bremen - Eintracht Frankfurt Round 18, Soccer: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260714060000 +0000" stop="20260714080000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Hoffenheim - Bayer Leverkusen Round 18, Soccer: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260714080000 +0000" stop="20260714100000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Borussia Dortmund - St. Pauli Round of 18, Soccer: Bundesliga 2025/2026, /n/</title>
   </programme>
   <programme start="20260714100000 +0000" stop="20260714120000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Hamburger SV - Borussia Mönchengladbach Round 18, Soccer: Bundesliga 2025/2026, /n/</title>
@@ -592,24 +568,6 @@
   <programme start="20260718194500 +0000" stop="20260718203000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Qualifying Belgian Grand Prix Round 4, Porsche Super Cup 2026, /n/</title>
   </programme>
-  <programme start="20260714001500 +0000" stop="20260714013000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Moto3: Race for the German Grand Prix</title>
-  </programme>
-  <programme start="20260714013000 +0000" stop="20260714023000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Breakpoint</title>
-  </programme>
-  <programme start="20260714023000 +0000" stop="20260714030000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Trans World Sport</title>
-  </programme>
-  <programme start="20260714030000 +0000" stop="20260714050000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 250: Boszada, Sweden</title>
-  </programme>
-  <programme start="20260714050000 +0000" stop="20260714070000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 250: Boszada, Sweden</title>
-  </programme>
-  <programme start="20260714070000 +0000" stop="20260714090000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 250: Boszada, Sweden</title>
-  </programme>
   <programme start="20260714090000 +0000" stop="20260714110000 +0000" channel="MAXSport1.bg">
     <title lang="bg">LIVE, ATP 250: Boscad, Sweden</title>
   </programme>
@@ -774,21 +732,6 @@
   </programme>
   <programme start="20260718170000 +0000" stop="20260718190000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Volleyball - League of Nations: Brazil - Poland</title>
-  </programme>
-  <programme start="20260714030000 +0000" stop="20260714033000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Nascar Cup Series: Quaker State 400, Echopark Speedway</title>
-  </programme>
-  <programme start="20260714033000 +0000" stop="20260714041500 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Moto3: Race for the German Grand Prix</title>
-  </programme>
-  <programme start="20260714041500 +0000" stop="20260714060000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Moto2: Race for the German Grand Prix</title>
-  </programme>
-  <programme start="20260714060000 +0000" stop="20260714080000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">MotoGP: Race for the German Grand Prix</title>
-  </programme>
-  <programme start="20260714080000 +0000" stop="20260714100000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">ATP 250: Umag, Croatia</title>
   </programme>
   <programme start="20260714100000 +0000" stop="20260714120000 +0000" channel="MAXSport2.bg">
     <title lang="bg">ATP 250: Umag, Croatia</title>
@@ -994,18 +937,6 @@
   <programme start="20260718193000 +0000" stop="20260718200000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Trans World Sport</title>
   </programme>
-  <programme start="20260714003000 +0000" stop="20260714023000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">ATP 250: Gstaad, Switzerland</title>
-  </programme>
-  <programme start="20260714023000 +0000" stop="20260714043000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">ATP 250: Gstaad, Switzerland</title>
-  </programme>
-  <programme start="20260714043000 +0000" stop="20260714063000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">ATP 250: Gstaad, Switzerland</title>
-  </programme>
-  <programme start="20260714063000 +0000" stop="20260714083000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">ATP 250: Gstaad, Switzerland</title>
-  </programme>
   <programme start="20260714083000 +0000" stop="20260714103000 +0000" channel="MAXSport3.bg">
     <title lang="bg">LIVE, ATP 250: Gstaad, Switzerland</title>
   </programme>
@@ -1185,23 +1116,6 @@
   </programme>
   <programme start="20260718180000 +0000" stop="20260718200000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Diamond League 2026: London Tournament</title>
-  </programme>
-  <programme start="20260714003000 +0000" stop="20260714020000 +0000" channel="MAXSport4.bg">
-    <desc lang="bg">sports show.</desc>
-    <title lang="bg">In front of the Stadium</title>
-  </programme>
-  <programme start="20260714020000 +0000" stop="20260714040000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Sevilla - Athletic Bilbao</title>
-  </programme>
-  <programme start="20260714040000 +0000" stop="20260714050000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">The best goals</title>
-  </programme>
-  <programme start="20260714050000 +0000" stop="20260714070000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Villarreal - Real Madrid</title>
-  </programme>
-  <programme start="20260714070000 +0000" stop="20260714083000 +0000" channel="MAXSport4.bg">
-    <desc lang="bg">sports show.</desc>
-    <title lang="bg">In front of the Stadium</title>
   </programme>
   <programme start="20260714083000 +0000" stop="20260714090000 +0000" channel="MAXSport4.bg">
     <title lang="bg">La Liga's top scorer</title>
