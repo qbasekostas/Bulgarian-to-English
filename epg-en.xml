@@ -27,26 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260722170000 +0000" stop="20260722173000 +0000" channel="DiemaSport.bg">
-    <desc lang="bg">.directly.</desc>
-    <title lang="bg">Football</title>
-  </programme>
-  <programme start="20260722173000 +0000" stop="20260722192500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Levski - University of Craiova.Soccer: Champions League Qualifiers 2026/2027, live</title>
-  </programme>
-  <programme start="20260722192500 +0000" stop="20260722200000 +0000" channel="DiemaSport.bg">
-    <desc lang="bg">.directly.</desc>
-    <title lang="bg">Football</title>
-  </programme>
-  <programme start="20260722200000 +0000" stop="20260722210000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The home of football.Episode 3, show about Bulgarian football 2026/2027, live</title>
-  </programme>
-  <programme start="20260722210000 +0000" stop="20260722230000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">September - Arda.1st round, Football: efbet League 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260722230000 +0000" stop="20260723040000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Levski - University of Craiova.Football: Champions League Qualification 2026/2027, /n/</title>
-  </programme>
   <programme start="20260723040000 +0000" stop="20260723060000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Spartak Varna - CSKA 1948. 1st round, Football: efbet Liga 2026/2027, /n/</title>
   </programme>
@@ -159,18 +139,6 @@
     <desc lang="bg">.directly.</desc>
     <title lang="bg">efbet League football</title>
   </programme>
-  <programme start="20260722163000 +0000" stop="20260722170000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Premier League Stories50 Episodes English Football Show 2025/2026</title>
-  </programme>
-  <programme start="20260722170000 +0000" stop="20260722210000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Boxing: Riki Masuda - Daigo HigaBoxing event from Tokyo, Japan, /n/</title>
-  </programme>
-  <programme start="20260722210000 +0000" stop="20260722213000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Premier League Stories50 Episode English Football Show 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260722213000 +0000" stop="20260723033000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Doncaster Rovers - Southampton Round 3, Soccer: FA Cup 2025/2026, /n/</title>
-  </programme>
   <programme start="20260723033000 +0000" stop="20260723053000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Derby County - Leeds United3rd Round, Football: FA Cup 2025/2026, /n/</title>
   </programme>
@@ -260,33 +228,6 @@
   <programme start="20260725213000 +0000" stop="20260725220000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">The best of the Premier League 5 episode English football show 2025/2026, /n/</title>
   </programme>
-  <programme start="20260722161500 +0000" stop="20260722173000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Belgian Grand Prix Round 8, Formula 2 2026, /n/</title>
-  </programme>
-  <programme start="20260722173000 +0000" stop="20260722180000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Porsche Supercup: Review Episode 4 Motorsport Show 2026</title>
-  </programme>
-  <programme start="20260722180000 +0000" stop="20260722190000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">The Bulgarian Lion episode 8, broadcast for Formula 2 2026, live</title>
-  </programme>
-  <programme start="20260722190000 +0000" stop="20260722193000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Confidential from Formula 112 episode, Formula 1 2026 broadcast</title>
-  </programme>
-  <programme start="20260722193000 +0000" stop="20260722201500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Practice for Belgian Grand Prix Round 6, Formula 3 2026, /n/</title>
-  </programme>
-  <programme start="20260722201500 +0000" stop="20260722210000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Belgian Grand Prix Qualifying Round 6, Formula 3 2026, /n/</title>
-  </programme>
-  <programme start="20260722210000 +0000" stop="20260722220000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Belgian Grand Prix Sprint Round 6, Formula 3 2026, /n/</title>
-  </programme>
-  <programme start="20260722220000 +0000" stop="20260722231500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Belgian Grand Prix Round 6, Formula 3 2026, /n/</title>
-  </programme>
-  <programme start="20260722231500 +0000" stop="20260723040000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">The Bulgarian Lion Episode 8, Formula 2 2026 Broadcast, /n/</title>
-  </programme>
   <programme start="20260723040000 +0000" stop="20260723060000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Mainz - Hamburg Round 23, Football: Bundesliga 2025/2026, /n/</title>
   </programme>
@@ -294,7 +235,7 @@
     <title lang="bg">Bayern Munich - Eintracht Frankfurt Round 23, Soccer: Bundesliga 2025/2026, /n/</title>
   </programme>
   <programme start="20260723080000 +0000" stop="20260723100000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">RB Leipzig - Borussia Dortmund Round 23, Football: Bundesliga 2025/2026, /n/</title>
+    <title lang="bg">RB Leipzig - Borussia Dortmund Round 23, Soccer: Bundesliga 2025/2026, /n/</title>
   </programme>
   <programme start="20260723100000 +0000" stop="20260723110000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">The Bulgarian Lion Episode 8, Formula 2 2026 Broadcast, /n/</title>
@@ -318,7 +259,7 @@
     <title lang="bg">Formula 1 Talk Show 18 episode, show for Formula 1 2026, live</title>
   </programme>
   <programme start="20260723180000 +0000" stop="20260723200000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Wolfsburg - Augsburg Round 23, Soccer: Bundesliga 2025/2026, /n/</title>
+    <title lang="bg">Wolfsburg - Augsburg Round 23, Football: Bundesliga 2025/2026, /n/</title>
   </programme>
   <programme start="20260723220000 +0000" stop="20260724040000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Formula 1 Talk Show 18 episode, show about Formula 1 2026, /n/</title>
@@ -449,15 +390,6 @@
   <programme start="20260725191500 +0000" stop="20260725201500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Hungarian Grand Prix Sprint Round 9, Formula 2 2026, /n/</title>
   </programme>
-  <programme start="20260722170000 +0000" stop="20260722200000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Nascar Cup Series: Window World 450, North Wilkesboro Speedway</title>
-  </programme>
-  <programme start="20260722200000 +0000" stop="20260722203000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Nascar Cup Series: Window World 450, North Wilkesboro Speedway</title>
-  </programme>
-  <programme start="20260722223000 +0000" stop="20260723003000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Volleyball - League of Nations, Women</title>
-  </programme>
   <programme start="20260723003000 +0000" stop="20260723010000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Golf: German Challenge powered by VcG</title>
   </programme>
@@ -569,12 +501,6 @@
   <programme start="20260725184500 +0000" stop="20260725200000 +0000" channel="MAXSport1.bg">
     <title lang="bg">ADAC GT4 2026: Oschersleben</title>
   </programme>
-  <programme start="20260722183000 +0000" stop="20260722203000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Volleyball - League of Nations: Serbia - Slovenia</title>
-  </programme>
-  <programme start="20260722223000 +0000" stop="20260723003000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Moto GP: German Grand Prix</title>
-  </programme>
   <programme start="20260723003000 +0000" stop="20260723014500 +0000" channel="MAXSport2.bg">
     <title lang="bg">Moto 2: Race for the German Grand Prix</title>
   </programme>
@@ -679,15 +605,6 @@
   </programme>
   <programme start="20260725160000 +0000" stop="20260725190000 +0000" channel="MAXSport2.bg">
     <title lang="bg">LIVE, UFC Fight Night: Ankalaev vs. Rountree</title>
-  </programme>
-  <programme start="20260722180000 +0000" stop="20260722200000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">LIVE, ATP 250: Estoril, Portugal</title>
-  </programme>
-  <programme start="20260722220000 +0000" stop="20260722223000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Trans World Sport</title>
-  </programme>
-  <programme start="20260722223000 +0000" stop="20260723010000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">ATP 250: Umag, Croatia</title>
   </programme>
   <programme start="20260723010000 +0000" stop="20260723030000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Copa Sudamericana: Universidad Central - Santos</title>
@@ -796,21 +713,6 @@
   </programme>
   <programme start="20260725183000 +0000" stop="20260725203000 +0000" channel="MAXSport3.bg">
     <title lang="bg">LIVE, ATP 250: Estoril, Portugal</title>
-  </programme>
-  <programme start="20260722170000 +0000" stop="20260722190000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Real Madrid - Real Sociedad</title>
-  </programme>
-  <programme start="20260722190000 +0000" stop="20260722210000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Levante - Valencia</title>
-  </programme>
-  <programme start="20260722210000 +0000" stop="20260722220000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">The best goals</title>
-  </programme>
-  <programme start="20260722220000 +0000" stop="20260723000000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, Copa Sudamericana: Independiente Medellín - Vasco da Gama</title>
-  </programme>
-  <programme start="20260723000000 +0000" stop="20260723020000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Girona - Barcelona</title>
   </programme>
   <programme start="20260723020000 +0000" stop="20260723040000 +0000" channel="MAXSport4.bg">
     <title lang="bg">La Liga: Real Sociedad - Oviedo</title>
