@@ -27,20 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260726175500 +0000" stop="20260726181500 +0000" channel="DiemaSport.bg">
-    <desc lang="bg">.directly.</desc>
-    <title lang="bg">efbet League football</title>
-  </programme>
-  <programme start="20260726181500 +0000" stop="20260726201000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Locomotive Plovdiv - September.Round 2, Football: efbet League 2026/2027, live</title>
-  </programme>
-  <programme start="20260726201000 +0000" stop="20260726204500 +0000" channel="DiemaSport.bg">
-    <desc lang="bg">.directly.</desc>
-    <title lang="bg">efbet League football</title>
-  </programme>
-  <programme start="20260726211500 +0000" stop="20260727043000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Black Sea - Spartak Varna.Round 2, Football: efbet League 2026/2027, /n/</title>
-  </programme>
   <programme start="20260727043000 +0000" stop="20260727053000 +0000" channel="DiemaSport.bg">
     <title lang="bg">The home of football.3 episode, show about Bulgarian football 2026/2027, /n/</title>
   </programme>
@@ -209,21 +195,6 @@
   <programme start="20260730210000 +0000" stop="20260730220000 +0000" channel="DiemaSport.bg">
     <title lang="bg">efbet League: Before the round.3 episode, show about Bulgarian football 2026/2027, /n/</title>
   </programme>
-  <programme start="20260726174500 +0000" stop="20260726193000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Manchester City v Liverpool Football: FA Cup 2025/2026 Quarter Final /n/</title>
-  </programme>
-  <programme start="20260726213000 +0000" stop="20260726223000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Premier League goals of the season broadcast for English football 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260726223000 +0000" stop="20260726230000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Premier League Stories50 Episode English Football Show 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260726230000 +0000" stop="20260727000000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">English Premier League Season Summary 2025/2026 English Football Broadcast, /n/</title>
-  </programme>
-  <programme start="20260727000000 +0000" stop="20260727040000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Zuffa Boxing Event #9 Zuffa Boxing Circuit, Direct</title>
-  </programme>
   <programme start="20260727040000 +0000" stop="20260727060000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Manchester City v Southampton Football: FA Cup 2025/2026 Semi Final /n/</title>
   </programme>
@@ -351,18 +322,6 @@
   <programme start="20260730195500 +0000" stop="20260730203000 +0000" channel="DiemaSport2.bg">
     <desc lang="bg">directly.</desc>
     <title lang="bg">Football</title>
-  </programme>
-  <programme start="20260726173000 +0000" stop="20260726184500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Hungarian Grand Prix Round 7, Formula 3 2026, /n/</title>
-  </programme>
-  <programme start="20260726184500 +0000" stop="20260726200000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Hungarian Grand Prix Round 9, Formula 2 2026, /n/</title>
-  </programme>
-  <programme start="20260726200000 +0000" stop="20260726204500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Competition Hungarian Grand Prix Round 5, Porsche Super Cup 2026, /n/</title>
-  </programme>
-  <programme start="20260726230000 +0000" stop="20260727034500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Hoffenheim - St. Pauli Round 24, Football: Bundesliga 2025/2026, /n/</title>
   </programme>
   <programme start="20260727034500 +0000" stop="20260727043000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Practice for Hungarian Grand Prix Round 5, Porsche Super Cup 2026, /n/</title>
@@ -541,18 +500,6 @@
   <programme start="20260730213000 +0000" stop="20260730233000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Stuttgart - RB Leipzig Round of 26, Football: Bundesliga 2025/2026, /n/</title>
   </programme>
-  <programme start="20260726180000 +0000" stop="20260726210000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, Nascar Cup Series: Brickyard 400, Indianapolis Motor Speedway</title>
-  </programme>
-  <programme start="20260726210000 +0000" stop="20260726213000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, Nascar Cup Series: Brickyard 400, Indianapolis Motor Speedway</title>
-  </programme>
-  <programme start="20260726213000 +0000" stop="20260727000000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 250: Estoril, Portugal</title>
-  </programme>
-  <programme start="20260727000000 +0000" stop="20260727011500 +0000" channel="MAXSport1.bg">
-    <title lang="bg">DTM 2026: Oschersleben</title>
-  </programme>
   <programme start="20260727011500 +0000" stop="20260727023000 +0000" channel="MAXSport1.bg">
     <title lang="bg">DTM 2026: Oschersleben</title>
   </programme>
@@ -718,18 +665,6 @@
   <programme start="20260730180000 +0000" stop="20260730200000 +0000" channel="MAXSport1.bg">
     <title lang="bg">ATP 250: Los Cabos</title>
   </programme>
-  <programme start="20260726163000 +0000" stop="20260726174500 +0000" channel="MAXSport2.bg">
-    <title lang="bg">ADAC GT4 2026: Oschersleben</title>
-  </programme>
-  <programme start="20260726174500 +0000" stop="20260726190000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">ADAC GT4 2026: Oschersleben</title>
-  </programme>
-  <programme start="20260726220000 +0000" stop="20260726230000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Golf: ISPS Handa Senior Open 2026</title>
-  </programme>
-  <programme start="20260726230000 +0000" stop="20260727020000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">UFC Fight Night: Ankalaev vs. Rountree</title>
-  </programme>
   <programme start="20260727020000 +0000" stop="20260727040000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Volleyball - League of Nations, Women</title>
   </programme>
@@ -894,18 +829,6 @@
   </programme>
   <programme start="20260730180000 +0000" stop="20260730200000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Volleyball - League of Nations</title>
-  </programme>
-  <programme start="20260726163000 +0000" stop="20260726190000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">LIVE, ATP 250: Estoril, Portugal</title>
-  </programme>
-  <programme start="20260726190000 +0000" stop="20260726210000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Volleyball - League of Nations, Women</title>
-  </programme>
-  <programme start="20260726210000 +0000" stop="20260726230000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Volleyball - League of Nations, Women</title>
-  </programme>
-  <programme start="20260726230000 +0000" stop="20260727020000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Nascar Cup Series: Brickyard 400, Indianapolis Motor Speedway</title>
   </programme>
   <programme start="20260727020000 +0000" stop="20260727023000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Nascar Cup Series: Brickyard 400, Indianapolis Motor Speedway</title>
@@ -1074,15 +997,6 @@
   </programme>
   <programme start="20260730200000 +0000" stop="20260730203000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Trans World Sport</title>
-  </programme>
-  <programme start="20260726180000 +0000" stop="20260726200000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Real Madrid - Getafe</title>
-  </programme>
-  <programme start="20260726220000 +0000" stop="20260727000000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Valencia - Osasuna</title>
-  </programme>
-  <programme start="20260727000000 +0000" stop="20260727010000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">The best goals</title>
   </programme>
   <programme start="20260727010000 +0000" stop="20260727030000 +0000" channel="MAXSport4.bg">
     <title lang="bg">La Liga: Mallorca - Real Sociedad</title>
