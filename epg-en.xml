@@ -27,18 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260729100000 +0000" stop="20260729120000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Levski - University of Craiova.Football: Champions League Qualification 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260729120000 +0000" stop="20260729140000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Beroe - Heber.Round 1, Football: Mr.Bit Second League 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260729140000 +0000" stop="20260729160000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Dobruja - Pirin.Round 1, Football: Mr.Bit Second League 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260729160000 +0000" stop="20260729170000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Second Professional League: Round Overview.1 episode, show about Bulgarian football 2026/2027, live</title>
-  </programme>
   <programme start="20260729170000 +0000" stop="20260729173000 +0000" channel="DiemaSport.bg">
     <desc lang="bg">.directly.</desc>
     <title lang="bg">Football</title>
@@ -190,18 +178,6 @@
     <desc lang="bg">.directly.</desc>
     <title lang="bg">efbet League football</title>
   </programme>
-  <programme start="20260729100000 +0000" stop="20260729114500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Swansea City - Nottingham Forest Round 3, Soccer: Carabao Cup 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260729114500 +0000" stop="20260729133000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Barnsley - Brighton &amp; Hove Albion3rd Round, Football: Carabao Cup 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260729133000 +0000" stop="20260729153000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Lincoln City - Chelsea Round 3, Soccer: Carabao Cup 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260729153000 +0000" stop="20260729163000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">English Premier League season summary summary English football broadcast 2025/2026, /n/</title>
-  </programme>
   <programme start="20260729163000 +0000" stop="20260729170000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Premier League Stories 51 episodes, English football broadcast 2025/2026, live</title>
   </programme>
@@ -299,21 +275,6 @@
   </programme>
   <programme start="20260801180000 +0000" stop="20260801194500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Manchester City - Newcastle United Football: Carabao Cup 2025/2026 Semi Final Second Leg /n/</title>
-  </programme>
-  <programme start="20260729100000 +0000" stop="20260729120000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Cerezo Osaka - Borussia Dortmund Football: Friendly match, live</title>
-  </programme>
-  <programme start="20260729120000 +0000" stop="20260729134500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Eintracht Frankfurt - Heidenheim Round 26, Soccer: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260729134500 +0000" stop="20260729143000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Practice for Hungarian Grand Prix Round 9, Formula 2 2026, /n/</title>
-  </programme>
-  <programme start="20260729143000 +0000" stop="20260729151500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Hungarian Grand Prix Qualifying Round 9, Formula 2 2026, /n/</title>
-  </programme>
-  <programme start="20260729151500 +0000" stop="20260729161500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Hungarian Grand Prix Sprint Round 9, Formula 2 2026, /n/</title>
   </programme>
   <programme start="20260729161500 +0000" stop="20260729173000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Hungarian Grand Prix Round 9, Formula 2 2026, /n/</title>
@@ -450,27 +411,6 @@
   <programme start="20260801213000 +0000" stop="20260801231500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Union Berlin - St. Pauli Round 28, Football: Bundesliga 2025/2026, /n/</title>
   </programme>
-  <programme start="20260729081500 +0000" stop="20260729093000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ADAC GT4 2026 Oschersleben: Second race</title>
-  </programme>
-  <programme start="20260729093000 +0000" stop="20260729103000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">World Rally Championship: Estonia</title>
-  </programme>
-  <programme start="20260729103000 +0000" stop="20260729113000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">World Rally Championship: Estonia</title>
-  </programme>
-  <programme start="20260729113000 +0000" stop="20260729123000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">World Rally Championship: Estonia</title>
-  </programme>
-  <programme start="20260729123000 +0000" stop="20260729133000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">World Rally Championship: Estonia</title>
-  </programme>
-  <programme start="20260729133000 +0000" stop="20260729150000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">World Rally Championship: Estonia</title>
-  </programme>
-  <programme start="20260729150000 +0000" stop="20260729170000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 250: Los Cabos</title>
-  </programme>
   <programme start="20260729170000 +0000" stop="20260729190000 +0000" channel="MAXSport1.bg">
     <title lang="bg">ATP 250: Los Cabos</title>
   </programme>
@@ -587,24 +527,6 @@
   </programme>
   <programme start="20260801180000 +0000" stop="20260801200000 +0000" channel="MAXSport1.bg">
     <title lang="bg">ATP 250 Los Cabos: First Semi-Final</title>
-  </programme>
-  <programme start="20260729090000 +0000" stop="20260729110000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Volleyball - League of Nations, Women</title>
-  </programme>
-  <programme start="20260729110000 +0000" stop="20260729113000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Trans World Sport</title>
-  </programme>
-  <programme start="20260729113000 +0000" stop="20260729133000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Volleyball - Nations League</title>
-  </programme>
-  <programme start="20260729133000 +0000" stop="20260729144500 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Moto3: Race for the Spanish Grand Prix</title>
-  </programme>
-  <programme start="20260729144500 +0000" stop="20260729160000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Moto2: Race for the Spanish Grand Prix</title>
-  </programme>
-  <programme start="20260729160000 +0000" stop="20260729180000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Volleyball - League of Nations</title>
   </programme>
   <programme start="20260729180000 +0000" stop="20260729200000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Volleyball - League of Nations</title>
@@ -738,18 +660,6 @@
   <programme start="20260801173000 +0000" stop="20260801180000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Trans World Sport</title>
   </programme>
-  <programme start="20260729090000 +0000" stop="20260729110000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">ATP 500: Washington</title>
-  </programme>
-  <programme start="20260729110000 +0000" stop="20260729130000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">ATP 500: Washington</title>
-  </programme>
-  <programme start="20260729130000 +0000" stop="20260729150000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">ATP 500: Washington</title>
-  </programme>
-  <programme start="20260729150000 +0000" stop="20260729170000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">ATP 500: Washington</title>
-  </programme>
   <programme start="20260729170000 +0000" stop="20260729190000 +0000" channel="MAXSport3.bg">
     <title lang="bg">LIVE, ATP 500: Washington</title>
   </programme>
@@ -875,18 +785,6 @@
   </programme>
   <programme start="20260801170000 +0000" stop="20260801190000 +0000" channel="MAXSport3.bg">
     <title lang="bg">ATP 500 Washington: Third quarter-final</title>
-  </programme>
-  <programme start="20260729090000 +0000" stop="20260729110000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Athletic Bilbao - Barcelona</title>
-  </programme>
-  <programme start="20260729110000 +0000" stop="20260729130000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Celta v Real Madrid</title>
-  </programme>
-  <programme start="20260729130000 +0000" stop="20260729150000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Oviedo - Valencia</title>
-  </programme>
-  <programme start="20260729150000 +0000" stop="20260729170000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Atletico Madrid - Getafe</title>
   </programme>
   <programme start="20260729170000 +0000" stop="20260729190000 +0000" channel="MAXSport4.bg">
     <title lang="bg">Copa Sudamericana: Tigre - Nacional</title>
