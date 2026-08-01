@@ -27,15 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260731040000 +0000" stop="20260731060000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Black Sea - Spartak Varna.Round 2, Football: efbet League 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260731060000 +0000" stop="20260731063000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The goals of the round.2 episode, show about Bulgarian football 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260731063000 +0000" stop="20260731083000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Danube - Ludogorets.Round 2, Football: efbet League 2026/2027, /n/</title>
-  </programme>
   <programme start="20260731083000 +0000" stop="20260731093000 +0000" channel="DiemaSport.bg">
     <title lang="bg">The home of football.Episode 4, show about Bulgarian football 2026/2027, /n/</title>
   </programme>
@@ -108,20 +99,11 @@
     <desc lang="bg">.directly.</desc>
     <title lang="bg">efbet League football</title>
   </programme>
-  <programme start="20260731040000 +0000" stop="20260731060000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Wrexham - Cardiff City Round 4, Soccer: Carabao Cup 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260731060000 +0000" stop="20260731080000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Arsenal - Brighton &amp; Hove Albion Round 4, Football: Carabao Cup 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260731080000 +0000" stop="20260731100000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Wolverhampton Wanderers - Chelsea Round 4, Soccer: Carabao Cup 2025/2026, /n/</title>
-  </programme>
   <programme start="20260731100000 +0000" stop="20260731120000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Newcastle United - Tottenham Hotspur Round 4, Soccer: Carabao Cup 2025/2026, /n/</title>
   </programme>
   <programme start="20260731120000 +0000" stop="20260731134500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Swansea City - Manchester City Round 4, Soccer: Carabao Cup 2025/2026, /n/</title>
+    <title lang="bg">Swansea City - Manchester City Round 4, Football: Carabao Cup 2025/2026, /n/</title>
   </programme>
   <programme start="20260731134500 +0000" stop="20260731154500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Liverpool - Crystal Palace4th round, Football: Carabao Cup 2025/2026, /n/</title>
@@ -156,18 +138,6 @@
   <programme start="20260801180000 +0000" stop="20260801194500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Manchester City - Newcastle United Football: Carabao Cup 2025/2026 Semi Final Second Leg /n/</title>
   </programme>
-  <programme start="20260731040000 +0000" stop="20260731060000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">RB Leipzig - Hoffenheim Round 27, Football: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260731060000 +0000" stop="20260731070000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">The Bulgarian Lion 9 episode, Broadcast for Formula 2 2026, /n/</title>
-  </programme>
-  <programme start="20260731070000 +0000" stop="20260731080000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Formula 1 Talk Show 19 episode, show about Formula 1 2026, /n/</title>
-  </programme>
-  <programme start="20260731080000 +0000" stop="20260731100000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Heidenheim - Bayer Leverkusen Round 27, Soccer: Bundesliga 2025/2026, /n/</title>
-  </programme>
   <programme start="20260731100000 +0000" stop="20260731120000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Cologne - Borussia Mönchengladbach Round 27, Soccer: Bundesliga 2025/2026, /n/</title>
   </programme>
@@ -184,7 +154,7 @@
     <title lang="bg">Augsburg - Stuttgart Round 27, Football: Bundesliga 2025/2026, /n/</title>
   </programme>
   <programme start="20260731214500 +0000" stop="20260731233000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">St. Pauli - Freiburg Round 27, Football: Bundesliga 2025/2026, /n/</title>
+    <title lang="bg">St. Pauli - Freiburg Round 27, Soccer: Bundesliga 2025/2026, /n/</title>
   </programme>
   <programme start="20260731233000 +0000" stop="20260801034500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Mainz - Eintracht Frankfurt Round 27, Soccer: Bundesliga 2025/2026, /n/</title>
@@ -208,7 +178,7 @@
     <title lang="bg">FC Tokyo - Borussia Dortmund Football: Friendly match, live</title>
   </programme>
   <programme start="20260801120000 +0000" stop="20260801140000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Freiburg - Bayern Munich Round 28, Soccer: Bundesliga 2025/2026, /n/</title>
+    <title lang="bg">Freiburg - Bayern Munich Round 28, Football: Bundesliga 2025/2026, /n/</title>
   </programme>
   <programme start="20260801140000 +0000" stop="20260801150000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Formula 1: Extra11 episode, show for Formula 1 2026, /n/</title>
@@ -217,25 +187,13 @@
     <title lang="bg">Formula 1 Talk Show 19 episode, show about Formula 1 2026, /n/</title>
   </programme>
   <programme start="20260801160000 +0000" stop="20260801180000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Stuttgart - Borussia Dortmund Round 28, Football: Bundesliga 2025/2026, /n/</title>
+    <title lang="bg">Stuttgart - Borussia Dortmund Round 28, Soccer: Bundesliga 2025/2026, /n/</title>
   </programme>
   <programme start="20260801180000 +0000" stop="20260801194500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Hamburger SV - AugsburgRound 28, Soccer: Bundesliga 2025/2026, /n/</title>
   </programme>
   <programme start="20260801213000 +0000" stop="20260801231500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Union Berlin - St. Pauli Round 28, Soccer: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260731010000 +0000" stop="20260731030000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 250 Los Cabos: Quarterfinals</title>
-  </programme>
-  <programme start="20260731030000 +0000" stop="20260731050000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 250 Los Cabos: Quarterfinals</title>
-  </programme>
-  <programme start="20260731050000 +0000" stop="20260731070000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 250 Los Cabos: Quarterfinals</title>
-  </programme>
-  <programme start="20260731070000 +0000" stop="20260731090000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Volleyball - League of Nations</title>
   </programme>
   <programme start="20260731090000 +0000" stop="20260731110000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Volleyball - League of Nations</title>
@@ -293,21 +251,6 @@
   </programme>
   <programme start="20260801180000 +0000" stop="20260801200000 +0000" channel="MAXSport1.bg">
     <title lang="bg">ATP 250 Los Cabos: First Semi-Final</title>
-  </programme>
-  <programme start="20260731003000 +0000" stop="20260731010000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">German Challenge powered by VcG: Tournament overview</title>
-  </programme>
-  <programme start="20260731010000 +0000" stop="20260731030000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Diamond League 2026: Tournament in Oslo</title>
-  </programme>
-  <programme start="20260731030000 +0000" stop="20260731050000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Diamond League 2026: Tournament in Doha</title>
-  </programme>
-  <programme start="20260731050000 +0000" stop="20260731080000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Nascar Cup Series: Brickyard 400, Indianapolis Motor Speedway</title>
-  </programme>
-  <programme start="20260731080000 +0000" stop="20260731083000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Nascar Cup Series: Brickyard 400, Indianapolis Motor Speedway</title>
   </programme>
   <programme start="20260731083000 +0000" stop="20260731093000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Speed ​​of Max</title>
@@ -369,21 +312,6 @@
   <programme start="20260801173000 +0000" stop="20260801180000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Trans World Sport</title>
   </programme>
-  <programme start="20260731003000 +0000" stop="20260731033000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Nascar Cup Series: Brickyard 400, Indianapolis Motor Speedway</title>
-  </programme>
-  <programme start="20260731033000 +0000" stop="20260731040000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Nascar Cup Series: Brickyard 400, Indianapolis Motor Speedway</title>
-  </programme>
-  <programme start="20260731040000 +0000" stop="20260731050000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">DTM 2026: Overview</title>
-  </programme>
-  <programme start="20260731050000 +0000" stop="20260731070000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Copa Sudamericana: Gremio - Bolivar</title>
-  </programme>
-  <programme start="20260731070000 +0000" stop="20260731090000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Copa Sudamericana: O'Higgins - Boca Juniors</title>
-  </programme>
   <programme start="20260731090000 +0000" stop="20260731110000 +0000" channel="MAXSport3.bg">
     <title lang="bg">ATP 500: Washington</title>
   </programme>
@@ -440,21 +368,6 @@
   </programme>
   <programme start="20260801170000 +0000" stop="20260801190000 +0000" channel="MAXSport3.bg">
     <title lang="bg">ATP 500 Washington: Third quarter-final</title>
-  </programme>
-  <programme start="20260731003000 +0000" stop="20260731023000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, Copa Sudamericana: O'Higgins v Boca Juniors</title>
-  </programme>
-  <programme start="20260731023000 +0000" stop="20260731030000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga's top scorer</title>
-  </programme>
-  <programme start="20260731030000 +0000" stop="20260731050000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Atletico Madrid - Getafe</title>
-  </programme>
-  <programme start="20260731050000 +0000" stop="20260731080000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Golf: AIG Women's Open</title>
-  </programme>
-  <programme start="20260731080000 +0000" stop="20260731093000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Golf: AIG Women's Open</title>
   </programme>
   <programme start="20260731093000 +0000" stop="20260731113000 +0000" channel="MAXSport4.bg">
     <title lang="bg">La Liga: Real Sociedad - Osasuna</title>
