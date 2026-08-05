@@ -27,27 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260803174000 +0000" stop="20260803175500 +0000" channel="DiemaSport.bg">
-    <desc lang="bg">.directly.</desc>
-    <title lang="bg">Mr.Bit Second League</title>
-  </programme>
-  <programme start="20260803175500 +0000" stop="20260803181500 +0000" channel="DiemaSport.bg">
-    <desc lang="bg">.directly.</desc>
-    <title lang="bg">efbet League football</title>
-  </programme>
-  <programme start="20260803181500 +0000" stop="20260803201000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Spartak Varna - Lokomotiv Plovdiv.Round 3, Football: efbet League 2026/2027, live</title>
-  </programme>
-  <programme start="20260803201000 +0000" stop="20260803204500 +0000" channel="DiemaSport.bg">
-    <desc lang="bg">.directly.</desc>
-    <title lang="bg">efbet League football</title>
-  </programme>
-  <programme start="20260803214500 +0000" stop="20260803221500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Ludogorets - Arda.First Professional League 2025/2026 - Classic</title>
-  </programme>
-  <programme start="20260803221500 +0000" stop="20260804040000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Ether - Yantra.Episode 3 Football: Mr.Bit Second League 2026/2027, /n/</title>
-  </programme>
   <programme start="20260804040000 +0000" stop="20260804060000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Botev Plovdiv - Black Sea.Round 3, Football: efbet League 2026/2027, /n/</title>
   </programme>
@@ -265,21 +244,6 @@
   <programme start="20260808211500 +0000" stop="20260808214500 +0000" channel="DiemaSport.bg">
     <title lang="bg">Beroe - Levski.First Professional League 2017/2018 - Classic, /n/</title>
   </programme>
-  <programme start="20260803163000 +0000" stop="20260803183000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Coventry City - Luton Town Football: Carabao Cup 2025/2026 Round 1</title>
-  </programme>
-  <programme start="20260803183000 +0000" stop="20260803203000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Bromley v Ipswich Town Football: Carabao Cup 2025/2026 Round 1</title>
-  </programme>
-  <programme start="20260803213000 +0000" stop="20260803220000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">The best of the Premier League2 episode, English football show 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260803220000 +0000" stop="20260803223000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">The best of the Premier League4 episode, English football show 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260803223000 +0000" stop="20260804034500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">The best of the Premier League 1 episode, English football show 2025/2026, /n/</title>
-  </programme>
   <programme start="20260804034500 +0000" stop="20260804060000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Crystal Palace - Arsenal Round 38, Soccer: Premier League 2025/2026, /n/</title>
   </programme>
@@ -459,12 +423,6 @@
   <programme start="20260808184500 +0000" stop="20260808204500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Nantes - Red Star 1st round, Football: Ligue 2 France 2026/2027, live</title>
   </programme>
-  <programme start="20260803174500 +0000" stop="20260803193000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Bayern Munich - Stuttgart Round 30, Soccer: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260803213000 +0000" stop="20260804040000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Formula 1 Talk Show 19 episode, show about Formula 1 2026, /n/</title>
-  </programme>
   <programme start="20260804040000 +0000" stop="20260804050000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Formula 1: Extra11 episode, show for Formula 1 2026, /n/</title>
   </programme>
@@ -620,18 +578,6 @@
   </programme>
   <programme start="20260808140000 +0000" stop="20260808160000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Derby County - Lincoln City 1st round, Football: Carabao Cup 2026/2027, live</title>
-  </programme>
-  <programme start="20260803170000 +0000" stop="20260803190000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 1000: Montreal</title>
-  </programme>
-  <programme start="20260803190000 +0000" stop="20260803210000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 1000: Montreal</title>
-  </programme>
-  <programme start="20260803210000 +0000" stop="20260803230000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 1000: Montreal</title>
-  </programme>
-  <programme start="20260803230000 +0000" stop="20260804010000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 1000: Montreal</title>
   </programme>
   <programme start="20260804010000 +0000" stop="20260804030000 +0000" channel="MAXSport1.bg">
     <title lang="bg">LIVE, ATP 1000: Montreal</title>
@@ -805,21 +751,6 @@
     <title lang="bg">LIVE, ATP 1000: Montreal</title>
   </programme>
   <programme start="20260808183000 +0000" stop="20260808203000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 1000: Montreal</title>
-  </programme>
-  <programme start="20260803170000 +0000" stop="20260803190000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, ATP 1000: Montreal</title>
-  </programme>
-  <programme start="20260803190000 +0000" stop="20260803210000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, ATP 1000: Montreal</title>
-  </programme>
-  <programme start="20260803210000 +0000" stop="20260803220000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Breakpoint</title>
-  </programme>
-  <programme start="20260803220000 +0000" stop="20260804000000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, ATP 1000: Montreal</title>
-  </programme>
-  <programme start="20260804000000 +0000" stop="20260804020000 +0000" channel="MAXSport2.bg">
     <title lang="bg">LIVE, ATP 1000: Montreal</title>
   </programme>
   <programme start="20260804020000 +0000" stop="20260804030500 +0000" channel="MAXSport2.bg">
@@ -1032,21 +963,6 @@
   <programme start="20260808173000 +0000" stop="20260808203000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Nascar Cup Series: Brickyard 400, Indianapolis Motor Speedway</title>
   </programme>
-  <programme start="20260803170000 +0000" stop="20260803190000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Copa Sudamericana: Tigre - Nacional</title>
-  </programme>
-  <programme start="20260803190000 +0000" stop="20260803210000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Friendly match: Birmingham - Barcelona</title>
-  </programme>
-  <programme start="20260803210000 +0000" stop="20260803220000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">World Rally Championship: Overview of the race in Finland</title>
-  </programme>
-  <programme start="20260803220000 +0000" stop="20260804000000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Rugby - Six Nations: France v Ireland</title>
-  </programme>
-  <programme start="20260804000000 +0000" stop="20260804020000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Rugby - Six Nations: Italy v Scotland</title>
-  </programme>
   <programme start="20260804020000 +0000" stop="20260804040000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Rugby - Six Nations: England v Wales</title>
   </programme>
@@ -1235,16 +1151,6 @@
   </programme>
   <programme start="20260808170000 +0000" stop="20260808180000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Moto GP: Sprint for the British Grand Prix</title>
-  </programme>
-  <programme start="20260803170000 +0000" stop="20260803183000 +0000" channel="MAXSport4.bg">
-    <desc lang="bg">sports show.</desc>
-    <title lang="bg">In front of the Stadium</title>
-  </programme>
-  <programme start="20260803183000 +0000" stop="20260803203000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Atletico Madrid - Barcelona</title>
-  </programme>
-  <programme start="20260803223000 +0000" stop="20260804003000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Oviedo - Sevilla</title>
   </programme>
   <programme start="20260804003000 +0000" stop="20260804020000 +0000" channel="MAXSport4.bg">
     <desc lang="bg">sports show.</desc>
