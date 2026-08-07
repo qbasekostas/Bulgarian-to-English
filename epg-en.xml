@@ -27,15 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260806040000 +0000" stop="20260806060000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Levski - Kairat Almaty.Football: Champions League Qualifiers 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260806060000 +0000" stop="20260806080000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">CSKA 1948 - Arda.Round 3, Football: efbet League 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260806080000 +0000" stop="20260806100000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">CSKA - Danube.Round 3, Football: efbet League 2026/2027, /n/</title>
-  </programme>
   <programme start="20260806100000 +0000" stop="20260806110000 +0000" channel="DiemaSport.bg">
     <title lang="bg">The home of football.Episode 5, show about Bulgarian football 2026/2027, /n/</title>
   </programme>
@@ -161,15 +152,6 @@
   <programme start="20260808211500 +0000" stop="20260808214500 +0000" channel="DiemaSport.bg">
     <title lang="bg">Beroe - Levski.First Professional League 2017/2018 - Classic, /n/</title>
   </programme>
-  <programme start="20260806034500 +0000" stop="20260806060000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Tottenham Hotspur - Leeds United Round of 36, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260806060000 +0000" stop="20260806074500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Crystal Palace - Everton Round of 36, Soccer: Premier League 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260806074500 +0000" stop="20260806093000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Nottingham Forest - Newcastle United Round of 36, Football: Premier League 2025/2026, /n/</title>
-  </programme>
   <programme start="20260806093000 +0000" stop="20260806113000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">West Ham United v Arsenal Round of 36 Football: Premier League 2025/2026 Record</title>
   </programme>
@@ -266,15 +248,6 @@
   <programme start="20260808184500 +0000" stop="20260808204500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Nantes - Red Star 1st round, Football: Ligue 2 France 2026/2027, live</title>
   </programme>
-  <programme start="20260806040000 +0000" stop="20260806060000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Borussia Dortmund - Eintracht Frankfurt Round 33, Soccer: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260806060000 +0000" stop="20260806080000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Stuttgart - Bayer Leverkusen Round 33, Football: Bundesliga 2025/2026, /n/</title>
-  </programme>
-  <programme start="20260806080000 +0000" stop="20260806100000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Wolfsburg - Bayern Munich Round 33, Soccer: Bundesliga 2025/2026, /n/</title>
-  </programme>
   <programme start="20260806100000 +0000" stop="20260806120000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">RB Leipzig - St. Pauli Round 33, Football: Bundesliga 2025/2026, /n/</title>
   </programme>
@@ -365,18 +338,6 @@
   <programme start="20260808140000 +0000" stop="20260808160000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Derby County - Lincoln City 1st round, Football: Carabao Cup 2026/2027, live</title>
   </programme>
-  <programme start="20260806010000 +0000" stop="20260806030000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 1000: Montreal</title>
-  </programme>
-  <programme start="20260806030000 +0000" stop="20260806043000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">DTM 2026 Oschersleben: First race</title>
-  </programme>
-  <programme start="20260806043000 +0000" stop="20260806063000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Montreal</title>
-  </programme>
-  <programme start="20260806063000 +0000" stop="20260806083000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Montreal</title>
-  </programme>
   <programme start="20260806083000 +0000" stop="20260806103000 +0000" channel="MAXSport1.bg">
     <title lang="bg">ATP 1000: Montreal</title>
   </programme>
@@ -466,15 +427,6 @@
   </programme>
   <programme start="20260808183000 +0000" stop="20260808203000 +0000" channel="MAXSport1.bg">
     <title lang="bg">LIVE, ATP 1000: Montreal</title>
-  </programme>
-  <programme start="20260806020000 +0000" stop="20260806050000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Golf: The 154th Open</title>
-  </programme>
-  <programme start="20260806050000 +0000" stop="20260806080000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Golf: The 154th Open</title>
-  </programme>
-  <programme start="20260806080000 +0000" stop="20260806100000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Golf: The 154th Open</title>
   </programme>
   <programme start="20260806100000 +0000" stop="20260806110000 +0000" channel="MAXSport2.bg">
     <title lang="bg">European Rally Championship: Poland</title>
@@ -584,18 +536,6 @@
   <programme start="20260808173000 +0000" stop="20260808203000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Nascar Cup Series: Brickyard 400, Indianapolis Motor Speedway</title>
   </programme>
-  <programme start="20260806020000 +0000" stop="20260806040000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Rugby - Six Nations: France - Italy</title>
-  </programme>
-  <programme start="20260806040000 +0000" stop="20260806050000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">DTM 2026: Overview</title>
-  </programme>
-  <programme start="20260806050000 +0000" stop="20260806070000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Diamond League 2026: Tournament in Doha</title>
-  </programme>
-  <programme start="20260806070000 +0000" stop="20260806090000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Diamond League 2026: Tournament in Paris</title>
-  </programme>
   <programme start="20260806090000 +0000" stop="20260806120000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Nascar Cup Series: Brickyard 400, Indianapolis Motor Speedway</title>
   </programme>
@@ -700,18 +640,6 @@
   </programme>
   <programme start="20260808170000 +0000" stop="20260808180000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Moto GP: Sprint for the British Grand Prix</title>
-  </programme>
-  <programme start="20260806010000 +0000" stop="20260806030000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Copa Sudamericana: Nacional - Tigre</title>
-  </programme>
-  <programme start="20260806030000 +0000" stop="20260806050000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Copa Sudamericana: Tigre - Nacional</title>
-  </programme>
-  <programme start="20260806050000 +0000" stop="20260806070000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Sevilla - Atletico Madrid</title>
-  </programme>
-  <programme start="20260806070000 +0000" stop="20260806090000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Real Madrid - Girona</title>
   </programme>
   <programme start="20260806090000 +0000" stop="20260806110000 +0000" channel="MAXSport4.bg">
     <title lang="bg">La Liga: Real Sociedad - Alaves</title>
