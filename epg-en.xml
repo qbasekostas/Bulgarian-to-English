@@ -27,12 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260808043000 +0000" stop="20260808063000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Levski - Kairat Almaty.Football: Champions League Qualifiers 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260808063000 +0000" stop="20260808083000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Ether - Marek.Round 3, Football: Mr.Bit Second League 2026/2027, /n/</title>
-  </programme>
   <programme start="20260808083000 +0000" stop="20260808103000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Levski - Lokomotiv Plovdiv.Round 4, Football: efbet League 2026/2027, /n/</title>
   </programme>
@@ -70,12 +64,6 @@
   <programme start="20260808211500 +0000" stop="20260808214500 +0000" channel="DiemaSport.bg">
     <title lang="bg">Beroe - Levski.First Professional League 2017/2018 - Classic, /n/</title>
   </programme>
-  <programme start="20260808044500 +0000" stop="20260808063000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">English Premier League Extended Season Review 2025/2026 English Football Broadcast, /n/</title>
-  </programme>
-  <programme start="20260808063000 +0000" stop="20260808083000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Wolverhampton Wanderers - Port Vale Round 1, Football: Carabao Cup 2026/2027, /n/</title>
-  </programme>
   <programme start="20260808083000 +0000" stop="20260808103000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Middlesbrough - Wrexham Round 1, Football: Carabao Cup 2026/2027, /n/</title>
   </programme>
@@ -95,7 +83,7 @@
     <title lang="bg">Carabao Cup</title>
   </programme>
   <programme start="20260808140000 +0000" stop="20260808155500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">West Ham United - Portsmouth 1st round, Football: Carabao Cup 2026/2027, live</title>
+    <title lang="bg">West Ham United - Portsmouth First Round, Soccer: Carabao Cup 2026/2027, Live</title>
   </programme>
   <programme start="20260808155500 +0000" stop="20260808163000 +0000" channel="DiemaSport2.bg">
     <desc lang="bg">directly.</desc>
@@ -111,27 +99,15 @@
   <programme start="20260808184500 +0000" stop="20260808204500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Nantes - Red Star 1st round, Football: Ligue 2 France 2026/2027, live</title>
   </programme>
-  <programme start="20260808043000 +0000" stop="20260808053000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Bundesliga Season Roundup 1 Episode German Football Show /n/</title>
-  </programme>
-  <programme start="20260808053000 +0000" stop="20260808063000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Formula 1: Season Overview 20251 part Formula 1 show , /n/</title>
-  </programme>
-  <programme start="20260808063000 +0000" stop="20260808073000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Formula 1: Season Overview 20251 part Formula 1 show , /n/</title>
-  </programme>
-  <programme start="20260808073000 +0000" stop="20260808083000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Formula 1: Extra11 episode, show for Formula 1 2026, /n/</title>
-  </programme>
   <programme start="20260808083000 +0000" stop="20260808103000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Bochum - Hertha Berlin Round 1, Soccer: Second Bundesliga 2026/2027, /n/</title>
+    <title lang="bg">Bochum - Hertha Berlin Round 1, Football: Second Bundesliga 2026/2027, /n/</title>
   </programme>
   <programme start="20260808103000 +0000" stop="20260808110000 +0000" channel="DiemaSport3.bg">
     <desc lang="bg">directly.</desc>
     <title lang="bg">Bundesliga</title>
   </programme>
   <programme start="20260808110000 +0000" stop="20260808125500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Darmstadt - Holstein Kiel1st round, Football: Second Bundesliga 2026/2027, live</title>
+    <title lang="bg">Darmstadt - Holstein Kiel1st round, Soccer: Second Bundesliga 2026/2027, live</title>
   </programme>
   <programme start="20260808125500 +0000" stop="20260808133000 +0000" channel="DiemaSport3.bg">
     <desc lang="bg">directly.</desc>
@@ -143,18 +119,6 @@
   </programme>
   <programme start="20260808140000 +0000" stop="20260808160000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Derby County - Lincoln City 1st round, Football: Carabao Cup 2026/2027, live</title>
-  </programme>
-  <programme start="20260808010000 +0000" stop="20260808030000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 1000: Montreal</title>
-  </programme>
-  <programme start="20260808030000 +0000" stop="20260808043000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ADAC GT4 2026: Oschersleben: First race</title>
-  </programme>
-  <programme start="20260808043000 +0000" stop="20260808063000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Montreal</title>
-  </programme>
-  <programme start="20260808063000 +0000" stop="20260808083000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Montreal</title>
   </programme>
   <programme start="20260808083000 +0000" stop="20260808103000 +0000" channel="MAXSport1.bg">
     <title lang="bg">ATP 1000: Montreal</title>
@@ -174,23 +138,203 @@
   <programme start="20260808183000 +0000" stop="20260808203000 +0000" channel="MAXSport1.bg">
     <title lang="bg">LIVE, ATP 1000: Montreal</title>
   </programme>
-  <programme start="20260808020000 +0000" stop="20260808030000 +0000" channel="MAXSport2.bg">
+  <programme start="20260808213000 +0000" stop="20260808220000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Raiffeisenbank Golf Challenge: Tournament Overview</title>
+  </programme>
+  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260809000000 +0000" stop="20260809020000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260809020000 +0000" stop="20260809031500 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ADAC GT4 2026 Oschersleben: Second race</title>
+  </programme>
+  <programme start="20260809031500 +0000" stop="20260809043000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Supercars 2026: First race in Perth</title>
+  </programme>
+  <programme start="20260809043000 +0000" stop="20260809054500 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Supercars 2026: Second race in Perth</title>
+  </programme>
+  <programme start="20260809054500 +0000" stop="20260809073000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Supercars 2026: Third race in Perth</title>
+  </programme>
+  <programme start="20260809073000 +0000" stop="20260809083000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">World Rally Championship: Overview of the race in Finland</title>
+  </programme>
+  <programme start="20260809083000 +0000" stop="20260809103000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260809103000 +0000" stop="20260809123000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260809123000 +0000" stop="20260809143000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260809143000 +0000" stop="20260809163000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260809163000 +0000" stop="20260809183000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260809183000 +0000" stop="20260809203000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260809220000 +0000" stop="20260810000000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260810000000 +0000" stop="20260810020000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260810020000 +0000" stop="20260810031500 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Moto2: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260810031500 +0000" stop="20260810051500 +0000" channel="MAXSport1.bg">
+    <title lang="bg">MotoGP: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260810051500 +0000" stop="20260810071500 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Volleyball - League of Nations: Japan - Slovenia</title>
+  </programme>
+  <programme start="20260810071500 +0000" stop="20260810083000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ADAC GT4 2026: Oschersleben</title>
+  </programme>
+  <programme start="20260810083000 +0000" stop="20260810113000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Nascar Cup Series: Iowa Corn Powered by Ethanol, Iowa Speedway</title>
+  </programme>
+  <programme start="20260810113000 +0000" stop="20260810120000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Nascar Cup Series: Iowa Corn Powered by Ethanol, Iowa Speedway</title>
+  </programme>
+  <programme start="20260810120000 +0000" stop="20260810140000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260810140000 +0000" stop="20260810160000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260810160000 +0000" stop="20260810170000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Breakpoint</title>
+  </programme>
+  <programme start="20260810170000 +0000" stop="20260810190000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260810190000 +0000" stop="20260810210000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260810210000 +0000" stop="20260810220000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Breakpoint</title>
+  </programme>
+  <programme start="20260810220000 +0000" stop="20260811000000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260811000000 +0000" stop="20260811020000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260811020000 +0000" stop="20260811050000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Volleyball - Women's League of Nations: China - Italy</title>
+  </programme>
+  <programme start="20260811050000 +0000" stop="20260811070000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Volleyball - League of Nations: USA - Poland</title>
+  </programme>
+  <programme start="20260811070000 +0000" stop="20260811073000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20260811073000 +0000" stop="20260811093000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000 Montreal: First quarter-final</title>
+  </programme>
+  <programme start="20260811093000 +0000" stop="20260811113000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000 Montreal: Second quarter-final</title>
+  </programme>
+  <programme start="20260811113000 +0000" stop="20260811123000 +0000" channel="MAXSport1.bg">
     <title lang="bg">World Rally Championship: Finland</title>
   </programme>
-  <programme start="20260808030000 +0000" stop="20260808040000 +0000" channel="MAXSport2.bg">
+  <programme start="20260811123000 +0000" stop="20260811133000 +0000" channel="MAXSport1.bg">
     <title lang="bg">World Rally Championship: Finland</title>
   </programme>
-  <programme start="20260808040000 +0000" stop="20260808050000 +0000" channel="MAXSport2.bg">
+  <programme start="20260811133000 +0000" stop="20260811143000 +0000" channel="MAXSport1.bg">
     <title lang="bg">World Rally Championship: Finland</title>
   </programme>
-  <programme start="20260808050000 +0000" stop="20260808060000 +0000" channel="MAXSport2.bg">
+  <programme start="20260811143000 +0000" stop="20260811153000 +0000" channel="MAXSport1.bg">
     <title lang="bg">World Rally Championship: Finland</title>
   </programme>
-  <programme start="20260808060000 +0000" stop="20260808070000 +0000" channel="MAXSport2.bg">
+  <programme start="20260811153000 +0000" stop="20260811163000 +0000" channel="MAXSport1.bg">
     <title lang="bg">World Rally Championship: Finland</title>
   </programme>
-  <programme start="20260808070000 +0000" stop="20260808083000 +0000" channel="MAXSport2.bg">
+  <programme start="20260811163000 +0000" stop="20260811180000 +0000" channel="MAXSport1.bg">
     <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260811180000 +0000" stop="20260811200000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000 Montreal: First quarter-final</title>
+  </programme>
+  <programme start="20260811220000 +0000" stop="20260812000000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 1000 Montreal: Third quarter-final</title>
+  </programme>
+  <programme start="20260812000000 +0000" stop="20260812020000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 1000 Montreal: Fourth quarter-final</title>
+  </programme>
+  <programme start="20260812020000 +0000" stop="20260812043000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Volleyball - Women's League of Nations: Turkey - Brazil</title>
+  </programme>
+  <programme start="20260812043000 +0000" stop="20260812050000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20260812050000 +0000" stop="20260812070000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000 Montreal: First quarter-final</title>
+  </programme>
+  <programme start="20260812070000 +0000" stop="20260812090000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000 Montreal: Second quarter-final</title>
+  </programme>
+  <programme start="20260812090000 +0000" stop="20260812110000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000 Montreal: Third quarter-final</title>
+  </programme>
+  <programme start="20260812110000 +0000" stop="20260812130000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000 Montreal: Fourth quarter-final</title>
+  </programme>
+  <programme start="20260812130000 +0000" stop="20260812133000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20260812133000 +0000" stop="20260812144500 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Moto3: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260812144500 +0000" stop="20260812160000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Moto2: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260812160000 +0000" stop="20260812180000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">MotoGP: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260812180000 +0000" stop="20260812200000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000 Montreal: Third quarter-final</title>
+  </programme>
+  <programme start="20260812220000 +0000" stop="20260813000000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 1000 Montreal: First semi-final</title>
+  </programme>
+  <programme start="20260813000000 +0000" stop="20260813020000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 1000 Montreal: Second semi-final</title>
+  </programme>
+  <programme start="20260813020000 +0000" stop="20260813050000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Volleyball - League of Nations: Japan - Slovenia</title>
+  </programme>
+  <programme start="20260813050000 +0000" stop="20260813080000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Nascar Cup Series: Iowa Corn Powered by Ethanol, Iowa Speedway</title>
+  </programme>
+  <programme start="20260813080000 +0000" stop="20260813083000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Nascar Cup Series: Iowa Corn Powered by Ethanol, Iowa Speedway</title>
+  </programme>
+  <programme start="20260813083000 +0000" stop="20260813090000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">Golf: Infortar Estonian Challenge</title>
+  </programme>
+  <programme start="20260813090000 +0000" stop="20260813110000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000 Montreal: Fourth quarter-final</title>
+  </programme>
+  <programme start="20260813110000 +0000" stop="20260813130000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000 Montreal: First semi-final</title>
+  </programme>
+  <programme start="20260813130000 +0000" stop="20260813150000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">ATP 1000 Montreal: Second semi-final</title>
+  </programme>
+  <programme start="20260813150000 +0000" stop="20260813170000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 1000: Cincinnati</title>
+  </programme>
+  <programme start="20260813170000 +0000" stop="20260813190000 +0000" channel="MAXSport1.bg">
+    <title lang="bg">LIVE, ATP 1000: Cincinnati</title>
   </programme>
   <programme start="20260808083000 +0000" stop="20260808100000 +0000" channel="MAXSport2.bg">
     <title lang="bg">ADAC GT4 2026 Oschersleben: First race</title>
@@ -216,17 +360,203 @@
   <programme start="20260808173000 +0000" stop="20260808203000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Nascar Cup Series: Brickyard 400, Indianapolis Motor Speedway</title>
   </programme>
-  <programme start="20260808020000 +0000" stop="20260808040000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Rugby - Six Nations: Ireland v Scotland</title>
+  <programme start="20260808203000 +0000" stop="20260808210000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Nascar Cup Series: Brickyard 400, Indianapolis Motor Speedway</title>
   </programme>
-  <programme start="20260808040000 +0000" stop="20260808050000 +0000" channel="MAXSport3.bg">
+  <programme start="20260808210000 +0000" stop="20260809000000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">UFC Fight Night: Medic vs. Rodriguez</title>
+  </programme>
+  <programme start="20260809000000 +0000" stop="20260809030000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">LIVE, UFC Fight Night: Mateusz Gamrot vs. Quilan Zane Salkild</title>
+  </programme>
+  <programme start="20260809030000 +0000" stop="20260809050000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260809050000 +0000" stop="20260809070000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">ATP 1000: Montreal</title>
+  </programme>
+  <programme start="20260809070000 +0000" stop="20260809080000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">World Rally Championship: Overview of the race in Finland</title>
+  </programme>
+  <programme start="20260809080000 +0000" stop="20260809083000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Golf: Raiffeisenbank Golf Challenge</title>
+  </programme>
+  <programme start="20260809083000 +0000" stop="20260809093000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">LIVE MotoGP: Pre-race warm-up for the British Grand Prix</title>
+  </programme>
+  <programme start="20260809093000 +0000" stop="20260809100500 +0000" channel="MAXSport2.bg">
+    <title lang="bg">World Rally Championship: Overview of the race in Finland</title>
+  </programme>
+  <programme start="20260809100500 +0000" stop="20260809120000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">LIVE Moto2: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260809120000 +0000" stop="20260809133000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">LIVE MotoGP: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260809133000 +0000" stop="20260809150000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">LIVE Moto3: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260809150000 +0000" stop="20260809171500 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Volleyball - League of Nations: Japan - Slovenia</title>
+  </programme>
+  <programme start="20260809171500 +0000" stop="20260809193000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Volleyball - League of Nations: USA - Poland</title>
+  </programme>
+  <programme start="20260809223000 +0000" stop="20260809230000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">LIVE, Nascar Cup Series: Iowa Corn Powered by Ethanol, Iowa Speedway</title>
+  </programme>
+  <programme start="20260809230000 +0000" stop="20260810020000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Golf: The 154th Open</title>
+  </programme>
+  <programme start="20260810020000 +0000" stop="20260810050000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Golf: The 154th Open</title>
+  </programme>
+  <programme start="20260810050000 +0000" stop="20260810070000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Golf: The 154th Open</title>
+  </programme>
+  <programme start="20260810070000 +0000" stop="20260810100000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">NFL: Carolina Panthers - Arizona Cardinals</title>
+  </programme>
+  <programme start="20260810100000 +0000" stop="20260810123000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Volleyball - Women's League of Nations: China - Italy</title>
+  </programme>
+  <programme start="20260810123000 +0000" stop="20260810150000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Volleyball - Women's League of Nations: Turkey - Brazil</title>
+  </programme>
+  <programme start="20260810150000 +0000" stop="20260810161500 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Moto 3: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260810161500 +0000" stop="20260810173000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Moto 2: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260810173000 +0000" stop="20260810193000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Moto GP: British Grand Prix</title>
+  </programme>
+  <programme start="20260810223000 +0000" stop="20260810233000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260810233000 +0000" stop="20260811003000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260811003000 +0000" stop="20260811013000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260811013000 +0000" stop="20260811023000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260811023000 +0000" stop="20260811033000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260811033000 +0000" stop="20260811050000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260811050000 +0000" stop="20260811080000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Nascar Cup Series: Iowa Corn Powered by Ethanol, Iowa Speedway</title>
+  </programme>
+  <programme start="20260811080000 +0000" stop="20260811083000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Nascar Cup Series: Iowa Corn Powered by Ethanol, Iowa Speedway</title>
+  </programme>
+  <programme start="20260811083000 +0000" stop="20260811094500 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Moto3: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260811094500 +0000" stop="20260811110000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Moto2: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260811110000 +0000" stop="20260811130000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">MotoGP: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260811130000 +0000" stop="20260811153000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Volleyball - League of Nations: Japan - Slovenia</title>
+  </programme>
+  <programme start="20260811153000 +0000" stop="20260811180000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Volleyball - League of Nations: USA - Poland</title>
+  </programme>
+  <programme start="20260811180000 +0000" stop="20260811210000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Golf: AIG Women's Open</title>
+  </programme>
+  <programme start="20260811210000 +0000" stop="20260811230000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Golf: AIG Women's Open</title>
+  </programme>
+  <programme start="20260811230000 +0000" stop="20260812020000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">UFC Fight Night: Mateusz Gamroth vs. Quilan Zane Salkild</title>
+  </programme>
+  <programme start="20260812020000 +0000" stop="20260812050000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">NFL: Carolina Panthers - Arizona Cardinals</title>
+  </programme>
+  <programme start="20260812050000 +0000" stop="20260812060000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260812060000 +0000" stop="20260812070000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260812070000 +0000" stop="20260812080000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260812080000 +0000" stop="20260812090000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260812090000 +0000" stop="20260812100000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260812100000 +0000" stop="20260812113000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260812113000 +0000" stop="20260812130000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">DTM 2026 Oschersleben: First race</title>
+  </programme>
+  <programme start="20260812130000 +0000" stop="20260812143000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">DTM 2026 Oschersleben: Second race</title>
+  </programme>
+  <programme start="20260812143000 +0000" stop="20260812150000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Infortar Estonian Challenge: Tournament Overview</title>
+  </programme>
+  <programme start="20260812150000 +0000" stop="20260812180000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Nascar Cup Series: Iowa Corn Powered by Ethanol, Iowa Speedway</title>
+  </programme>
+  <programme start="20260812180000 +0000" stop="20260812183000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Nascar Cup Series: Iowa Corn Powered by Ethanol, Iowa Speedway</title>
+  </programme>
+  <programme start="20260812183000 +0000" stop="20260812204500 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Volleyball - League of Nations: USA - Poland</title>
+  </programme>
+  <programme start="20260812233000 +0000" stop="20260813004500 +0000" channel="MAXSport2.bg">
+    <title lang="bg">ADAC GT4 2026 Oschersleben: First race</title>
+  </programme>
+  <programme start="20260813004500 +0000" stop="20260813020000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">ADAC GT4 2026 Oschersleben: Second race</title>
+  </programme>
+  <programme start="20260813020000 +0000" stop="20260813050000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">UFC Fight Night: Mateusz Gamroth vs. Quillen Salkild</title>
+  </programme>
+  <programme start="20260813050000 +0000" stop="20260813061500 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Moto3: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260813061500 +0000" stop="20260813073000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Moto2: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260813073000 +0000" stop="20260813093000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">MotoGP: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260813093000 +0000" stop="20260813103000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Breakpoint</title>
+  </programme>
+  <programme start="20260813103000 +0000" stop="20260813110000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Infortar Estonian Challenge: Tournament Overview</title>
+  </programme>
+  <programme start="20260813110000 +0000" stop="20260813140000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">LIVE, Golf: Danish Golf Championship</title>
+  </programme>
+  <programme start="20260813140000 +0000" stop="20260813160000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">LIVE, Golf: Danish Golf Championship</title>
+  </programme>
+  <programme start="20260813160000 +0000" stop="20260813170000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">MotoGP: British Grand Prix race overview</title>
+  </programme>
+  <programme start="20260813170000 +0000" stop="20260813180000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Nascar Cup Series: Overview</title>
   </programme>
-  <programme start="20260808050000 +0000" stop="20260808070000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Diamond League 2026: London Tournament</title>
-  </programme>
-  <programme start="20260808070000 +0000" stop="20260808083000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">MotoGP: Practice for the British Grand Prix</title>
+  <programme start="20260813180000 +0000" stop="20260813203000 +0000" channel="MAXSport2.bg">
+    <title lang="bg">Volleyball - League of Nations: Japan - Slovenia</title>
   </programme>
   <programme start="20260808083000 +0000" stop="20260808103500 +0000" channel="MAXSport3.bg">
     <title lang="bg">Friendly match: Milan - Inter</title>
@@ -246,21 +576,197 @@
   <programme start="20260808170000 +0000" stop="20260808180000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Moto GP: Sprint for the British Grand Prix</title>
   </programme>
-  <programme start="20260808010000 +0000" stop="20260808030000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Copa Sudamericana: Bolivar - Gremio</title>
+  <programme start="20260808180000 +0000" stop="20260808210000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">LIVE, Friendly match: Trilateral football tournament: Udinese - Nottingham - Barcelona</title>
   </programme>
-  <programme start="20260808030000 +0000" stop="20260808050000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Copa Sudamericana: Gremio - Bolivar</title>
+  <programme start="20260808210000 +0000" stop="20260808211500 +0000" channel="MAXSport3.bg">
+    <title lang="bg">LIVE, Friendly match: Trilateral football tournament: Udinese - Nottingham - Barcelona</title>
   </programme>
-  <programme start="20260808050000 +0000" stop="20260808070000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Friendly match: Milan - Inter</title>
+  <programme start="20260808211500 +0000" stop="20260809001500 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Golf: The 154th Open</title>
   </programme>
-  <programme start="20260808070000 +0000" stop="20260808080000 +0000" channel="MAXSport4.bg">
-    <desc lang="bg">sports show.</desc>
-    <title lang="bg">In front of the Stadium</title>
+  <programme start="20260809001500 +0000" stop="20260809031500 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Golf: The 154th Open</title>
   </programme>
-  <programme start="20260808080000 +0000" stop="20260808100000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Oviedo - Villarreal</title>
+  <programme start="20260809031500 +0000" stop="20260809053000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Golf: The 154th Open</title>
+  </programme>
+  <programme start="20260809053000 +0000" stop="20260809083000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Nascar Cup Series: Brickyard 400, Indianapolis Motor Speedway</title>
+  </programme>
+  <programme start="20260809083000 +0000" stop="20260809090000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20260809090000 +0000" stop="20260809110000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Friendly match: Birmingham - Barcelona</title>
+  </programme>
+  <programme start="20260809110000 +0000" stop="20260809130000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">UEFA Europa League: PAOK - Anderlecht</title>
+  </programme>
+  <programme start="20260809130000 +0000" stop="20260809150000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">LIVE, Friendly: Arsenal - Borussia Dortmund, friendly</title>
+  </programme>
+  <programme start="20260809150000 +0000" stop="20260809170000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Friendly match: Juventus - Inter, friendly match</title>
+  </programme>
+  <programme start="20260809170000 +0000" stop="20260809180000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260809180000 +0000" stop="20260809190000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260809190000 +0000" stop="20260809200000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260809200000 +0000" stop="20260809210000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260809210000 +0000" stop="20260809220000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260809220000 +0000" stop="20260809233000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">World Rally Championship: Finland</title>
+  </programme>
+  <programme start="20260809233000 +0000" stop="20260810023000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">UFC Fight Night: Mateusz Gamroth vs. Quilan Zane Salkild</title>
+  </programme>
+  <programme start="20260810023000 +0000" stop="20260810050000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Volleyball - League of Nations: USA - Poland</title>
+  </programme>
+  <programme start="20260810050000 +0000" stop="20260810064500 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Volleyball - efbet Super Volley: Levski - CSKA</title>
+  </programme>
+  <programme start="20260810064500 +0000" stop="20260810094500 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Volleyball - efbet Super Volleyball: CSKA - Levski</title>
+  </programme>
+  <programme start="20260810094500 +0000" stop="20260810114500 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Eurocup: Besiktas - Bahcesehir Istanbul</title>
+  </programme>
+  <programme start="20260810114500 +0000" stop="20260810140000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Eurocup: Burg an Bres - Turk Telekom Ankara</title>
+  </programme>
+  <programme start="20260810140000 +0000" stop="20260810160000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">UEFA Europa League: PAOK - Anderlecht</title>
+  </programme>
+  <programme start="20260810160000 +0000" stop="20260810180000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Friendly match: Arsenal - Borussia Dortmund, friendly match</title>
+  </programme>
+  <programme start="20260810180000 +0000" stop="20260810200000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Friendly match: Juventus - Inter, friendly match</title>
+  </programme>
+  <programme start="20260810230000 +0000" stop="20260810233000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Nascar Cup Series: Iowa Corn Powered by Ethanol, Iowa Speedway</title>
+  </programme>
+  <programme start="20260810233000 +0000" stop="20260811000000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20260811000000 +0000" stop="20260811023000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">NHL: Carolina Hurricanes - Vegas Golden Knights</title>
+  </programme>
+  <programme start="20260811023000 +0000" stop="20260811050000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">NHL: Carolina Hurricanes - Vegas Golden Knights</title>
+  </programme>
+  <programme start="20260811050000 +0000" stop="20260811070000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Volleyball - efbet Super Volley: Levski - CSKA</title>
+  </programme>
+  <programme start="20260811070000 +0000" stop="20260811100000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Volleyball - efbet Super Volleyball: CSKA - Levski</title>
+  </programme>
+  <programme start="20260811100000 +0000" stop="20260811120000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Eurocup: Bahcesehir Istanbul - Besiktas</title>
+  </programme>
+  <programme start="20260811120000 +0000" stop="20260811140000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Eurocup: Turk Telecom Ankara - Burg an Bres</title>
+  </programme>
+  <programme start="20260811140000 +0000" stop="20260811160000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Eurocup: Burg an Bres - Turk Telekom Ankara</title>
+  </programme>
+  <programme start="20260811160000 +0000" stop="20260811180000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">UEFA Europa League: PAOK - Anderlecht</title>
+  </programme>
+  <programme start="20260811180000 +0000" stop="20260811190000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">DTM 2026: Overview</title>
+  </programme>
+  <programme start="20260811190000 +0000" stop="20260811210000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">LIVE, UEFA Champions League: Lyon - Sparta Prague</title>
+  </programme>
+  <programme start="20260811210000 +0000" stop="20260811230000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">MotoGP: British Grand Prix Race</title>
+  </programme>
+  <programme start="20260811230000 +0000" stop="20260811234500 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20260811234500 +0000" stop="20260812024500 +0000" channel="MAXSport3.bg">
+    <title lang="bg">NHL: Vegas Golden Knights - Carolina Hurricanes</title>
+  </programme>
+  <programme start="20260812024500 +0000" stop="20260812050000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">NHL: Vegas Golden Knights - Carolina Hurricanes</title>
+  </programme>
+  <programme start="20260812050000 +0000" stop="20260812063000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Volleyball - efbet Super Volleyball: Lokomotiv Avia - Neftokhimik</title>
+  </programme>
+  <programme start="20260812063000 +0000" stop="20260812090000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Volleyball - efbet Super Volley: Petrochemical - Lokomotiv Avia</title>
+  </programme>
+  <programme start="20260812090000 +0000" stop="20260812110000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Volleyball - efbet Super Volleyball: Lokomotiv Avia - Neftokhimik</title>
+  </programme>
+  <programme start="20260812110000 +0000" stop="20260812130000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Eurocup: Besiktas - Bourg en Bres</title>
+  </programme>
+  <programme start="20260812130000 +0000" stop="20260812153000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Eurocup: Bourg en Bres - Besiktas</title>
+  </programme>
+  <programme start="20260812153000 +0000" stop="20260812160000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20260812160000 +0000" stop="20260812180000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">UEFA Champions League: Lyon - Sparta Prague</title>
+  </programme>
+  <programme start="20260812180000 +0000" stop="20260812183000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20260812183000 +0000" stop="20260812190000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Football</title>
+  </programme>
+  <programme start="20260812190000 +0000" stop="20260812205000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">LIVE, UEFA Super Cup: PSG v Aston Villa</title>
+  </programme>
+  <programme start="20260812211500 +0000" stop="20260812231500 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Friendly match: Juventus - Inter, friendly match</title>
+  </programme>
+  <programme start="20260812231500 +0000" stop="20260813000000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Infortar Estonian Challenge: Tournament Overview</title>
+  </programme>
+  <programme start="20260813000000 +0000" stop="20260813021500 +0000" channel="MAXSport3.bg">
+    <title lang="bg">NHL: Carolina Hurricanes - Vegas Golden Knights</title>
+  </programme>
+  <programme start="20260813021500 +0000" stop="20260813050000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">NHL: Carolina Hurricanes - Vegas Golden Knights</title>
+  </programme>
+  <programme start="20260813050000 +0000" stop="20260813073000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Volleyball - efbet Super Volley: Petrochemical - Lokomotiv Avia</title>
+  </programme>
+  <programme start="20260813073000 +0000" stop="20260813100000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Volleyball - efbet Super Volleyball: Lokomotiv Avia - Neftokhimik</title>
+  </programme>
+  <programme start="20260813100000 +0000" stop="20260813120000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Euroleague: Olympiakos - Fenerbahce</title>
+  </programme>
+  <programme start="20260813120000 +0000" stop="20260813140000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Euroleague: Valencia - Real Madrid</title>
+  </programme>
+  <programme start="20260813140000 +0000" stop="20260813160000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">UEFA Champions League: Sturm Graz - Fenerbahce</title>
+  </programme>
+  <programme start="20260813160000 +0000" stop="20260813163000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20260813163000 +0000" stop="20260813183000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">UEFA Super Cup: PSG - Aston Villa</title>
+  </programme>
+  <programme start="20260813183000 +0000" stop="20260813203000 +0000" channel="MAXSport3.bg">
+    <title lang="bg">LIVE, UEFA Europa League: Anderlecht - PAOK</title>
   </programme>
   <programme start="20260808100000 +0000" stop="20260808120000 +0000" channel="MAXSport4.bg">
     <title lang="bg">La Liga: Mallorca - Valencia</title>
@@ -276,5 +782,202 @@
   </programme>
   <programme start="20260808180000 +0000" stop="20260808200000 +0000" channel="MAXSport4.bg">
     <title lang="bg">La Liga: Levante - Sevilla</title>
+  </programme>
+  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Oviedo - Villarreal</title>
+  </programme>
+  <programme start="20260809000000 +0000" stop="20260809010000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">DTM 2026: Overview</title>
+  </programme>
+  <programme start="20260809010000 +0000" stop="20260809030000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">Copa Sudamericana: Universidad Central - Santos</title>
+  </programme>
+  <programme start="20260809030000 +0000" stop="20260809050000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">Copa Sudamericana: Santos - Universidad Central</title>
+  </programme>
+  <programme start="20260809050000 +0000" stop="20260809070000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">Friendly match: Juventus - Inter</title>
+  </programme>
+  <programme start="20260809070000 +0000" stop="20260809090000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Mallorca - Valencia</title>
+  </programme>
+  <programme start="20260809090000 +0000" stop="20260809110000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Real Madrid - Alaves</title>
+  </programme>
+  <programme start="20260809110000 +0000" stop="20260809130000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Elche - Atletico Madrid</title>
+  </programme>
+  <programme start="20260809130000 +0000" stop="20260809150000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Barcelona - Celta</title>
+  </programme>
+  <programme start="20260809150000 +0000" stop="20260809170000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Levante - Sevilla</title>
+  </programme>
+  <programme start="20260809170000 +0000" stop="20260809190000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">Friendly match: Arsenal - Borussia Dortmund</title>
+  </programme>
+  <programme start="20260809190000 +0000" stop="20260809210000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Real Madrid - Alaves</title>
+  </programme>
+  <programme start="20260809210000 +0000" stop="20260809230000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Barcelona - Celta</title>
+  </programme>
+  <programme start="20260809230000 +0000" stop="20260810010000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Elche - Atletico Madrid</title>
+  </programme>
+  <programme start="20260810010000 +0000" stop="20260810030000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">Copa Sudamericana: Boca Juniors - O'Higgins</title>
+  </programme>
+  <programme start="20260810030000 +0000" stop="20260810050000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">Copa Sudamericana: O'Higgins - Boca Juniors</title>
+  </programme>
+  <programme start="20260810050000 +0000" stop="20260810070000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Betis - Real Madrid</title>
+  </programme>
+  <programme start="20260810070000 +0000" stop="20260810090000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Getafe Barcelona</title>
+  </programme>
+  <programme start="20260810090000 +0000" stop="20260810110000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Valencia - Girona</title>
+  </programme>
+  <programme start="20260810110000 +0000" stop="20260810130000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Atletico Madrid - Athletic Bilbao</title>
+  </programme>
+  <programme start="20260810130000 +0000" stop="20260810150000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Rayo Vallecano - Real Sociedad</title>
+  </programme>
+  <programme start="20260810150000 +0000" stop="20260810170000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Osasuna - Sevilla</title>
+  </programme>
+  <programme start="20260810170000 +0000" stop="20260810183000 +0000" channel="MAXSport4.bg">
+    <desc lang="bg">sports show.</desc>
+    <title lang="bg">In front of the Stadium</title>
+  </programme>
+  <programme start="20260810183000 +0000" stop="20260810203000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Betis - Real Madrid</title>
+  </programme>
+  <programme start="20260810223000 +0000" stop="20260811003000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Valencia - Girona</title>
+  </programme>
+  <programme start="20260811003000 +0000" stop="20260811023000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Atletico Madrid - Athletic Bilbao</title>
+  </programme>
+  <programme start="20260811023000 +0000" stop="20260811030000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">The best saves</title>
+  </programme>
+  <programme start="20260811030000 +0000" stop="20260811050000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Rayo Vallecano - Real Sociedad</title>
+  </programme>
+  <programme start="20260811050000 +0000" stop="20260811070000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Osasuna - Sevilla</title>
+  </programme>
+  <programme start="20260811070000 +0000" stop="20260811083000 +0000" channel="MAXSport4.bg">
+    <desc lang="bg">sports show.</desc>
+    <title lang="bg">In front of the Stadium</title>
+  </programme>
+  <programme start="20260811083000 +0000" stop="20260811090000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">The best goalkeeper</title>
+  </programme>
+  <programme start="20260811090000 +0000" stop="20260811110000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Betis - Real Madrid</title>
+  </programme>
+  <programme start="20260811110000 +0000" stop="20260811130000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Getafe Barcelona</title>
+  </programme>
+  <programme start="20260811130000 +0000" stop="20260811150000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Valencia - Girona</title>
+  </programme>
+  <programme start="20260811150000 +0000" stop="20260811170000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">Friendly match: Juventus - Inter</title>
+  </programme>
+  <programme start="20260811170000 +0000" stop="20260811180000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">LaLiga diary</title>
+  </programme>
+  <programme start="20260811180000 +0000" stop="20260811183000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">The best goalkeeper</title>
+  </programme>
+  <programme start="20260811183000 +0000" stop="20260811203000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">LIVE, UEFA Champions League: Sturm Graz - Fenerbahce</title>
+  </programme>
+  <programme start="20260811203000 +0000" stop="20260811210000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">The best saves</title>
+  </programme>
+  <programme start="20260811210000 +0000" stop="20260811220000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">LaLiga diary</title>
+  </programme>
+  <programme start="20260811220000 +0000" stop="20260812000000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">LIVE, Copa Libertadores: Fluminense - Independiente Rivadavia</title>
+  </programme>
+  <programme start="20260812000000 +0000" stop="20260812003000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga's top scorer</title>
+  </programme>
+  <programme start="20260812003000 +0000" stop="20260812023000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">LIVE, Copa Sudamericana: Bolivar - Sao Paulo</title>
+  </programme>
+  <programme start="20260812023000 +0000" stop="20260812030000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">Trans World Sport</title>
+  </programme>
+  <programme start="20260812030000 +0000" stop="20260812050000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Osasuna - Barcelona</title>
+  </programme>
+  <programme start="20260812050000 +0000" stop="20260812070000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Espanyol - Real Madrid</title>
+  </programme>
+  <programme start="20260812070000 +0000" stop="20260812090000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Sevilla - Real Sociedad</title>
+  </programme>
+  <programme start="20260812090000 +0000" stop="20260812110000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Valencia - Atletico Madrid</title>
+  </programme>
+  <programme start="20260812110000 +0000" stop="20260812130000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">Copa Sudamericana: Bolivar - Sao Paulo</title>
+  </programme>
+  <programme start="20260812130000 +0000" stop="20260812150000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">Copa Libertadores: Fluminense - Independiente Rivadavia</title>
+  </programme>
+  <programme start="20260812150000 +0000" stop="20260812160000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">LaLiga diary</title>
+  </programme>
+  <programme start="20260812160000 +0000" stop="20260812180000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Osasuna - Barcelona</title>
+  </programme>
+  <programme start="20260812180000 +0000" stop="20260812200000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">Friendly match: Milan - Inter</title>
+  </programme>
+  <programme start="20260812220000 +0000" stop="20260813000000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">LIVE, Copa Libertadores: Palmeiras - Cerro Porteño</title>
+  </programme>
+  <programme start="20260813000000 +0000" stop="20260813003000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">The best goalkeeper</title>
+  </programme>
+  <programme start="20260813003000 +0000" stop="20260813023000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">LIVE, Copa Libertadores: Cruzeiro - Flamengo</title>
+  </programme>
+  <programme start="20260813023000 +0000" stop="20260813043000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Sevilla - Real Sociedad</title>
+  </programme>
+  <programme start="20260813043000 +0000" stop="20260813050000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga's top scorer</title>
+  </programme>
+  <programme start="20260813050000 +0000" stop="20260813070000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Sevilla - Espanyol</title>
+  </programme>
+  <programme start="20260813070000 +0000" stop="20260813090000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Atletico Madrid - Celta</title>
+  </programme>
+  <programme start="20260813090000 +0000" stop="20260813110000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Real Sociedad - Betis</title>
+  </programme>
+  <programme start="20260813110000 +0000" stop="20260813130000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Athletic Bilbao - Valencia</title>
+  </programme>
+  <programme start="20260813130000 +0000" stop="20260813150000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">Copa Libertadores: Palmeiras - Cerro Porteño</title>
+  </programme>
+  <programme start="20260813150000 +0000" stop="20260813170000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Sevilla - Espanyol</title>
+  </programme>
+  <programme start="20260813170000 +0000" stop="20260813190000 +0000" channel="MAXSport4.bg">
+    <title lang="bg">La Liga: Barcelona - Real Madrid</title>
   </programme>
   </tv>
