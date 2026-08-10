@@ -27,18 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260809083000 +0000" stop="20260809103000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Montreal</title>
-  </programme>
-  <programme start="20260809103000 +0000" stop="20260809123000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Montreal</title>
-  </programme>
-  <programme start="20260809123000 +0000" stop="20260809143000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Montreal</title>
-  </programme>
-  <programme start="20260809143000 +0000" stop="20260809163000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Montreal</title>
-  </programme>
   <programme start="20260809163000 +0000" stop="20260809183000 +0000" channel="MAXSport1.bg">
     <title lang="bg">LIVE, ATP 1000: Montreal</title>
   </programme>
@@ -201,24 +189,6 @@
   <programme start="20260813170000 +0000" stop="20260813190000 +0000" channel="MAXSport1.bg">
     <title lang="bg">LIVE, ATP 1000: Cincinnati</title>
   </programme>
-  <programme start="20260809083000 +0000" stop="20260809093000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE MotoGP: Pre-race warm-up for the British Grand Prix</title>
-  </programme>
-  <programme start="20260809093000 +0000" stop="20260809100500 +0000" channel="MAXSport2.bg">
-    <title lang="bg">World Rally Championship: Overview of the race in Finland</title>
-  </programme>
-  <programme start="20260809100500 +0000" stop="20260809120000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE Moto2: British Grand Prix Race</title>
-  </programme>
-  <programme start="20260809120000 +0000" stop="20260809133000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE MotoGP: British Grand Prix Race</title>
-  </programme>
-  <programme start="20260809133000 +0000" stop="20260809150000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE Moto3: British Grand Prix Race</title>
-  </programme>
-  <programme start="20260809150000 +0000" stop="20260809171500 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Volleyball - League of Nations: Japan - Slovenia</title>
-  </programme>
   <programme start="20260809171500 +0000" stop="20260809193000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Volleyball - League of Nations: USA - Poland</title>
   </programme>
@@ -346,7 +316,7 @@
     <title lang="bg">ADAC GT4 2026 Oschersleben: Second race</title>
   </programme>
   <programme start="20260813020000 +0000" stop="20260813050000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">UFC Fight Night: Mateusz Gamrot vs. Quillen Salkild</title>
+    <title lang="bg">UFC Fight Night: Mateusz Gamroth vs. Quillen Salkild</title>
   </programme>
   <programme start="20260813050000 +0000" stop="20260813061500 +0000" channel="MAXSport2.bg">
     <title lang="bg">Moto3: British Grand Prix Race</title>
@@ -377,21 +347,6 @@
   </programme>
   <programme start="20260813180000 +0000" stop="20260813203000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Volleyball - League of Nations: Japan - Slovenia</title>
-  </programme>
-  <programme start="20260809083000 +0000" stop="20260809090000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Trans World Sport</title>
-  </programme>
-  <programme start="20260809090000 +0000" stop="20260809110000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Friendly match: Birmingham - Barcelona</title>
-  </programme>
-  <programme start="20260809110000 +0000" stop="20260809130000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Europa League: PAOK - Anderlecht</title>
-  </programme>
-  <programme start="20260809130000 +0000" stop="20260809150000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">LIVE, Friendly: Arsenal - Borussia Dortmund, friendly</title>
-  </programme>
-  <programme start="20260809150000 +0000" stop="20260809170000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Friendly match: Juventus - Inter, friendly match</title>
   </programme>
   <programme start="20260809170000 +0000" stop="20260809180000 +0000" channel="MAXSport3.bg">
     <title lang="bg">World Rally Championship: Finland</title>
@@ -551,18 +506,6 @@
   </programme>
   <programme start="20260813183000 +0000" stop="20260813203000 +0000" channel="MAXSport3.bg">
     <title lang="bg">LIVE, UEFA Europa League: Anderlecht - PAOK</title>
-  </programme>
-  <programme start="20260809090000 +0000" stop="20260809110000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Real Madrid - Alaves</title>
-  </programme>
-  <programme start="20260809110000 +0000" stop="20260809130000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Elche - Atletico Madrid</title>
-  </programme>
-  <programme start="20260809130000 +0000" stop="20260809150000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Barcelona - Celta</title>
-  </programme>
-  <programme start="20260809150000 +0000" stop="20260809170000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Levante - Sevilla</title>
   </programme>
   <programme start="20260809170000 +0000" stop="20260809190000 +0000" channel="MAXSport4.bg">
     <title lang="bg">Friendly match: Arsenal - Borussia Dortmund</title>
@@ -730,46 +673,6 @@
   </programme>
   <programme start="20260813170000 +0000" stop="20260813190000 +0000" channel="MAXSport4.bg">
     <title lang="bg">La Liga: Barcelona - Real Madrid</title>
-  </programme>
-  <programme start="20260810060000 +0000" stop="20260810070000 +0000" channel="DiemaSport.bg">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20260810070000 +0000" stop="20260810080000 +0000" channel="DiemaSport.bg">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20260810080000 +0000" stop="20260810090000 +0000" channel="DiemaSport.bg">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20260810090000 +0000" stop="20260810100000 +0000" channel="DiemaSport.bg">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20260810100000 +0000" stop="20260810110000 +0000" channel="DiemaSport.bg">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20260810110000 +0000" stop="20260810120000 +0000" channel="DiemaSport.bg">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20260810120000 +0000" stop="20260810130000 +0000" channel="DiemaSport.bg">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20260810130000 +0000" stop="20260810140000 +0000" channel="DiemaSport.bg">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20260810140000 +0000" stop="20260810150000 +0000" channel="DiemaSport.bg">
     <title>No Data</title>
@@ -1091,42 +994,42 @@
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810060000 +0000" stop="20260810070000 +0000" channel="DiemaSport2.bg">
+  <programme start="20260813060000 +0000" stop="20260813070000 +0000" channel="DiemaSport.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810070000 +0000" stop="20260810080000 +0000" channel="DiemaSport2.bg">
+  <programme start="20260813070000 +0000" stop="20260813080000 +0000" channel="DiemaSport.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810080000 +0000" stop="20260810090000 +0000" channel="DiemaSport2.bg">
+  <programme start="20260813080000 +0000" stop="20260813090000 +0000" channel="DiemaSport.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810090000 +0000" stop="20260810100000 +0000" channel="DiemaSport2.bg">
+  <programme start="20260813090000 +0000" stop="20260813100000 +0000" channel="DiemaSport.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810100000 +0000" stop="20260810110000 +0000" channel="DiemaSport2.bg">
+  <programme start="20260813100000 +0000" stop="20260813110000 +0000" channel="DiemaSport.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810110000 +0000" stop="20260810120000 +0000" channel="DiemaSport2.bg">
+  <programme start="20260813110000 +0000" stop="20260813120000 +0000" channel="DiemaSport.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810120000 +0000" stop="20260810130000 +0000" channel="DiemaSport2.bg">
+  <programme start="20260813120000 +0000" stop="20260813130000 +0000" channel="DiemaSport.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810130000 +0000" stop="20260810140000 +0000" channel="DiemaSport2.bg">
+  <programme start="20260813130000 +0000" stop="20260813140000 +0000" channel="DiemaSport.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -1451,42 +1354,42 @@
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810060000 +0000" stop="20260810070000 +0000" channel="DiemaSport3.bg">
+  <programme start="20260813060000 +0000" stop="20260813070000 +0000" channel="DiemaSport2.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810070000 +0000" stop="20260810080000 +0000" channel="DiemaSport3.bg">
+  <programme start="20260813070000 +0000" stop="20260813080000 +0000" channel="DiemaSport2.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810080000 +0000" stop="20260810090000 +0000" channel="DiemaSport3.bg">
+  <programme start="20260813080000 +0000" stop="20260813090000 +0000" channel="DiemaSport2.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810090000 +0000" stop="20260810100000 +0000" channel="DiemaSport3.bg">
+  <programme start="20260813090000 +0000" stop="20260813100000 +0000" channel="DiemaSport2.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810100000 +0000" stop="20260810110000 +0000" channel="DiemaSport3.bg">
+  <programme start="20260813100000 +0000" stop="20260813110000 +0000" channel="DiemaSport2.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810110000 +0000" stop="20260810120000 +0000" channel="DiemaSport3.bg">
+  <programme start="20260813110000 +0000" stop="20260813120000 +0000" channel="DiemaSport2.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810120000 +0000" stop="20260810130000 +0000" channel="DiemaSport3.bg">
+  <programme start="20260813120000 +0000" stop="20260813130000 +0000" channel="DiemaSport2.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20260810130000 +0000" stop="20260810140000 +0000" channel="DiemaSport3.bg">
+  <programme start="20260813130000 +0000" stop="20260813140000 +0000" channel="DiemaSport2.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -1807,6 +1710,46 @@
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20260813050000 +0000" stop="20260813060000 +0000" channel="DiemaSport3.bg">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20260813060000 +0000" stop="20260813070000 +0000" channel="DiemaSport3.bg">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20260813070000 +0000" stop="20260813080000 +0000" channel="DiemaSport3.bg">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20260813080000 +0000" stop="20260813090000 +0000" channel="DiemaSport3.bg">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20260813090000 +0000" stop="20260813100000 +0000" channel="DiemaSport3.bg">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20260813100000 +0000" stop="20260813110000 +0000" channel="DiemaSport3.bg">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20260813110000 +0000" stop="20260813120000 +0000" channel="DiemaSport3.bg">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20260813120000 +0000" stop="20260813130000 +0000" channel="DiemaSport3.bg">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20260813130000 +0000" stop="20260813140000 +0000" channel="DiemaSport3.bg">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
