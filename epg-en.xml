@@ -27,15 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260819040000 +0000" stop="20260819060000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Ludogorets - Botev Plovdiv.Round 5, Football: efbet League 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260819060000 +0000" stop="20260819063000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The heroes of the circle.Episode 5, show about Bulgarian football 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260819063000 +0000" stop="20260819083000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Spartak Varna - September.Round 5, Football: efbet League 2026/2027, /n/</title>
-  </programme>
   <programme start="20260819083000 +0000" stop="20260819090000 +0000" channel="DiemaSport.bg">
     <title lang="bg">The goals of the round.Episode 5, show about Bulgarian football 2026/2027, /n/</title>
   </programme>
@@ -202,15 +193,6 @@
     <desc lang="bg">.directly.</desc>
     <title lang="bg">efbet League football</title>
   </programme>
-  <programme start="20260819043000 +0000" stop="20260819053000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Premier League: Pre-season broadcast for English football 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260819053000 +0000" stop="20260819073000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Arsenal v Manchester City Football: Community Shield 2026, /n/</title>
-  </programme>
-  <programme start="20260819073000 +0000" stop="20260819093000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Lens - Paris Saint-GermainFootball: French Super Cup 2026, /n/</title>
-  </programme>
   <programme start="20260819093000 +0000" stop="20260819113000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Burnley - West Ham United Round 1, Soccer: Championship 2026/2027, /n/</title>
   </programme>
@@ -360,12 +342,6 @@
   </programme>
   <programme start="20260822184500 +0000" stop="20260822204500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Toulouse - Lyon 1st round, Football: Ligue 1 France 2026/2027_x000D_, live</title>
-  </programme>
-  <programme start="20260819043000 +0000" stop="20260819063000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Eintracht Braunschweig - Bochum Round 2, Football: Second Bundesliga 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260819063000 +0000" stop="20260819083000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Holstein Kiel - St. Pauli2 Round, Soccer: Second Bundesliga 2026/2027, /n/</title>
   </programme>
   <programme start="20260819083000 +0000" stop="20260819103000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Hertha Berlin - Heidenheim Round 2, Football: Second Bundesliga 2026/2027, /n/</title>
@@ -546,21 +522,6 @@
   <programme start="20260822221500 +0000" stop="20260822231500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Dutch Grand Prix Sprint Round 12, Formula 1 2026, /n/</title>
   </programme>
-  <programme start="20260819010000 +0000" stop="20260819030000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 1000: Cincinnati</title>
-  </programme>
-  <programme start="20260819030000 +0000" stop="20260819040000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Carrera Cup'26 Nürburgring: First race</title>
-  </programme>
-  <programme start="20260819040000 +0000" stop="20260819050000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Carrera Cup'26 Nürburgring: Second race</title>
-  </programme>
-  <programme start="20260819050000 +0000" stop="20260819070000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Cincinnati</title>
-  </programme>
-  <programme start="20260819070000 +0000" stop="20260819090000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 1000: Cincinnati</title>
-  </programme>
   <programme start="20260819090000 +0000" stop="20260819110000 +0000" channel="MAXSport1.bg">
     <title lang="bg">ATP 1000: Cincinnati</title>
   </programme>
@@ -698,27 +659,6 @@
   </programme>
   <programme start="20260822173000 +0000" stop="20260822193000 +0000" channel="MAXSport1.bg">
     <title lang="bg">LIVE, ATP 1000 Cincinnati: First Semi-Final</title>
-  </programme>
-  <programme start="20260819003000 +0000" stop="20260819014500 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Moto3: British Grand Prix Race</title>
-  </programme>
-  <programme start="20260819014500 +0000" stop="20260819030000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Moto2: British Grand Prix Race</title>
-  </programme>
-  <programme start="20260819030000 +0000" stop="20260819050000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">MotoGP: British Grand Prix Race</title>
-  </programme>
-  <programme start="20260819050000 +0000" stop="20260819060000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">World Rally Championship: Finland</title>
-  </programme>
-  <programme start="20260819060000 +0000" stop="20260819070000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">World Rally Championship: Finland</title>
-  </programme>
-  <programme start="20260819070000 +0000" stop="20260819080000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">World Rally Championship: Finland</title>
-  </programme>
-  <programme start="20260819080000 +0000" stop="20260819090000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">World Rally Championship: Finland</title>
   </programme>
   <programme start="20260819090000 +0000" stop="20260819100000 +0000" channel="MAXSport2.bg">
     <title lang="bg">World Rally Championship: Finland</title>
@@ -861,18 +801,6 @@
   <programme start="20260822163000 +0000" stop="20260822184500 +0000" channel="MAXSport2.bg">
     <title lang="bg">LIVE Serie A: Udinese - Como</title>
   </programme>
-  <programme start="20260819013000 +0000" stop="20260819031500 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Coppa Italia Frezzarossa: Benevento - Fiorentina</title>
-  </programme>
-  <programme start="20260819031500 +0000" stop="20260819050000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Copa Libertadores: Independiente Rivadavia - Fluminense</title>
-  </programme>
-  <programme start="20260819050000 +0000" stop="20260819070000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Saudi Professional League: Al Nasser - Al Fateh</title>
-  </programme>
-  <programme start="20260819070000 +0000" stop="20260819090000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Super Cup: PSG - Aston Villa</title>
-  </programme>
   <programme start="20260819090000 +0000" stop="20260819110000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Coppa Italia Frezzarossa: Monza - Avellino</title>
   </programme>
@@ -1010,21 +938,6 @@
   </programme>
   <programme start="20260822184500 +0000" stop="20260822204500 +0000" channel="MAXSport3.bg">
     <title lang="bg">LIVE Serie A: Genoa - Napoli</title>
-  </programme>
-  <programme start="20260819003000 +0000" stop="20260819023000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, Copa Sudamericana: Sao Paulo - Bolivar</title>
-  </programme>
-  <programme start="20260819023000 +0000" stop="20260819030000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">European Rally Championship: Overview of the race in the Czech Republic</title>
-  </programme>
-  <programme start="20260819030000 +0000" stop="20260819050000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Racing Santander - Villarreal</title>
-  </programme>
-  <programme start="20260819050000 +0000" stop="20260819070000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Deportivo La Coruña - Elche</title>
-  </programme>
-  <programme start="20260819070000 +0000" stop="20260819090000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Alaves - Getafe</title>
   </programme>
   <programme start="20260819090000 +0000" stop="20260819110000 +0000" channel="MAXSport4.bg">
     <title lang="bg">La Liga: Espanyol - Levante</title>
