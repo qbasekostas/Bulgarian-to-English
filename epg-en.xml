@@ -27,21 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260819170000 +0000" stop="20260819180000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The home of football.Episode 7, show about Bulgarian football 2026/2027, live</title>
-  </programme>
-  <programme start="20260819180000 +0000" stop="20260819200000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">CSKA - Maccabi Tel Aviv.Football: Europa League Qualifiers 2026/2027, second leg, /n/</title>
-  </programme>
-  <programme start="20260819200000 +0000" stop="20260819210000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Second Professional League: Round Overview.Episode 4, show about Bulgarian football 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260819210000 +0000" stop="20260819230000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Locomotive Plovdiv - Danube.Round 5, Football: efbet League 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260819230000 +0000" stop="20260820040000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The home of football.Episode 7, show about Bulgarian football 2026/2027, /n/</title>
-  </programme>
   <programme start="20260820040000 +0000" stop="20260820060000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Arda - Lokomotiv Sofia.Round 5, Football: efbet League 2026/2027, /n/</title>
   </programme>
@@ -175,15 +160,6 @@
     <desc lang="bg">.directly.</desc>
     <title lang="bg">efbet League football</title>
   </programme>
-  <programme start="20260819163000 +0000" stop="20260819170000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Premier League Stories1 Episode English Football Show 2026/2027_x000D_</title>
-  </programme>
-  <programme start="20260819170000 +0000" stop="20260819173000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">The Story of Auxerre Transmission for French Football 2026, /n/</title>
-  </programme>
-  <programme start="20260819173000 +0000" stop="20260819181500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">The story of Lyon transfer for French football 2026, /n/</title>
-  </programme>
   <programme start="20260820043000 +0000" stop="20260820061500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">English Premier League Extended Season Review 2025/2026 English Football Broadcast, /n/</title>
   </programme>
@@ -309,15 +285,6 @@
   </programme>
   <programme start="20260822184500 +0000" stop="20260822204500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Toulouse - Lyon 1st round, Football: Ligue 1 France 2026/2027_x000D_, live</title>
-  </programme>
-  <programme start="20260819170000 +0000" stop="20260819190000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Dynamo Dresden - Darmstadt 2nd round, Soccer: Second Bundesliga 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260819190000 +0000" stop="20260819210000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Hannover - Wolfsburg 2nd round, Football: Second Bundesliga 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260819210000 +0000" stop="20260820043000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Arminia Bielefeld - Energie Cottbus Round 2, Soccer: Second Bundesliga 2026/2027, /n/</title>
   </programme>
   <programme start="20260820043000 +0000" stop="20260820063000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Greuther Fürth - Nürnberg2nd round, Football: Second Bundesliga 2026/2027, /n/</title>
@@ -474,18 +441,6 @@
   <programme start="20260822221500 +0000" stop="20260822231500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Dutch Grand Prix Sprint Round 12, Formula 1 2026, /n/</title>
   </programme>
-  <programme start="20260819170000 +0000" stop="20260819190000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 1000: Cincinnati</title>
-  </programme>
-  <programme start="20260819190000 +0000" stop="20260819210000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 1000: Cincinnati</title>
-  </programme>
-  <programme start="20260819210000 +0000" stop="20260819230000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 1000: Cincinnati</title>
-  </programme>
-  <programme start="20260819230000 +0000" stop="20260820010000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, ATP 1000: Cincinnati</title>
-  </programme>
   <programme start="20260820010000 +0000" stop="20260820030000 +0000" channel="MAXSport1.bg">
     <title lang="bg">LIVE, ATP 1000: Cincinnati</title>
   </programme>
@@ -600,15 +555,6 @@
   <programme start="20260822173000 +0000" stop="20260822193000 +0000" channel="MAXSport1.bg">
     <title lang="bg">LIVE, ATP 1000 Cincinnati: First Semi-Final</title>
   </programme>
-  <programme start="20260819183000 +0000" stop="20260819200000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Nascar Cup Series: Cook Out 400, Richmond Raceway</title>
-  </programme>
-  <programme start="20260819230000 +0000" stop="20260820000000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Golf: Danish Golf Championship</title>
-  </programme>
-  <programme start="20260820000000 +0000" stop="20260820030000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">UFC 330: Islam Makhachev vs. Ian Gary</title>
-  </programme>
   <programme start="20260820030000 +0000" stop="20260820040000 +0000" channel="MAXSport2.bg">
     <title lang="bg">European Rally Championship: Czech Republic</title>
   </programme>
@@ -719,15 +665,6 @@
   </programme>
   <programme start="20260822163000 +0000" stop="20260822184500 +0000" channel="MAXSport2.bg">
     <title lang="bg">LIVE Serie A: Udinese - Como</title>
-  </programme>
-  <programme start="20260819180000 +0000" stop="20260819183000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Champions League: Round of 16 overview</title>
-  </programme>
-  <programme start="20260819183000 +0000" stop="20260819203000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Champions League: Fenerbahce - Olympique Lyonnais</title>
-  </programme>
-  <programme start="20260819223000 +0000" stop="20260820003000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Coppa Italia Frezzarossa: Pisa - Empoli</title>
   </programme>
   <programme start="20260820003000 +0000" stop="20260820023000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Coppa Italia Frecharosa: Palermo - Lecce</title>
@@ -842,27 +779,6 @@
   </programme>
   <programme start="20260822184500 +0000" stop="20260822204500 +0000" channel="MAXSport3.bg">
     <title lang="bg">LIVE Serie A: Genoa - Napoli</title>
-  </programme>
-  <programme start="20260819163000 +0000" stop="20260819183000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Deportivo La Coruña - Elche</title>
-  </programme>
-  <programme start="20260819183000 +0000" stop="20260819190000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Football</title>
-  </programme>
-  <programme start="20260819190000 +0000" stop="20260819210000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, La Liga: Atletico Madrid - Malaga</title>
-  </programme>
-  <programme start="20260819210000 +0000" stop="20260819213000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Football</title>
-  </programme>
-  <programme start="20260819213000 +0000" stop="20260819220000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">UEFA Champions League: Round of 16 overview</title>
-  </programme>
-  <programme start="20260819220000 +0000" stop="20260820000000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, Copa Libertadores: Cerro Porteño - Palmeiras</title>
-  </programme>
-  <programme start="20260820000000 +0000" stop="20260820003000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">European Rally Championship: Overview of the race in the Czech Republic</title>
   </programme>
   <programme start="20260820003000 +0000" stop="20260820023000 +0000" channel="MAXSport4.bg">
     <title lang="bg">LIVE, Copa Libertadores: Flamengo - Cruzeiro</title>
