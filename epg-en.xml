@@ -27,19 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260916175500 +0000" stop="20260916184500 +0000" channel="DiemaSport.bg">
-    <desc lang="bg">.directly.</desc>
-    <title lang="bg">efbet League football</title>
-  </programme>
-  <programme start="20260916184500 +0000" stop="20260916204500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Everton - Wolverhampton Wanderers.Round 3, Football: Carabao Cup 2026/2027, live</title>
-  </programme>
-  <programme start="20260916214500 +0000" stop="20260916224500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The home of football.11 episode, show about Bulgarian football 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260916224500 +0000" stop="20260917040000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Lokomotiv Sofia - CSKA.Round 6, Football: efbet League 2026/2027, /n/</title>
-  </programme>
   <programme start="20260917040000 +0000" stop="20260917060000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Locomotive Gorna Oryahovitsa - Nessebar.Round 9, Football: Mr.Bit Second League 2026/2027, /n/</title>
   </programme>
@@ -165,31 +152,6 @@
   </programme>
   <programme start="20260919210000 +0000" stop="20260919230000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Canada - France.5 Match, Tennis: Davis Cup 2026, Record</title>
-  </programme>
-  <programme start="20260916163000 +0000" stop="20260916170000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Premier League Stories5 Episode English Football Show 2026/2027</title>
-  </programme>
-  <programme start="20260916170000 +0000" stop="20260916173000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Breaking the Net Episode 4 English Football Show 2026/2027 /n/</title>
-  </programme>
-  <programme start="20260916173000 +0000" stop="20260916183000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">English Premier League Round 4 Episode 2026/2027 English Football Show /n/</title>
-  </programme>
-  <programme start="20260916183000 +0000" stop="20260916190000 +0000" channel="DiemaSport2.bg">
-    <desc lang="bg">directly.</desc>
-    <title lang="bg">Carabao Cup</title>
-  </programme>
-  <programme start="20260916190000 +0000" stop="20260916205500 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Manchester United - Brighton &amp; Hove Albion3rd Round, Soccer: Carabao Cup 2026/2027, Live</title>
-  </programme>
-  <programme start="20260916213000 +0000" stop="20260916220000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Premier League Stories5 Episode English Football Show 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260916220000 +0000" stop="20260917000000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Manchester United - Manchester City Round 4, Soccer: Premier League 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260917000000 +0000" stop="20260917033000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Bournemouth v Brentford Round 4, Soccer: Premier League 2026/2027, /n/</title>
   </programme>
   <programme start="20260917033000 +0000" stop="20260917053000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Peterborough United v Burnley Round 3, Football: Carabao Cup 2026/2027, /n/</title>
@@ -322,25 +284,6 @@
   </programme>
   <programme start="20260919223000 +0000" stop="20260920003000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Spain - Chile2 match , Tennis: Davis Cup 2026, record</title>
-  </programme>
-  <programme start="20260916173000 +0000" stop="20260916183000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">The Bulgarian Lion 11 episode, broadcast for Formula 2 2026, live</title>
-  </programme>
-  <programme start="20260916183000 +0000" stop="20260916190000 +0000" channel="DiemaSport3.bg">
-    <desc lang="bg">directly.</desc>
-    <title lang="bg">Carabao Cup</title>
-  </programme>
-  <programme start="20260916190000 +0000" stop="20260916205500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Coventry City - Aston Villa3rd Round, Football: Carabao Cup 2026/2027, live</title>
-  </programme>
-  <programme start="20260916213000 +0000" stop="20260916223000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Bundesliga Talk Show Episode 4 German Football Show 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260916223000 +0000" stop="20260916233000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">The Bulgarian Lion Episode 11, Formula 2 2026 Broadcast, /n/</title>
-  </programme>
-  <programme start="20260916233000 +0000" stop="20260917041500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Elversberg - Bayern Munich Round 3, Football: Bundesliga 2026/2027, /n/</title>
   </programme>
   <programme start="20260917041500 +0000" stop="20260917050000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Practice for the Spanish Grand Prix Round 11, Formula 2 2026, /n/</title>
@@ -502,21 +445,6 @@
   <programme start="20260919224500 +0000" stop="20260920004500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Czech Republic - USA4 match, Tennis: Davis Cup 2026, record</title>
   </programme>
-  <programme start="20260916163000 +0000" stop="20260916170000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Rosa Challenge Tour: Tournament Overview</title>
-  </programme>
-  <programme start="20260916170000 +0000" stop="20260916190000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, Volleyball: European Championship: France - Romania</title>
-  </programme>
-  <programme start="20260916190000 +0000" stop="20260916210000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">LIVE, Volleyball: European Championship: Czech Republic - Slovenia</title>
-  </programme>
-  <programme start="20260916210000 +0000" stop="20260917000000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Nascar Cup Series: Enjoy Illinois 300, World Wide Technology Raceway</title>
-  </programme>
-  <programme start="20260917000000 +0000" stop="20260917003000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">Nascar Cup Series: Enjoy Illinois 300, World Wide Technology Raceway</title>
-  </programme>
   <programme start="20260917003000 +0000" stop="20260917013000 +0000" channel="MAXSport1.bg">
     <title lang="bg">A contested ball</title>
   </programme>
@@ -615,18 +543,6 @@
   </programme>
   <programme start="20260919193000 +0000" stop="20260919200000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Nascar Cup Series: Enjoy Illinois 300, World Wide Technology Raceway</title>
-  </programme>
-  <programme start="20260916164500 +0000" stop="20260916190000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">MotoGP: San Marino Grand Prix Race</title>
-  </programme>
-  <programme start="20260916190000 +0000" stop="20260916210000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, UEFA Europa League: Olympiakos - Jagiellonia</title>
-  </programme>
-  <programme start="20260916210000 +0000" stop="20260917000000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">WA Ultimate Championship 2026: Tournament in Budapest</title>
-  </programme>
-  <programme start="20260917000000 +0000" stop="20260917030000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Supercars 2026: Race in Adelaide</title>
   </programme>
   <programme start="20260917030000 +0000" stop="20260917040000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Supercars 2026: Race in Adelaide</title>
@@ -772,21 +688,6 @@
   <programme start="20260919191500 +0000" stop="20260919201500 +0000" channel="MAXSport2.bg">
     <title lang="bg">Speed ​​of Max</title>
   </programme>
-  <programme start="20260916164500 +0000" stop="20260916190000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">LIVE, UEFA Europa League: Ararat-Armenia - Sparta Prague</title>
-  </programme>
-  <programme start="20260916190000 +0000" stop="20260916210000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">LIVE UEFA Europa League: Sunderland v AZ Alkmaar</title>
-  </programme>
-  <programme start="20260916210000 +0000" stop="20260916213000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Champions League</title>
-  </programme>
-  <programme start="20260916213000 +0000" stop="20260916223000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">LIVE UEFA Europa League: Round of 16 overview</title>
-  </programme>
-  <programme start="20260916223000 +0000" stop="20260917003000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Europa League: Olympiakos - Jagiellonia</title>
-  </programme>
   <programme start="20260917003000 +0000" stop="20260917023000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Serie A: Torino - Roma</title>
   </programme>
@@ -919,24 +820,6 @@
   </programme>
   <programme start="20260919184500 +0000" stop="20260919204500 +0000" channel="MAXSport3.bg">
     <title lang="bg">LIVE, Serie A: Venezia - Lazio</title>
-  </programme>
-  <programme start="20260916163000 +0000" stop="20260916170000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Football</title>
-  </programme>
-  <programme start="20260916170000 +0000" stop="20260916190000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, La Liga: Atletico Madrid - Osasuna</title>
-  </programme>
-  <programme start="20260916190000 +0000" stop="20260916193000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Football</title>
-  </programme>
-  <programme start="20260916213000 +0000" stop="20260916220000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Football</title>
-  </programme>
-  <programme start="20260916220000 +0000" stop="20260917000000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">LIVE, Copa Libertadores: Liga de Quito - Palmeiras</title>
-  </programme>
-  <programme start="20260917000000 +0000" stop="20260917020000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">Saudi Professional League: Al Taawon - Al Hilal</title>
   </programme>
   <programme start="20260917020000 +0000" stop="20260917040000 +0000" channel="MAXSport4.bg">
     <title lang="bg">La Liga: Atletico Madrid - Osasuna</title>
