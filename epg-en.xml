@@ -27,22 +27,6 @@
     <display-name>BG - MAX Sport 4</display-name>
     <icon src="https://iptv-epg.org/images/eU1-kZdfoDYk-SLzrCkjbODGzJ_M_X5YS4r8nhuxUgrSJwmcisKDT2X9Ku9iqU-EuV6TqCf9_j56FBMuJoTEcneJ42zG_7j7Q-sSeltuQHRKkD9l" />
   </channel>
-  <programme start="20260930175500 +0000" stop="20260930183000 +0000" channel="DiemaSport.bg">
-    <desc lang="bg">.directly.</desc>
-    <title lang="bg">Football</title>
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930193000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The home of football.Episode 13, show about Bulgarian football 2026/2027, live</title>
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930203000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Second Professional League: Round Overview.11 episode, show about Bulgarian football 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260930223000 +0000" stop="20260930233000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">The home of football.13 episode, show about Bulgarian football 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260930233000 +0000" stop="20261001053000 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Program pause.</title>
-  </programme>
   <programme start="20261001053000 +0000" stop="20261001060000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Fifth quarter.2 episode Spanish basketball overview 2026/2027, /n/</title>
   </programme>
@@ -62,7 +46,7 @@
     <title lang="bg">Georgia - Northern Ireland.Round 1, Soccer: UEFA Nations League 2026/2027, /n/</title>
   </programme>
   <programme start="20261001160000 +0000" stop="20261001175500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Hungary - Ukraine.Episode 12, Soccer: UEFA Nations League 2026/2027, /n/</title>
+    <title lang="bg">Hungary - Ukraine.Episode 12, Football: UEFA Nations League 2026/2027, /n/</title>
   </programme>
   <programme start="20261001175500 +0000" stop="20261001180000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Sports news.</title>
@@ -75,7 +59,7 @@
     <title lang="bg">Wales - Norway.Episode 53 Football: UEFA Nations League 2026/2027 Live</title>
   </programme>
   <programme start="20261001211500 +0000" stop="20261001231500 +0000" channel="DiemaSport.bg">
-    <title lang="bg">Malta - Gibraltar.Round 3, Football: UEFA Nations League 2026/2027, Record</title>
+    <title lang="bg">Malta - Gibraltar.Round 3, Football: UEFA Nations League 2026/2027, entry</title>
   </programme>
   <programme start="20261001231500 +0000" stop="20261002053000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Erotic Telemarket.</title>
@@ -150,24 +134,6 @@
   <programme start="20261003170000 +0000" stop="20261003200000 +0000" channel="DiemaSport.bg">
     <title lang="bg">Elite Fighting Arena 2. Fighting event from Sofia, live</title>
   </programme>
-  <programme start="20260930163000 +0000" stop="20260930170000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Premier League Stories Episode 7 English Football Show 2026/2027</title>
-  </programme>
-  <programme start="20260930170000 +0000" stop="20260930190000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Czech Republic - England2nd round, Soccer: UEFA Nations League 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930210000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Turkey - Italy2nd round, Football: UEFA Nations League 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930213000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Premier League Stories7 Episode English Football Show 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260930213000 +0000" stop="20260930233000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Sweden - Poland2nd round, Football: UEFA Nations League 2026/2027, /n/</title>
-  </programme>
-  <programme start="20260930233000 +0000" stop="20261001050000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Romania - Bosnia and Herzegovina2nd round, Soccer: UEFA Nations League 2026/2027, /n/</title>
-  </programme>
   <programme start="20261001050000 +0000" stop="20261001070000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Germany - Greece2nd round, Football: UEFA Nations League 2026/2027, /n/</title>
   </programme>
@@ -203,7 +169,7 @@
     <title lang="bg">Romania - Bosnia and Herzegovina2nd round, Soccer: UEFA Nations League 2026/2027, /n/</title>
   </programme>
   <programme start="20261002063000 +0000" stop="20261002070000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Diary UEFA Nations League 7 episode European Football 2026/2027 show, /n/</title>
+    <title lang="bg">Diary UEFA Nations League7 Episode European Football 2026/2027 show, /n/</title>
   </programme>
   <programme start="20261002070000 +0000" stop="20261002090000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Wales - Norway Round 3, Soccer: UEFA Nations League 2026/2027, /n/</title>
@@ -238,22 +204,22 @@
     <title lang="bg">Ukraine - Northern Ireland Round 3, Soccer: UEFA Nations League 2026/2027, Record</title>
   </programme>
   <programme start="20261002231500 +0000" stop="20261003043000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Finland - Belarus2nd round, Football: UEFA Nations League 2026/2027, /n/</title>
+    <title lang="bg">Finland - Belarus2nd round, Soccer: UEFA Nations League 2026/2027, /n/</title>
   </programme>
   <programme start="20261003043000 +0000" stop="20261003063000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Latvia - Montenegro3rd round, Soccer: UEFA Nations League 2026/2027, /n/</title>
+    <title lang="bg">Latvia - Montenegro3rd round, Football: UEFA Nations League 2026/2027, /n/</title>
   </programme>
   <programme start="20261003063000 +0000" stop="20261003070000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Diary UEFA Nations League8 Episode European Football 2026/2027 Show, /n/</title>
   </programme>
   <programme start="20261003070000 +0000" stop="20261003090000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Ukraine - Northern Ireland3rd round, Soccer: UEFA Nations League 2026/2027, /n/</title>
+    <title lang="bg">Ukraine - Northern Ireland3rd round, Football: UEFA Nations League 2026/2027, /n/</title>
   </programme>
   <programme start="20261003090000 +0000" stop="20261003110000 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Poland - Romania3rd round, Football: UEFA Nations League 2026/2027, /n/</title>
   </programme>
   <programme start="20261003110000 +0000" stop="20261003130000 +0000" channel="DiemaSport2.bg">
-    <title lang="bg">Bosnia Herzegovina - Sweden Round 3, Football: UEFA Nations League 2026/2027, /n/</title>
+    <title lang="bg">Bosnia Herzegovina - Sweden Round 3, Soccer: UEFA Nations League 2026/2027, /n/</title>
   </programme>
   <programme start="20261003130000 +0000" stop="20261003145500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Belgium - Turkey3rd round, Football: UEFA Nations League 2026/2027, /n/</title>
@@ -274,21 +240,6 @@
   </programme>
   <programme start="20261003211500 +0000" stop="20261003231500 +0000" channel="DiemaSport2.bg">
     <title lang="bg">Hoventut - Andorra2nd round, Basketball: Liga Endesa 2026/2027, record</title>
-  </programme>
-  <programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">UEFA Nations League Round 2 Episode 2 European Football 2026/2027 Show</title>
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930190000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">The Bulgarian Lion 12 episode, Broadcast for Formula 2 2026</title>
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Confidential from Formula 117 episode, Formula 1 2026 broadcast</title>
-  </programme>
-  <programme start="20260930213000 +0000" stop="20260930223000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">The Bulgarian Lion 12 episode, Broadcast for Formula 2 2026, /n/</title>
-  </programme>
-  <programme start="20260930223000 +0000" stop="20261001003000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Georgia - Ukraine2nd round, Soccer: UEFA Nations League 2026/2027, /n/</title>
   </programme>
   <programme start="20261001003000 +0000" stop="20261001040000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">UEFA Nations League Round 2 Episode 2, European Football 2026/2027 broadcast, /n/</title>
@@ -355,7 +306,7 @@
     <title lang="bg">Formula 1 Talk Show 26 episode, show about Formula 1 2026, /n/</title>
   </programme>
   <programme start="20261002080000 +0000" stop="20261002090000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Second practice for the Bahrain Grand Prix Round 16 Formula 1 2026 live</title>
+    <title lang="bg">Bahrain Grand Prix Second Practice Round 16 Formula 1 2026 Live</title>
   </programme>
   <programme start="20261002090000 +0000" stop="20261002110000 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Denmark - Portugal3rd round, Soccer: UEFA Nations League 2026/2027, /n/</title>
@@ -424,29 +375,17 @@
     <title lang="bg">UEFA Nations League</title>
   </programme>
   <programme start="20261003160000 +0000" stop="20261003175500 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Croatia v England Round 3, Soccer: UEFA Nations League 2026/2027, live</title>
+    <title lang="bg">Croatia v England Round 3, Football: UEFA Nations League 2026/2027, live</title>
   </programme>
   <programme start="20261003175500 +0000" stop="20261003184500 +0000" channel="DiemaSport3.bg">
     <desc lang="bg">directly.</desc>
     <title lang="bg">UEFA Nations League</title>
   </programme>
   <programme start="20261003184500 +0000" stop="20261003204000 +0000" channel="DiemaSport3.bg">
-    <title lang="bg">Spain - Czech Republic3rd round, Football: UEFA Nations League 2026/2027, live</title>
+    <title lang="bg">Spain - Czech Republic Round 3, Football: UEFA Nations League 2026/2027, live</title>
   </programme>
   <programme start="20261003211500 +0000" stop="20261003214500 +0000" channel="DiemaSport3.bg">
     <title lang="bg">Diary UEFA Nations League 9 Episode European Football 2026/2027 broadcast</title>
-  </programme>
-  <programme start="20260930170000 +0000" stop="20260930190000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 500: Beijing</title>
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930210000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 500: Beijing</title>
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930230000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 500: Beijing</title>
-  </programme>
-  <programme start="20260930230000 +0000" stop="20261001010000 +0000" channel="MAXSport1.bg">
-    <title lang="bg">ATP 500: Beijing</title>
   </programme>
   <programme start="20261001010000 +0000" stop="20261001030000 +0000" channel="MAXSport1.bg">
     <title lang="bg">ATP 500: Beijing</title>
@@ -547,15 +486,6 @@
   <programme start="20261003170000 +0000" stop="20261003190000 +0000" channel="MAXSport1.bg">
     <title lang="bg">Euroleague: Bologna - Olympiakos</title>
   </programme>
-  <programme start="20260930163000 +0000" stop="20260930183000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">LIVE, Eurocup: PAOK - Manresa</title>
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930203000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">Euroleague: Zalgiris - Olympiakos</title>
-  </programme>
-  <programme start="20260930223000 +0000" stop="20261001013000 +0000" channel="MAXSport2.bg">
-    <title lang="bg">UFC Fight Night: Rosas Jr. vs. Barcelos</title>
-  </programme>
   <programme start="20261001013000 +0000" stop="20261001043000 +0000" channel="MAXSport2.bg">
     <title lang="bg">Nascar Cup Series: Hollywood Casino 400, Kansas Speedway</title>
   </programme>
@@ -654,18 +584,6 @@
   </programme>
   <programme start="20261003160000 +0000" stop="20261003190000 +0000" channel="MAXSport2.bg">
     <title lang="bg">NFL: Tampa Bay Buccaneers - Minnesota Vikings</title>
-  </programme>
-  <programme start="20260930170000 +0000" stop="20260930190000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">UEFA Champions League: Real Madrid - Inter</title>
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930200000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">Calcio mania</title>
-  </programme>
-  <programme start="20260930220000 +0000" stop="20261001000000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">ATP 500: Tokyo</title>
-  </programme>
-  <programme start="20261001000000 +0000" stop="20261001020000 +0000" channel="MAXSport3.bg">
-    <title lang="bg">ATP 500: Tokyo</title>
   </programme>
   <programme start="20261001020000 +0000" stop="20261001040000 +0000" channel="MAXSport3.bg">
     <title lang="bg">LIVE, ATP 500: Tokyo</title>
@@ -774,18 +692,6 @@
   </programme>
   <programme start="20261003173000 +0000" stop="20261003203000 +0000" channel="MAXSport3.bg">
     <title lang="bg">Golf: Alfred Dunhill Links Championship</title>
-  </programme>
-  <programme start="20260930170000 +0000" stop="20260930190000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">UEFA Nations League: Bulgaria - Estonia</title>
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930210000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Betis - Real Sociedad</title>
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930230000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Athletic Bilbao - Sevilla</title>
-  </programme>
-  <programme start="20260930230000 +0000" stop="20261001010000 +0000" channel="MAXSport4.bg">
-    <title lang="bg">La Liga: Espanyol - Real Madrid</title>
   </programme>
   <programme start="20261001010000 +0000" stop="20261001030000 +0000" channel="MAXSport4.bg">
     <title lang="bg">La Liga: Atletico Madrid - Villarreal</title>
